@@ -111,3 +111,15 @@ https://ranapkx.site/RANAPK33k/TVD/play.php?id=734154&e=.m3u8
 #EXTVLCOPT:meta-title=Karavali - 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 http://vodserver01.cdn55.me/5e9ab44576c098e343ec1b5f32a05fee3e0e649af67dc64ac2ba6d98fb54996cd1e6e4f621d917f2fe0293cc1000ea68e9e8be6976/playlist.m3u8?token=f7143982a28914aee41066b428841e71&vtt_mode=standard
+#EXTINF:7202 group-title="Kannada",Lo Naveena
+#EXTVLCOPT:meta-title=Lo Naveena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+http://vodserver01.cdn55.me/5e9ab44576c098e343ec637b33a55fea3a1d6b97b161c448c6a27299f35cd932a8d4e3dc2db354caf80ce2d64b47ef/playlist.m3u8?token=a8e8a4a2cf1a9f162e3823cb3c8f43cc&vtt_mode=standard
+#EXTINF:7202 group-title="Kannada",Devil
+#EXTVLCOPT:meta-title=Devil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+http://vodserver01.cdn55.me/5e9ab44576c098e343ec7b7c78c57af9291169d8ad63c64fdebd7391fb1c874b9ad3c9d047f0498ef47092d44a41/playlist.m3u8?token=9b8bae6577aee0fd63614fa20639db50&vtt_mode=standard
+#EXTINF:7202 group-title="Kannada",Rani
+#EXTVLCOPT:meta-title=Rani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+http://vodserver01.cdn55.me/5e9ab44576c098e343ec626633b95ff2365637c6ad66da4bc0b473d9e53bcc7eb7f5aff919a901fef80291d3/playlist.m3u8?token=c1fbdaa3800e6e22c242b8a7dddc7ddf&vtt_mode=standard
