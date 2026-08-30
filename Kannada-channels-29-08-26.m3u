@@ -123,3 +123,27 @@ http://vodserver01.cdn55.me/5e9ab44576c098e343ec7b7c78c57af9291169d8ad63c64fdebd
 #EXTVLCOPT:meta-title=Rani
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 http://vodserver01.cdn55.me/5e9ab44576c098e343ec626633b95ff2365637c6ad66da4bc0b473d9e53bcc7eb7f5aff919a901fef80291d3/playlist.m3u8?token=c1fbdaa3800e6e22c242b8a7dddc7ddf&vtt_mode=standard
+#EXTINF:7202 group-title="Kannada",Birathi Ranagal
+#EXTVLCOPT:meta-title=Birathi Ranagal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+http://vodserver01.cdn55.me/5e9ab44576c098e343ec6d7c7c824cfd2b106cd8cd329a1b97ed2f87f95c9b28d180b1ac59ed17eda956eea6531dae649598bc687042/playlist.m3u8?token=294802ab7efbee92bf897621de074dc1&vtt_mode=standard
+#EXTINF:7202 group-title="Kannada",Rippan Swamy
+#EXTVLCOPT:meta-title=Rippan Swamy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+http://vodserver01.cdn55.me/5e9ab44576c098e343ec7d7d6d9b5ff2712b7297f22ada48c0be7687fa5c912c8f9fd6f10bd57d94a14492da3944e8679c/playlist.m3u8?token=d8fc9b2dbd10c63e16685715d01a64dc&vtt_mode=standard
+#EXTINF:7202 group-title="Kannada",Ekka
+#EXTVLCOPT:meta-title=Ekka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+http://vodserver01.cdn55.me/5e9ab44576c098e343ec6a7f768a10ae6f4a30d8ae63cc4a80a214cca924ed3292c1b5ac2da90f8dfd/playlist.m3u8?token=75b0544c8e4577176c0f96f71ff63e4c&vtt_mode=standard
+#EXTINF:7202 group-title="Hindi",Alpha
+#EXTVLCOPT:meta-title=Alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://cdn.pongala.life/Alpha.2026.1080p.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv?token=bb868cf6d6ec4f6acd7e2e91b4dba5eb
+#EXTINF:7202 group-title="Kannada",Toxic
+#EXTVLCOPT:meta-title=Toxic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://cdn.pongala.life/TOXiC.2026.720p.V2-HDTC.Hindi-Kannada-Tamil-Telugu.LiNE.Audios.x264-HDHub4u.Ag.mkv?token=592093042f1035b903a2b30c1cb2e770
+#EXTINF:7202 group-title="Hindi",DC
+#EXTVLCOPT:meta-title=DC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://cdn.lenin.buzz/DC.2026.1080p.HEVC.V2-HDTC.Hindi-Tamil-Telugu.LiNE.x265-HDHub4u.Ag.mkv?token=eeaf2a19990c287e474ff3d6fe4d2cf0
