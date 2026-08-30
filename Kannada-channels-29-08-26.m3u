@@ -3,6 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019650.m3u8
+#EXTINF:42,┃INDIAN┃KANNADA┃ CINEMA 1 HD
+#EXTVLCOPT:meta-title=┃INDIAN┃KANNADA┃ CINEMA 1 HD
+https://ranapkx.site/RANAPK33k/TVD/play.php?id=734383
 #EXTINF:-1 tvg-id="COLORS.KANNADA.MOVIES.in" group-title="Kannada", colours cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
@@ -53,6 +56,9 @@ https://ranapkx.site/RANAPK33k/TVD/play.php?id=373074&e=.m3u8
 #EXTINF:58,IN | ZEE CINEMA [FHD]
 #EXTVLCOPT:meta-title=IN | ZEE CINEMA [FHD]
 http://5dtv.cc:8080/live/gagan/1234/206308.m3u8
+#EXTINF:51,IN: 24/7 MUSIC 03
+#EXTVLCOPT:meta-title=IN: 24/7 MUSIC 03
+http://5dtv.cc:8080/live/gagan/1234/270504.m3u8
 #EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="Hindi", Movies now Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372981&e=.m3u8
