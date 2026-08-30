@@ -50,6 +50,9 @@ https://ranapkx.site/RANAPK33k/TVD/play.php?id=671571&e=.m3u8
 #EXTINF:-1 tvg-id="SONY.MAX.in" group-title="Hindi", Sony Max Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373074&e=.m3u8
+#EXTINF:58,IN | ZEE CINEMA [FHD]
+#EXTVLCOPT:meta-title=IN | ZEE CINEMA [FHD]
+http://5dtv.cc:8080/live/gagan/1234/206308.m3u8
 #EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="Hindi", Movies now Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372981&e=.m3u8
@@ -62,6 +65,12 @@ https://ranapkx.site/RANAPK33k/TVD/play.php?id=373036&e=.m3u8
 #EXTINF:-1 tvg-id="POGO.in" group-title="Hindi", Pogo Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372993&e=.m3u8
+#EXTINF:58,24/7 KIDS | DORAEMON
+#EXTVLCOPT:meta-title=24/7 KIDS | DORAEMON
+http://5dtv.cc:8080/live/gagan/1234/388459.m3u8
+#EXTINF:60,24/7 KIDS | MOVIES
+#EXTVLCOPT:meta-title=24/7 KIDS | MOVIES
+http://5dtv.cc:8080/live/gagan/1234/362999.m3u8
 #EXTINF:-1 tvg-id="NICK.in" group-title="Hindi", Nick Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372983&e=.m3u8
@@ -89,6 +98,9 @@ https://ranapkx.site/RANAPK33k/TVD/play.php?id=373320&e=.m3u8
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" group-title="English", Star Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373304&e=.m3u8
+#EXTINF:59,STAR MOVIES (4K)
+#EXTVLCOPT:meta-title=STAR MOVIES (4K)
+http://5dtv.cc:8080/live/gagan/1234/109970.m3u8
 #EXTINF:-1 tvg-id="SONY.PIX.HD.in" group-title="English", Sony Pix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=943971&e=.m3u8
