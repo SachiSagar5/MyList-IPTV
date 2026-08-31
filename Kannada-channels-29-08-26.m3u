@@ -1,56 +1,52 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
-#EXTINF:-1 tvg-id="COLORS.KANNADA.in" group-title="Kannada", colours kannada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019650.m3u8
 #EXTINF:42,┃INDIAN┃KANNADA┃ CINEMA 1 HD
 #EXTVLCOPT:meta-title=┃INDIAN┃KANNADA┃ CINEMA 1 HD
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=734383
-#EXTINF:-1 tvg-id="COLORS.KANNADA.MOVIES.in" group-title="Kannada", colours cinema
+#EXTINF:-1 tvg-id="COLORS.KANNADA.MOVIES.in" group-title="KANNADA",COLOURS CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019651.m3u8
-#EXTINF:-1 tvg-id="STAR.SUVARNA.HD.in" group-title="Kannada", star Suvarna HD
+#EXTINF:-1 tvg-id="STAR.SUVARNA.HD.in" group-title="KANNADA",STAR SUVARNA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019685.m3u8
-#EXTINF:-1 tvg-id="UDAYA.TV.in" group-title="Kannada", Udaya
+#EXTINF:-1 tvg-id="UDAYA.TV.in" group-title="KANNADA",UDAYA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019695.m3u8
-#EXTINF:-1 tvg-id="UDAYA.HD.in" group-title="Kannada", Udaya HD
+#EXTINF:-1 tvg-id="UDAYA.HD.in" group-title="KANNADA",UDAYA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373415&e=.m3u8
-#EXTINF:-1 tvg-id="UDAYA.COMEDY.in" group-title="Kannada", Udaya comedy
+#EXTINF:-1 tvg-id="UDAYA.COMEDY.in" group-title="KANNADA",UDAYA COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019696.m3u8
-#EXTINF:-1 tvg-id="UDAYA.MOVIES.in" group-title="Kannada", Udaya Movies
+#EXTINF:-1 tvg-id="UDAYA.MOVIES.in" group-title="KANNADA",UDAYA MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/bozzop_97327.m3u8
-#EXTINF:-1 tvg-id="COLORS.SUPER.in" group-title="Kannada", colors super
+#EXTINF:-1 tvg-id="COLORS.SUPER.in" group-title="KANNADA",COLORS SUPER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/bozzop_97323.m3u8
-#EXTINF:-1 tvg-id="COLORS.KANNADA.HD.in" group-title="Kannada", colors kannada HD
+#EXTINF:-1 tvg-id="COLORS.KANNADA.HD.in" group-title="KANNADA",COLORS KANNADA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/bozzop_97322.m3u8
-#EXTINF:-1 tvg-id="ZEE.KANNADA.in" group-title="Kannada", Zee kannada
+#EXTINF:-1 tvg-id="ZEE.KANNADA.in" group-title="KANNADA",ZEE KANNADA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/bozzop_94173.m3u8
-#EXTINF:-1 tvg-id="COLORS.KANNADA.MOVIES.in" group-title="Kannada", kannada movies
+#EXTINF:-1 tvg-id="COLORS.KANNADA.MOVIES.in" group-title="KANNADA",KANNADA MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/bozzop_140986.m3u8
-#EXTINF:-1 tvg-id="ZEE.KANNADA.HD.in" group-title="Kannada", Zee kannada HD
+#EXTINF:-1 tvg-id="ZEE.KANNADA.HD.in" group-title="KANNADA",ZEE KANNADA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="ZEE.CINEMA.HD.in" group-title="Hindi", Zee Cinema Hindi HD
+#EXTINF:-1 tvg-id="ZEE.CINEMA.HD.in" group-title="HINDI",ZEE CINEMA HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=735399&e=.m3u8
-#EXTINF:-1 tvg-id="STAR.GOLD.HD.in" group-title="Hindi", Star Gold Hindi HD
+#EXTINF:-1 tvg-id="STAR.GOLD.HD.in" group-title="HINDI",STAR GOLD HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=737323&e=.m3u8
-#EXTINF:-1 tvg-id="STAR.PLUS.HD.in" group-title="Hindi", Star Plus Hindi HD
+#EXTINF:-1 tvg-id="STAR.PLUS.HD.in" group-title="HINDI",STAR PLUS HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=671571&e=.m3u8
-#EXTINF:-1 tvg-id="SONY.MAX.in" group-title="Hindi", Sony Max Hindi HD
+#EXTINF:-1 tvg-id="SONY.MAX.in" group-title="HINDI",SONY MAX HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373074&e=.m3u8
 #EXTINF:58,IN | ZEE CINEMA [FHD]
@@ -59,16 +55,16 @@ http://5dtv.cc:8080/live/gagan/1234/206308.m3u8
 #EXTINF:51,IN: 24/7 MUSIC 03
 #EXTVLCOPT:meta-title=IN: 24/7 MUSIC 03
 http://5dtv.cc:8080/live/gagan/1234/270504.m3u8
-#EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="Hindi", Movies now Hindi HD
+#EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="HINDI",MOVIES NOW HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372981&e=.m3u8
-#EXTINF:-1 tvg-id="COLORS.CINEPLEX.in" group-title="Hindi", Colors Cinema Hindi HD
+#EXTINF:-1 tvg-id="COLORS.CINEPLEX.in" group-title="HINDI",COLORS CINEMA HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=944627&e=.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY.CHANNEL.in" group-title="Hindi", Discovery Hindi HD
+#EXTINF:-1 tvg-id="DISCOVERY.CHANNEL.in" group-title="HINDI",DISCOVERY HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373036&e=.m3u8
-#EXTINF:-1 tvg-id="POGO.in" group-title="Hindi", Pogo Hindi
+#EXTINF:-1 tvg-id="POGO.in" group-title="HINDI",POGO HINDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372993&e=.m3u8
 #EXTINF:58,24/7 KIDS | DORAEMON
@@ -77,91 +73,51 @@ http://5dtv.cc:8080/live/gagan/1234/388459.m3u8
 #EXTINF:60,24/7 KIDS | MOVIES
 #EXTVLCOPT:meta-title=24/7 KIDS | MOVIES
 http://5dtv.cc:8080/live/gagan/1234/362999.m3u8
-#EXTINF:-1 tvg-id="NICK.in" group-title="Hindi", Nick Hindi HD
+#EXTINF:-1 tvg-id="NICK.in" group-title="HINDI",NICK HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372983&e=.m3u8
-#EXTINF:-1 tvg-id="DISNEY.CHANNEL.in" group-title="Hindi", Disney Kids Hindi
+#EXTINF:-1 tvg-id="DISNEY.CHANNEL.in" group-title="HINDI",DISNEY KIDS HINDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372986&e=.m3u8
-#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.HD.in" group-title="English", National Geo HD
+#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.HD.in" group-title="ENGLISH",NATIONAL GEO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373324&e=.m3u8
-#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.in" group-title="English", National wild HD
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.in" group-title="ENGLISH",NATIONAL WILD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373325&e=.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY.HD.WORLD.in" group-title="English", Discovery HD
+#EXTINF:-1 tvg-id="DISCOVERY.HD.WORLD.in" group-title="ENGLISH",DISCOVERY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373326&e=.m3u8
-#EXTINF:-1 tvg-id="ANIMAL.PLANET.HD.WORLD.in" group-title="English", Animal Planet
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.HD.WORLD.in" group-title="ENGLISH",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373327&e=.m3u8
-#EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="English", Movies Now HD
+#EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="ENGLISH",MOVIES NOW HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373328&e=.m3u8
-#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" group-title="English", Star Movies Select
+#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" group-title="ENGLISH",STAR MOVIES SELECT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373320&e=.m3u8
-#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" group-title="English", Star Movies HD
+#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" group-title="ENGLISH",STAR MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373304&e=.m3u8
 #EXTINF:59,STAR MOVIES (4K)
 #EXTVLCOPT:meta-title=STAR MOVIES (4K)
 http://5dtv.cc:8080/live/gagan/1234/109970.m3u8
-#EXTINF:-1 tvg-id="SONY.PIX.HD.in" group-title="English", Sony Pix HD
+#EXTINF:-1 tvg-id="SONY.PIX.HD.in" group-title="ENGLISH",SONY PIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=943971&e=.m3u8
-#EXTINF:-1 group-title="Tamil", Tamil Fantasy cinema HD
+#EXTINF:-1 group-title="TAMIL",TAMIL FANTASY CINEMA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=734172&e=.m3u8
-#EXTINF:-1 group-title="Tamil", Tamil cinema HD
+#EXTINF:-1 group-title="TAMIL",TAMIL CINEMA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=734182&e=.m3u8
-#EXTINF:-1 group-title="Tamil", Tamil cinema SIFI HD
+#EXTINF:-1 group-title="TAMIL",TAMIL CINEMA SIFI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=734161&e=.m3u8
-#EXTINF:-1 group-title="Tamil", Vijay Sethupathi Movies HD
+#EXTINF:-1 group-title="TAMIL",VIJAY SETHUPATHI MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=734153&e=.m3u8
-#EXTINF:-1 tvg-id="SURYA.MOVIES.in" group-title="Tamil", Surya Movies HD
+#EXTINF:-1 tvg-id="SURYA.MOVIES.in" group-title="TAMIL",SURYA MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=734154&e=.m3u8
-#EXTINF:7202 group-title="Kannada",Karavali 4K
-#EXTVLCOPT:meta-title=Karavali - 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://vodserver01.cdn55.me/5e9ab44576c098e343ec1b5f32a05fee3e0e649af67dc64ac2ba6d98fb54996cd1e6e4f621d917f2fe0293cc1000ea68e9e8be6976/playlist.m3u8?token=f7143982a28914aee41066b428841e71&vtt_mode=standard
-#EXTINF:7202 group-title="Kannada",Lo Naveena
-#EXTVLCOPT:meta-title=Lo Naveena
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://vodserver01.cdn55.me/5e9ab44576c098e343ec637b33a55fea3a1d6b97b161c448c6a27299f35cd932a8d4e3dc2db354caf80ce2d64b47ef/playlist.m3u8?token=a8e8a4a2cf1a9f162e3823cb3c8f43cc&vtt_mode=standard
-#EXTINF:7202 group-title="Kannada",Devil
-#EXTVLCOPT:meta-title=Devil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://vodserver01.cdn55.me/5e9ab44576c098e343ec7b7c78c57af9291169d8ad63c64fdebd7391fb1c874b9ad3c9d047f0498ef47092d44a41/playlist.m3u8?token=9b8bae6577aee0fd63614fa20639db50&vtt_mode=standard
-#EXTINF:7202 group-title="Kannada",Rani
-#EXTVLCOPT:meta-title=Rani
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://vodserver01.cdn55.me/5e9ab44576c098e343ec626633b95ff2365637c6ad66da4bc0b473d9e53bcc7eb7f5aff919a901fef80291d3/playlist.m3u8?token=c1fbdaa3800e6e22c242b8a7dddc7ddf&vtt_mode=standard
-#EXTINF:7202 group-title="Kannada",Birathi Ranagal
-#EXTVLCOPT:meta-title=Birathi Ranagal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://vodserver01.cdn55.me/5e9ab44576c098e343ec6d7c7c824cfd2b106cd8cd329a1b97ed2f87f95c9b28d180b1ac59ed17eda956eea6531dae649598bc687042/playlist.m3u8?token=294802ab7efbee92bf897621de074dc1&vtt_mode=standard
-#EXTINF:7202 group-title="Kannada",Rippan Swamy
-#EXTVLCOPT:meta-title=Rippan Swamy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://vodserver01.cdn55.me/5e9ab44576c098e343ec7d7d6d9b5ff2712b7297f22ada48c0be7687fa5c912c8f9fd6f10bd57d94a14492da3944e8679c/playlist.m3u8?token=d8fc9b2dbd10c63e16685715d01a64dc&vtt_mode=standard
-#EXTINF:7202 group-title="Kannada",Ekka
-#EXTVLCOPT:meta-title=Ekka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://vodserver01.cdn55.me/5e9ab44576c098e343ec6a7f768a10ae6f4a30d8ae63cc4a80a214cca924ed3292c1b5ac2da90f8dfd/playlist.m3u8?token=75b0544c8e4577176c0f96f71ff63e4c&vtt_mode=standard
-#EXTINF:7202 group-title="Hindi",Alpha
-#EXTVLCOPT:meta-title=Alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://cdn.pongala.life/Alpha.2026.1080p.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv?token=bb868cf6d6ec4f6acd7e2e91b4dba5eb
-#EXTINF:7202 group-title="Kannada",Toxic
-#EXTVLCOPT:meta-title=Toxic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://cdn.pongala.life/TOXiC.2026.720p.V2-HDTC.Hindi-Kannada-Tamil-Telugu.LiNE.Audios.x264-HDHub4u.Ag.mkv?token=592093042f1035b903a2b30c1cb2e770
-#EXTINF:7202 group-title="Hindi",DC
-#EXTVLCOPT:meta-title=DC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://cdn.lenin.buzz/DC.2026.1080p.HEVC.V2-HDTC.Hindi-Tamil-Telugu.LiNE.x265-HDHub4u.Ag.mkv?token=eeaf2a19990c287e474ff3d6fe4d2cf0
