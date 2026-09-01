@@ -40,6 +40,12 @@ https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u
 #EXTINF:-1 tvg-id="ZEE.CINEMA.HD.in" group-title="HINDI",ZEE CINEMA HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=735399&e=.m3u8
+#EXTINF:-1 tvg-id="RAJ MUSIC" group-title="KANNADA",RAJ MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_324970.m3u8
+#EXTINF:-1 tvg-id="PUBLIC MUSIC" group-title="KANNADA",PUBLIC MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_179330.m3u8
 #EXTINF:-1 tvg-id="STAR.GOLD.HD.in" group-title="HINDI",STAR GOLD HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=737323&e=.m3u8
@@ -58,6 +64,9 @@ http://5dtv.cc:8080/live/gagan/1234/270504.m3u8
 #EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="HINDI",MOVIES NOW HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=372981&e=.m3u8
+#EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="HINDI",MOVIES NOW ENGLISH HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_586771.m3u8
 #EXTINF:-1 tvg-id="COLORS.CINEPLEX.in" group-title="HINDI",COLORS CINEMA HINDI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=944627&e=.m3u8
@@ -100,6 +109,9 @@ https://ranapkx.site/RANAPK33k/TVD/play.php?id=373320&e=.m3u8
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" group-title="ENGLISH",STAR MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=373304&e=.m3u8
+#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" group-title="ENGLISH",STAR MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_586723.m3u8
 #EXTINF:59,STAR MOVIES (4K)
 #EXTVLCOPT:meta-title=STAR MOVIES (4K)
 http://5dtv.cc:8080/live/gagan/1234/109970.m3u8
@@ -121,3 +133,45 @@ https://ranapkx.site/RANAPK33k/TVD/play.php?id=734153&e=.m3u8
 #EXTINF:-1 tvg-id="SURYA.MOVIES.in" group-title="TAMIL",SURYA MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://ranapkx.site/RANAPK33k/TVD/play.php?id=734154&e=.m3u8
+#EXTINF:-1 tvg-id="KANNADA MOVIES" group-title="KANNADA",CINEMA 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_828488.m3u8
+#EXTINF:-1 tvg-id="KANNADA MOVIES" group-title="KANNADA",CINEMA 1 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_828489.m3u8
+#EXTINF:-1 tvg-id="KANNADA MOVIES" group-title="KANNADA",CINEMA 2 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_828490.m3u8
+#EXTINF:-1 tvg-id="KANNADA MOVIES" group-title="KANNADA",CINEMA 3 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_828491.m3u8
+#EXTINF:-1 tvg-id="ENGLISH MOVIES" group-title="ENGLISH",CINEMA FANTASY 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_822633.m3u8
+#EXTINF:-1 tvg-id="ENGLISH MOVIES" group-title="ENGLISH",CINEMA SIFI 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_822637.m3u8
+#EXTINF:-1 tvg-id="HINDI MOVIES" group-title="HINDI",ANIMATION CINEMA 1 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_822941.m3u8
+#EXTINF:-1 tvg-id="HINDI MOVIES" group-title="HINDI",ANIMATION CINEMA 2 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_822943.m3u8
+#EXTINF:-1 tvg-id="HINDI MOVIES" group-title="HINDI",ANIMATION CINEMA 3 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_822947.m3u8
+#EXTINF:-1 tvg-id="HINDI MOVIES" group-title="HINDI",ACTION CINEMA 1 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_822949.m3u8
+#EXTINF:-1 tvg-id="HINDI MOVIES" group-title="HINDI",ACTION CINEMA 2 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_822952.m3u8
+#EXTINF:-1 tvg-id="HINDI MOVIES" group-title="HINDI",ACTION CINEMA 3 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_822955.m3u8
+#EXTINF:-1 tvg-id="HINDI MOVIES" group-title="HINDI",ACTION CINEMA 4 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_823025.m3u8
+#EXTINF:-1 tvg-id="ENGLISH" group-title="ENGLISH",STAR SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
+https://stream.kliv.in/nex/rocktv2_179348.m3u8
