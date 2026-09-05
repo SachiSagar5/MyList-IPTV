@@ -175,3 +175,765 @@ https://stream.kliv.in/nex/rocktv2_823025.m3u8
 #EXTINF:-1 tvg-id="ENGLISH" group-title="ENGLISH",STAR SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/rocktv2_179348.m3u8
+#EXTINF:-1 tvg-id="42323" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", CineMania Kannada
+https://stream.kliv.in/nex/rocktv44_828491.m3u8
+#EXTINF:-1 tvg-id="42323" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", CineMania Kannada 111
+https://stream.kliv.in/nex/rocktv44_828489.m3u8
+#EXTINF:-1 tvg-id="42323" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", CineMania Kannada 1 FHD
+https://stream.kliv.in/nex/jiobez2s_42323.m3u8
+#EXTINF:-1 tvg-id="42330" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", CineMania Kannada 2 FHD
+https://stream.kliv.in/nex/jiobez2s_42330.m3u8
+#EXTINF:-1 tvg-id="42337" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", CineMania Kannada 3 FHD
+https://stream.kliv.in/nex/jiobez2s_42337.m3u8
+#EXTINF:-1 tvg-id="42344" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", CineMania Kannada 4 FHD
+https://stream.kliv.in/nex/jiobez2s_42344.m3u8
+#EXTINF:-1 tvg-id="32652" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR JAGGESH HD
+https://stream.kliv.in/nex/jiobez2s_32652.m3u8
+#EXTINF:-1 tvg-id="32388" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA EROSNOW CLASSIC CINEMA 1
+https://stream.kliv.in/nex/jiobez2s_32388.m3u8
+#EXTINF:-1 tvg-id="32432" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA CINEMA 1 HD
+https://stream.kliv.in/nex/jiobez2s_32432.m3u8
+#EXTINF:-1 tvg-id="32399" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA 2019-2020 CINEMA HD
+https://stream.kliv.in/nex/jiobez2s_32399.m3u8
+#EXTINF:-1 tvg-id="32410" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA CLASSIC CINEMA 2 HD
+https://stream.kliv.in/nex/jiobez2s_32410.m3u8
+#EXTINF:-1 tvg-id="32487" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA CLASSIC CINEMA 5 HD
+https://stream.kliv.in/nex/jiobez2s_32487.m3u8
+#EXTINF:-1 tvg-id="32454" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA CLASSIC CINEMA 4 HD
+https://stream.kliv.in/nex/jiobez2s_32454.m3u8
+#EXTINF:-1 tvg-id="32421" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA CLASSIC CINEMA 3 HD
+https://stream.kliv.in/nex/jiobez2s_32421.m3u8
+#EXTINF:-1 tvg-id="32465" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTION DRAMA HD
+https://stream.kliv.in/nex/jiobez2s_32465.m3u8
+#EXTINF:-1 tvg-id="32443" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTION CINEMA HD
+https://stream.kliv.in/nex/jiobez2s_32443.m3u8
+#EXTINF:-1 tvg-id="32476" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA CLASSIC CINEMA HD
+https://stream.kliv.in/nex/jiobez2s_32476.m3u8
+#EXTINF:-1 tvg-id="32509" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA KANNADA DRAMA HD
+https://stream.kliv.in/nex/jiobez2s_32509.m3u8
+#EXTINF:-1 tvg-id="32553" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ROMANCE CINEMA HD
+https://stream.kliv.in/nex/jiobez2s_32553.m3u8
+#EXTINF:-1 tvg-id="32520" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA DRAMA CINEMA HD
+https://stream.kliv.in/nex/jiobez2s_32520.m3u8
+#EXTINF:-1 tvg-id="32498" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA MIX CINEMA HD
+https://stream.kliv.in/nex/jiobez2s_32498.m3u8
+#EXTINF:-1 tvg-id="32531" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA COMEDY HD
+https://stream.kliv.in/nex/jiobez2s_32531.m3u8
+#EXTINF:-1 tvg-id="32542" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR VISHNU VARDHAN HD
+https://stream.kliv.in/nex/jiobez2s_32542.m3u8
+#EXTINF:-1 tvg-id="32575" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR SHANKAR NAG HD
+https://stream.kliv.in/nex/jiobez2s_32575.m3u8
+#EXTINF:-1 tvg-id="32564" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR RAJKUMAR HD
+https://stream.kliv.in/nex/jiobez2s_32564.m3u8
+#EXTINF:-1 tvg-id="32586" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR LOKESH HD
+https://stream.kliv.in/nex/jiobez2s_32586.m3u8
+#EXTINF:-1 tvg-id="32630" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR SUDEEPA HD
+https://stream.kliv.in/nex/jiobez2s_32630.m3u8
+#EXTINF:-1 tvg-id="32619" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR SHIVA RAJKUMAR HD
+https://stream.kliv.in/nex/jiobez2s_32619.m3u8
+#EXTINF:-1 tvg-id="32597" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR RAMESH ARAVIND HD
+https://stream.kliv.in/nex/jiobez2s_32597.m3u8
+#EXTINF:-1 tvg-id="32641" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR PUNEETH RAJKUMAR HD
+https://stream.kliv.in/nex/jiobez2s_32641.m3u8
+#EXTINF:-1 tvg-id="32608" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR PRAJWAL DEVARAJ HD
+https://stream.kliv.in/nex/jiobez2s_32608.m3u8
+#EXTINF:-1 tvg-id="7731" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",SONIC NICKLODEON IN
+https://stream.kliv.in/nex/jiobez2s_7731.m3u8
+#EXTINF:-1 tvg-id="41560" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",NATIONAL GEOGRAPHIC KAN 4K
+https://stream.kliv.in/nex/jiobez2s_41560.m3u8
+#EXTINF:-1 tvg-id="48176" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",ETV BAL BHARAT KAN 4K
+#EXTINF:-1 tvg-id="14471" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",TATA KANNADA CINEMA
+https://stream.kliv.in/nex/jiobez2s_14471.m3u8
+#EXTINF:-1 tvg-id="1733" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",STAR SUVARNA 4K
+https://stream.kliv.in/nex/jiobez2s_1733.m3u8
+#EXTINF:-1 tvg-id="1734" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",STAR SUVARNA PLUS
+https://stream.kliv.in/nex/jiobez2s_1734.m3u8
+#EXTINF:-1 tvg-id="1732" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",STAR SUVARNA US 4K
+https://stream.kliv.in/nex/jiobez2s_1732.m3u8
+#EXTINF:-1 tvg-id="8189" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",DISCOVERY WORLD 4K*
+https://stream.kliv.in/nex/jiobez2s_8189.m3u8
+#EXTINF:-1 tvg-id="8317" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/8317.png" group-title="KANNADA",STAR SPORTS KANNADA
+https://stream.kliv.in/nex/jiobez2s_8317.m3u8
+#EXTINF:-1 tvg-id="12369" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",KASTURI NEWS
+https://stream.kliv.in/nex/jiobez2s_12369.m3u8
+#EXTINF:-1 tvg-id="1737" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",KASTURI TV
+https://stream.kliv.in/nex/jiobez2s_1737.m3u8
+#EXTINF:-1 tvg-id="1730" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",UDAYA 4K
+https://stream.kliv.in/nex/jiobez2s_1730.m3u8
+#EXTINF:-1 tvg-id="1727" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",UDAYA COMEDY
+https://stream.kliv.in/nex/jiobez2s_1727.m3u8
+#EXTINF:-1 tvg-id="1741" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",UDAYA MUSIC
+https://stream.kliv.in/nex/jiobez2s_1741.m3u8
+#EXTINF:-1 tvg-id="1729" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",UDAYA MOVIES
+https://stream.kliv.in/nex/jiobez2s_1729.m3u8
+#EXTINF:-1 tvg-id="1746" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",ZEE KANNADA 4K
+https://stream.kliv.in/nex/jiobez2s_1746.m3u8
+#EXTINF:-1 tvg-id="4073" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",AASTHA KANNADA
+https://stream.kliv.in/nex/jiobez2s_4073.m3u8
+#EXTINF:-1 tvg-id="50408" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",ZEE POWER 4K
+https://stream.kliv.in/nex/jiobez2s_50408.m3u8
+#EXTINF:-1 tvg-id="50437" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",ZEE KANNADA NEWS
+https://stream.kliv.in/nex/jiobez2s_50437.m3u8
+#EXTINF:-1 tvg-id="1735" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1735.png" group-title="KANNADA",COLORS KANNADA 4K
+https://stream.kliv.in/nex/jiobez2s_1735.m3u8
+#EXTINF:-1 tvg-id="1736" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1736.png" group-title="KANNADA",COLORS KANNADA UK
+https://stream.kliv.in/nex/jiobez2s_1736.m3u8
+#EXTINF:-1 tvg-id="1742" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",COLORS KANNADA CINEMA
+https://stream.kliv.in/nex/jiobez2s_1742.m3u8
+#EXTINF:-1 tvg-id="7704" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/7704.png" group-title="KANNADA",COLORS SUPER HD
+https://stream.kliv.in/nex/jiobez2s_7704.m3u8
+#EXTINF:-1 tvg-id="25294" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/25294.png" group-title="KANNADA",COLORS KANNADA USA
+https://stream.kliv.in/nex/jiobez2s_25294.m3u8
+#EXTINF:-1 tvg-id="1748" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1748.png" group-title="KANNADA",SVBC 3 TTD
+https://stream.kliv.in/nex/jiobez2s_1748.m3u8
+#EXTINF:-1 tvg-id="1726" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",HUNGAMA SAKKAT HD
+https://stream.kliv.in/nex/jiobez2s_1726.m3u8
+#EXTINF:-1 tvg-id="1731" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",ASIANET SUVARNA NEWS
+https://stream.kliv.in/nex/jiobez2s_1731.m3u8
+#EXTINF:-1 tvg-id="1668" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",RAJ NEWS KANNADA
+https://stream.kliv.in/nex/jiobez2s_1668.m3u8
+#EXTINF:-1 tvg-id="48723" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/48723.png" group-title="KANNADA",CHINTU TV
+https://stream.kliv.in/nex/jiobez2s_48723.m3u8
+#EXTINF:-1 tvg-id="1738" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",RAJ MUSIC KANNADA
+https://stream.kliv.in/nex/jiobez2s_1738.m3u8
+#EXTINF:-1 tvg-id="1739" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",PRAAJA TV
+https://stream.kliv.in/nex/jiobez2s_1739.m3u8
+#EXTINF:-1 tvg-id="12110" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",NEWS 1ST
+https://stream.kliv.in/nex/jiobez2s_12110.m3u8
+#EXTINF:-1 tvg-id="12278" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",DANGAL KANNADA
+https://stream.kliv.in/nex/jiobez2s_12278.m3u8
+#EXTINF:-1 tvg-id="1728" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",ALL TIME
+https://stream.kliv.in/nex/jiobez2s_1728.m3u8
+#EXTINF:-1 tvg-id="1743" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",DIGHVIJAY NEWS
+https://stream.kliv.in/nex/jiobez2s_1743.m3u8
+#EXTINF:-1 tvg-id="1744" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1744.png" group-title="KANNADA",TV5 NEWS KANNADA
+https://stream.kliv.in/nex/jiobez2s_1744.m3u8
+#EXTINF:-1 tvg-id="1745" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",NEWS 18 KANNADA
+https://stream.kliv.in/nex/jiobez2s_1745.m3u8
+#EXTINF:-1 tvg-id="1747" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1747.png" group-title="KANNADA",TV9 KANNADA
+https://stream.kliv.in/nex/jiobez2s_1747.m3u8
+#EXTINF:-1 tvg-id="1749" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",PUBLIC TV
+https://stream.kliv.in/nex/jiobez2s_1749.m3u8
+#EXTINF:-1 tvg-id="1750" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",DD CHANDANA
+https://stream.kliv.in/nex/jiobez2s_1750.m3u8
+#EXTINF:-1 tvg-id="1751" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",BTV NEWS
+https://stream.kliv.in/nex/jiobez2s_1751.m3u8
+#EXTINF:-1 tvg-id="7706" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",KALKI TV
+https://stream.kliv.in/nex/jiobez2s_7706.m3u8
+#EXTINF:-1 tvg-id="7707" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",PUBLIC MUSIC
+#EXTINF:-1 tvg-id="45060" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 90's 1 FHD
+https://stream.kliv.in/nex/jiobez2s_45060.m3u8
+#EXTINF:-1 tvg-id="45053" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 90's 2 FHD
+https://stream.kliv.in/nex/jiobez2s_45053.m3u8
+#EXTINF:-1 tvg-id="45088" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 90's 3 FHD
+https://stream.kliv.in/nex/jiobez2s_45088.m3u8
+#EXTINF:-1 tvg-id="45074" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 90's 4 FHD
+https://stream.kliv.in/nex/jiobez2s_45074.m3u8
+#EXTINF:-1 tvg-id="45137" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 90's 5 FHD
+https://stream.kliv.in/nex/jiobez2s_45137.m3u8
+#EXTINF:-1 tvg-id="45067" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 1 FHD
+https://stream.kliv.in/nex/jiobez2s_45067.m3u8
+#EXTINF:-1 tvg-id="45081" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 2 FHD
+https://stream.kliv.in/nex/jiobez2s_45081.m3u8
+#EXTINF:-1 tvg-id="45109" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 3 FHD
+https://stream.kliv.in/nex/jiobez2s_45109.m3u8
+#EXTINF:-1 tvg-id="45102" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 4 FHD
+https://stream.kliv.in/nex/jiobez2s_45102.m3u8
+#EXTINF:-1 tvg-id="45095" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 5 FHD
+https://stream.kliv.in/nex/jiobez2s_45095.m3u8
+#EXTINF:-1 tvg-id="45123" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 6 FHD
+https://stream.kliv.in/nex/jiobez2s_45123.m3u8
+#EXTINF:-1 tvg-id="45116" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 7 FHD
+https://stream.kliv.in/nex/jiobez2s_45116.m3u8
+#EXTINF:-1 tvg-id="45130" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 8 FHD
+https://stream.kliv.in/nex/jiobez2s_45130.m3u8
+#EXTINF:-1 tvg-id="45158" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 9 FHD
+https://stream.kliv.in/nex/jiobez2s_45158.m3u8
+#EXTINF:-1 tvg-id="45144" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 10 FHD
+https://stream.kliv.in/nex/jiobez2s_45144.m3u8
+#EXTINF:-1 tvg-id="45151" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 11 FHD
+https://stream.kliv.in/nex/jiobez2s_45151.m3u8
+#EXTINF:-1 tvg-id="45172" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 12 FHD
+https://stream.kliv.in/nex/jiobez2s_45172.m3u8
+#EXTINF:-1 tvg-id="45165" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 13 FHD
+https://stream.kliv.in/nex/jiobez2s_45165.m3u8
+#EXTINF:-1 tvg-id="45179" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 14 FHD
+https://stream.kliv.in/nex/jiobez2s_45179.m3u8
+#EXTINF:-1 tvg-id="45186" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 15 FHD
+https://stream.kliv.in/nex/jiobez2s_45186.m3u8
+#EXTINF:-1 tvg-id="45193" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 16 FHD
+https://stream.kliv.in/nex/jiobez2s_45193.m3u8
+#EXTINF:-1 tvg-id="45256" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 17 FHD
+https://stream.kliv.in/nex/jiobez2s_45256.m3u8
+#EXTINF:-1 tvg-id="45214" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 18 FHD
+https://stream.kliv.in/nex/jiobez2s_45214.m3u8
+#EXTINF:-1 tvg-id="45200" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 19 FHD
+https://stream.kliv.in/nex/jiobez2s_45200.m3u8
+#EXTINF:-1 tvg-id="45207" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 20 FHD
+https://stream.kliv.in/nex/jiobez2s_45207.m3u8
+#EXTINF:-1 tvg-id="45221" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation Classic 1 FHD
+https://stream.kliv.in/nex/jiobez2s_45221.m3u8
+#EXTINF:-1 tvg-id="45228" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation Classic 2 FHD
+https://stream.kliv.in/nex/jiobez2s_45228.m3u8
+#EXTINF:-1 tvg-id="45235" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation Classic 3 FHD
+https://stream.kliv.in/nex/jiobez2s_45235.m3u8
+#EXTINF:-1 tvg-id="45242" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation Classic 4 FHD
+https://stream.kliv.in/nex/jiobez2s_45242.m3u8
+#EXTINF:-1 tvg-id="45249" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation Classic 5 FHD
+https://stream.kliv.in/nex/jiobez2s_45249.m3u8
+#EXTINF:-1 tvg-id="45263" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation Classic 6 FHD
+https://stream.kliv.in/nex/jiobez2s_45263.m3u8
+#EXTINF:-1 tvg-id="45270" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation Classic 7 FHD
+https://stream.kliv.in/nex/jiobez2s_45270.m3u8
+#EXTINF:-1 tvg-id="45277" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation Classic 8 FHD
+https://stream.kliv.in/nex/jiobez2s_45277.m3u8
+#EXTINF:-1 tvg-id="37239" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ADVENTURE TIME
+https://stream.kliv.in/nex/jiobez2s_37239.m3u8
+#EXTINF:-1 tvg-id="37250" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ALADDIN
+https://stream.kliv.in/nex/jiobez2s_37250.m3u8
+#EXTINF:-1 tvg-id="37261" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ALL GROWN UP
+https://stream.kliv.in/nex/jiobez2s_37261.m3u8
+#EXTINF:-1 tvg-id="37272" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ED EDD N EDDY
+https://stream.kliv.in/nex/jiobez2s_37272.m3u8
+#EXTINF:-1 tvg-id="37283" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ALL THAT
+https://stream.kliv.in/nex/jiobez2s_37283.m3u8
+#EXTINF:-1 tvg-id="37294" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ALVINN AND THE CHIPMUNKS
+https://stream.kliv.in/nex/jiobez2s_37294.m3u8
+#EXTINF:-1 tvg-id="37305" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",AMERICAN DAD
+https://stream.kliv.in/nex/jiobez2s_37305.m3u8
+#EXTINF:-1 tvg-id="37316" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ANIMANIACS
+https://stream.kliv.in/nex/jiobez2s_37316.m3u8
+#EXTINF:-1 tvg-id="37327" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",AQUA TEEN HUNGER FORCE
+https://stream.kliv.in/nex/jiobez2s_37327.m3u8
+#EXTINF:-1 tvg-id="37338" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ARCHER
+https://stream.kliv.in/nex/jiobez2s_37338.m3u8
+#EXTINF:-1 tvg-id="37349" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ARTHUR
+https://stream.kliv.in/nex/jiobez2s_37349.m3u8
+#EXTINF:-1 tvg-id="37360" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",AUSTIN AND ALLY
+https://stream.kliv.in/nex/jiobez2s_37360.m3u8
+#EXTINF:-1 tvg-id="37371" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",AVATAR THE LAST AIRBENDER
+https://stream.kliv.in/nex/jiobez2s_37371.m3u8
+#EXTINF:-1 tvg-id="37382" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BABY LOONEY TUNES
+https://stream.kliv.in/nex/jiobez2s_37382.m3u8
+#EXTINF:-1 tvg-id="37393" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BARBIE DREAMHOUSE ADVENTURES
+https://stream.kliv.in/nex/jiobez2s_37393.m3u8
+#EXTINF:-1 tvg-id="37404" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BATMAN BEYOND
+https://stream.kliv.in/nex/jiobez2s_37404.m3u8
+#EXTINF:-1 tvg-id="37415" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BATMAN THE ANIMATED SERIES
+https://stream.kliv.in/nex/jiobez2s_37415.m3u8
+#EXTINF:-1 tvg-id="37426" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BATMAN THE BRAVE AND THE BOLD
+https://stream.kliv.in/nex/jiobez2s_37426.m3u8
+#EXTINF:-1 tvg-id="37437" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BATTLEBOTS
+https://stream.kliv.in/nex/jiobez2s_37437.m3u8
+#EXTINF:-1 tvg-id="37448" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BEN 10 2016
+https://stream.kliv.in/nex/jiobez2s_37448.m3u8
+#EXTINF:-1 tvg-id="37459" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BEN 10 ALIEN FORCE
+https://stream.kliv.in/nex/jiobez2s_37459.m3u8
+#EXTINF:-1 tvg-id="37470" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BEN 10 OMNIVERSE
+https://stream.kliv.in/nex/jiobez2s_37470.m3u8
+#EXTINF:-1 tvg-id="37481" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BEN 10 ORIGINAL
+https://stream.kliv.in/nex/jiobez2s_37481.m3u8
+#EXTINF:-1 tvg-id="37492" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BEN 10 ULTIMATE ALIEN
+https://stream.kliv.in/nex/jiobez2s_37492.m3u8
+#EXTINF:-1 tvg-id="37503" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BIG CITY GREENS
+https://stream.kliv.in/nex/jiobez2s_37503.m3u8
+#EXTINF:-1 tvg-id="37514" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BLIPPI
+https://stream.kliv.in/nex/jiobez2s_37514.m3u8
+#EXTINF:-1 tvg-id="37525" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BLUES CLUES AND YOU
+https://stream.kliv.in/nex/jiobez2s_37525.m3u8
+#EXTINF:-1 tvg-id="37536" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BLUEY
+https://stream.kliv.in/nex/jiobez2s_37536.m3u8
+#EXTINF:-1 tvg-id="37547" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BOB THE BUILDER
+https://stream.kliv.in/nex/jiobez2s_37547.m3u8
+#EXTINF:-1 tvg-id="37558" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BOJACK HORSEMAN
+https://stream.kliv.in/nex/jiobez2s_37558.m3u8
+#EXTINF:-1 tvg-id="37569" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BUBBLE GUPPIES
+https://stream.kliv.in/nex/jiobez2s_37569.m3u8
+#EXTINF:-1 tvg-id="37580" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",BUNKD
+https://stream.kliv.in/nex/jiobez2s_37580.m3u8
+#EXTINF:-1 tvg-id="37591" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CARE BEARS WELCOME TO CARE O LOT
+https://stream.kliv.in/nex/jiobez2s_37591.m3u8
+#EXTINF:-1 tvg-id="37602" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CATDOG
+https://stream.kliv.in/nex/jiobez2s_37602.m3u8
+#EXTINF:-1 tvg-id="37613" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CHALLENGE OF THE GOBOTS
+https://stream.kliv.in/nex/jiobez2s_37613.m3u8
+#EXTINF:-1 tvg-id="37624" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CHUGGINGTON
+https://stream.kliv.in/nex/jiobez2s_37624.m3u8
+#EXTINF:-1 tvg-id="37635" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CLIFFORD THE BIG RED DOG
+https://stream.kliv.in/nex/jiobez2s_37635.m3u8
+#EXTINF:-1 tvg-id="37646" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CLIFFORDS PUPPY DAYS
+https://stream.kliv.in/nex/jiobez2s_37646.m3u8
+#EXTINF:-1 tvg-id="37657" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CLOUDY WITH A CHANCE OF MEATBALLS
+https://stream.kliv.in/nex/jiobez2s_37657.m3u8
+#EXTINF:-1 tvg-id="37668" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",COCOMELON 4K
+https://stream.kliv.in/nex/jiobez2s_37668.m3u8
+#EXTINF:-1 tvg-id="37679" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CURIOUS GEORGE
+https://stream.kliv.in/nex/jiobez2s_37679.m3u8
+#EXTINF:-1 tvg-id="37690" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DANGER MOUSE
+https://stream.kliv.in/nex/jiobez2s_37690.m3u8
+#EXTINF:-1 tvg-id="37701" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DANIEL TIGERS NEIGHBORHOOD
+https://stream.kliv.in/nex/jiobez2s_37701.m3u8
+#EXTINF:-1 tvg-id="37712" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DRAGON BALL KAI
+https://stream.kliv.in/nex/jiobez2s_37712.m3u8
+#EXTINF:-1 tvg-id="37723" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DINOSAURS
+https://stream.kliv.in/nex/jiobez2s_37723.m3u8
+#EXTINF:-1 tvg-id="37734" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DESPICABLE ME
+https://stream.kliv.in/nex/jiobez2s_37734.m3u8
+#EXTINF:-1 tvg-id="37745" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DISNEY LIVE ACTION ANIMATION
+https://stream.kliv.in/nex/jiobez2s_37745.m3u8
+#EXTINF:-1 tvg-id="37756" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DOC MCSTUFFINS
+https://stream.kliv.in/nex/jiobez2s_37756.m3u8
+#EXTINF:-1 tvg-id="37767" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DORA THE EXPLORER
+https://stream.kliv.in/nex/jiobez2s_37767.m3u8
+#EXTINF:-1 tvg-id="37778" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DOUG
+https://stream.kliv.in/nex/jiobez2s_37778.m3u8
+#EXTINF:-1 tvg-id="37789" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DRAGON BALL
+https://stream.kliv.in/nex/jiobez2s_37789.m3u8
+#EXTINF:-1 tvg-id="37800" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DRAGON BALL GT
+https://stream.kliv.in/nex/jiobez2s_37800.m3u8
+#EXTINF:-1 tvg-id="37811" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DRAGON BALL Z
+https://stream.kliv.in/nex/jiobez2s_37811.m3u8
+#EXTINF:-1 tvg-id="37822" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DRAGON BALL SUPER
+https://stream.kliv.in/nex/jiobez2s_37822.m3u8
+#EXTINF:-1 tvg-id="37833" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",DUCKTALES
+https://stream.kliv.in/nex/jiobez2s_37833.m3u8
+#EXTINF:-1 tvg-id="37844" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",EARTHWORM JIM
+https://stream.kliv.in/nex/jiobez2s_37844.m3u8
+#EXTINF:-1 tvg-id="37855" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",FAMILY GUY
+https://stream.kliv.in/nex/jiobez2s_37855.m3u8
+#EXTINF:-1 tvg-id="37866" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", FRAGGLE ROCK
+https://stream.kliv.in/nex/jiobez2s_37866.m3u8
+#EXTINF:-1 tvg-id="37877" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",FROSTY THE SNOWMAN
+https://stream.kliv.in/nex/jiobez2s_37877.m3u8
+#EXTINF:-1 tvg-id="37888" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",FUTURAMA
+https://stream.kliv.in/nex/jiobez2s_37888.m3u8
+#EXTINF:-1 tvg-id="37899" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",GARFIELD AND FRIENDS
+https://stream.kliv.in/nex/jiobez2s_37899.m3u8
+#EXTINF:-1 tvg-id="37910" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE GARFIELD SHOW
+https://stream.kliv.in/nex/jiobez2s_37910.m3u8
+#EXTINF:-1 tvg-id="37921" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",GHOSTBUSTERS
+https://stream.kliv.in/nex/jiobez2s_37921.m3u8
+#EXTINF:-1 tvg-id="37932" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",GHOSTWRITER
+https://stream.kliv.in/nex/jiobez2s_37932.m3u8
+#EXTINF:-1 tvg-id="37943" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",GIRLS MEETS WORLD
+https://stream.kliv.in/nex/jiobez2s_37943.m3u8
+#EXTINF:-1 tvg-id="37954" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",GO DIEGO GO
+https://stream.kliv.in/nex/jiobez2s_37954.m3u8
+#EXTINF:-1 tvg-id="37965" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",GOOF TROOP
+https://stream.kliv.in/nex/jiobez2s_37965.m3u8
+#EXTINF:-1 tvg-id="37976" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",GOOSEBUMPS
+https://stream.kliv.in/nex/jiobez2s_37976.m3u8
+#EXTINF:-1 tvg-id="37987" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",GRAVITY FALLS
+https://stream.kliv.in/nex/jiobez2s_37987.m3u8
+#EXTINF:-1 tvg-id="37998" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",HANDY MANNY
+https://stream.kliv.in/nex/jiobez2s_37998.m3u8
+#EXTINF:-1 tvg-id="38009" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",HANNAH MONTANA
+https://stream.kliv.in/nex/jiobez2s_38009.m3u8
+#EXTINF:-1 tvg-id="38020" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",HEY ARNOLD
+https://stream.kliv.in/nex/jiobez2s_38020.m3u8
+#EXTINF:-1 tvg-id="38031" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",HOT WHEELS BATTLE FORCE 5
+https://stream.kliv.in/nex/jiobez2s_38031.m3u8
+#EXTINF:-1 tvg-id="38042" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",HOTEL TRANSYLVANIA
+https://stream.kliv.in/nex/jiobez2s_38042.m3u8
+#EXTINF:-1 tvg-id="38053" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",HOW TO TRAIN YOUR DRAGON
+https://stream.kliv.in/nex/jiobez2s_38053.m3u8
+#EXTINF:-1 tvg-id="38064" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",INSPECTOR GADGET NEW
+https://stream.kliv.in/nex/jiobez2s_38064.m3u8
+#EXTINF:-1 tvg-id="38075" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",INSPECTOR GADGET OLD
+https://stream.kliv.in/nex/jiobez2s_38075.m3u8
+#EXTINF:-1 tvg-id="38086" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",INVADER ZIM
+https://stream.kliv.in/nex/jiobez2s_38086.m3u8
+#EXTINF:-1 tvg-id="38097" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",IRON MAN
+https://stream.kliv.in/nex/jiobez2s_38097.m3u8
+#EXTINF:-1 tvg-id="38108" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",JIMMY NEUTRON BOY GENIUS
+https://stream.kliv.in/nex/jiobez2s_38108.m3u8
+#EXTINF:-1 tvg-id="38119" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",JOHNY BRAVO
+https://stream.kliv.in/nex/jiobez2s_38119.m3u8
+#EXTINF:-1 tvg-id="38130" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",JOHNY CARSON
+https://stream.kliv.in/nex/jiobez2s_38130.m3u8
+#EXTINF:-1 tvg-id="38141" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",JOHNY QUEST
+https://stream.kliv.in/nex/jiobez2s_38141.m3u8
+#EXTINF:-1 tvg-id="38152" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",JUSTICE LEAGUE
+https://stream.kliv.in/nex/jiobez2s_38152.m3u8
+#EXTINF:-1 tvg-id="38163" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KENAN AND KEL
+https://stream.kliv.in/nex/jiobez2s_38163.m3u8
+#EXTINF:-1 tvg-id="38174" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KIDS BEATS
+https://stream.kliv.in/nex/jiobez2s_38174.m3u8
+#EXTINF:-1 tvg-id="38185" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KIM POSSIBLE
+https://stream.kliv.in/nex/jiobez2s_38185.m3u8
+#EXTINF:-1 tvg-id="38196" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KING OF THE HILL
+https://stream.kliv.in/nex/jiobez2s_38196.m3u8
+#EXTINF:-1 tvg-id="38207" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KNIGHT SQUAD
+https://stream.kliv.in/nex/jiobez2s_38207.m3u8
+#EXTINF:-1 tvg-id="38218" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KUNG FU PANDA LEGENDS OF AWESOMENESS
+https://stream.kliv.in/nex/jiobez2s_38218.m3u8
+#EXTINF:-1 tvg-id="38229" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KUNG FU PANDA MOVIES
+https://stream.kliv.in/nex/jiobez2s_38229.m3u8
+#EXTINF:-1 tvg-id="38240" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KUNG FU PANDA THE PAWS OF DESTINY
+https://stream.kliv.in/nex/jiobez2s_38240.m3u8
+#EXTINF:-1 tvg-id="38251" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LAB RATS
+https://stream.kliv.in/nex/jiobez2s_38251.m3u8
+#EXTINF:-1 tvg-id="38262" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LAZY TOWN
+https://stream.kliv.in/nex/jiobez2s_38262.m3u8
+#EXTINF:-1 tvg-id="38273" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LEGO NEXO KNIGHTS
+https://stream.kliv.in/nex/jiobez2s_38273.m3u8
+#EXTINF:-1 tvg-id="38284" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LEGO NINJAGO MASTERS OF SPINJITZU
+https://stream.kliv.in/nex/jiobez2s_38284.m3u8
+#EXTINF:-1 tvg-id="38295" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE LEGO MOVIES
+https://stream.kliv.in/nex/jiobez2s_38295.m3u8
+#EXTINF:-1 tvg-id="38306" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LILO AND STITCH
+https://stream.kliv.in/nex/jiobez2s_38306.m3u8
+#EXTINF:-1 tvg-id="38317" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LITTLE BEARS
+https://stream.kliv.in/nex/jiobez2s_38317.m3u8
+#EXTINF:-1 tvg-id="38328" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LITTLE EINSTEINS
+https://stream.kliv.in/nex/jiobez2s_38328.m3u8
+#EXTINF:-1 tvg-id="38339" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LITTLE PRINCESS
+https://stream.kliv.in/nex/jiobez2s_38339.m3u8
+#EXTINF:-1 tvg-id="38350" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LITTLEST PET SHOP
+https://stream.kliv.in/nex/jiobez2s_38350.m3u8
+#EXTINF:-1 tvg-id="38361" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",LOONEY TUNES
+https://stream.kliv.in/nex/jiobez2s_38361.m3u8
+#EXTINF:-1 tvg-id="38372" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MADAGASCAR
+https://stream.kliv.in/nex/jiobez2s_38372.m3u8
+#EXTINF:-1 tvg-id="38383" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MALCOLM IN THE MIDDLE
+https://stream.kliv.in/nex/jiobez2s_38383.m3u8
+#EXTINF:-1 tvg-id="38394" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MARVEL CINEMATIC UNIVERSE
+https://stream.kliv.in/nex/jiobez2s_38394.m3u8
+#EXTINF:-1 tvg-id="38405" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MARVELS AVENGERS ASSEMBLE
+https://stream.kliv.in/nex/jiobez2s_38405.m3u8
+#EXTINF:-1 tvg-id="38416" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MARVELS GUARDIANS OF THE GALAXY
+https://stream.kliv.in/nex/jiobez2s_38416.m3u8
+#EXTINF:-1 tvg-id="38427" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MARVELS HULK AND THE AGENTS OF SMASH
+https://stream.kliv.in/nex/jiobez2s_38427.m3u8
+#EXTINF:-1 tvg-id="38438" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MECH X4
+https://stream.kliv.in/nex/jiobez2s_38438.m3u8
+#EXTINF:-1 tvg-id="38449" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MICKEY MOUSE
+https://stream.kliv.in/nex/jiobez2s_38449.m3u8
+#EXTINF:-1 tvg-id="38460" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MIRACULOUS TALES OF LADYBUG AND CAT NOIR
+https://stream.kliv.in/nex/jiobez2s_38460.m3u8
+#EXTINF:-1 tvg-id="38471" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MODERN FAMILY
+https://stream.kliv.in/nex/jiobez2s_38471.m3u8
+#EXTINF:-1 tvg-id="38482" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MR BEAN ANIMATED SERIES
+https://stream.kliv.in/nex/jiobez2s_38482.m3u8
+#EXTINF:-1 tvg-id="38493" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MUPPET BABIES MOVIES
+https://stream.kliv.in/nex/jiobez2s_38493.m3u8
+#EXTINF:-1 tvg-id="38504" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MUPPET BABIES NEW
+https://stream.kliv.in/nex/jiobez2s_38504.m3u8
+#EXTINF:-1 tvg-id="38515" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",MUPPET BABIES OLD
+https://stream.kliv.in/nex/jiobez2s_38515.m3u8
+#EXTINF:-1 tvg-id="38526" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",PAC MAN
+https://stream.kliv.in/nex/jiobez2s_38526.m3u8
+#EXTINF:-1 tvg-id="38537" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",PAW PATROL
+https://stream.kliv.in/nex/jiobez2s_38537.m3u8
+#EXTINF:-1 tvg-id="38548" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",PEPPA PIG
+https://stream.kliv.in/nex/jiobez2s_38548.m3u8
+#EXTINF:-1 tvg-id="38559" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",PHINEAS AND FERB
+https://stream.kliv.in/nex/jiobez2s_38559.m3u8
+#EXTINF:-1 tvg-id="38581" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",PIXAR DISNEY
+https://stream.kliv.in/nex/jiobez2s_38581.m3u8
+#EXTINF:-1 tvg-id="38592" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",POKEMON
+https://stream.kliv.in/nex/jiobez2s_38592.m3u8
+#EXTINF:-1 tvg-id="38603" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",POLICE ACADEMY ANIMATED SERIES
+https://stream.kliv.in/nex/jiobez2s_38603.m3u8
+#EXTINF:-1 tvg-id="38614" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",POPEYE
+https://stream.kliv.in/nex/jiobez2s_38614.m3u8
+#EXTINF:-1 tvg-id="38625" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",POUND PUPPLES NEW
+https://stream.kliv.in/nex/jiobez2s_38625.m3u8
+#EXTINF:-1 tvg-id="38636" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",POUND PUPPIES OLD
+https://stream.kliv.in/nex/jiobez2s_38636.m3u8
+#EXTINF:-1 tvg-id="38647" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",REN AND STIMPY SHOW
+https://stream.kliv.in/nex/jiobez2s_38647.m3u8
+#EXTINF:-1 tvg-id="38658" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",RICK AND MORTY
+https://stream.kliv.in/nex/jiobez2s_38658.m3u8
+#EXTINF:-1 tvg-id="38669" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ROCKET TOWER
+https://stream.kliv.in/nex/jiobez2s_38669.m3u8
+#EXTINF:-1 tvg-id="38680" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",RUROUNI KENSHIN
+https://stream.kliv.in/nex/jiobez2s_38680.m3u8
+#EXTINF:-1 tvg-id="38691" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SABRINA ANIMATED SERIES
+https://stream.kliv.in/nex/jiobez2s_38691.m3u8
+#EXTINF:-1 tvg-id="38702" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SAM AND CAT
+https://stream.kliv.in/nex/jiobez2s_38702.m3u8
+#EXTINF:-1 tvg-id="38713" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SCOOBY AND SCRAPPY DOO
+https://stream.kliv.in/nex/jiobez2s_38713.m3u8
+#EXTINF:-1 tvg-id="38724" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SCOOBY DOO MYSTERY INCORPORATED
+https://stream.kliv.in/nex/jiobez2s_38724.m3u8
+#EXTINF:-1 tvg-id="38735" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SCOOBY DOO SHOW
+https://stream.kliv.in/nex/jiobez2s_38735.m3u8
+#EXTINF:-1 tvg-id="38746" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SCOOBY DOO WHERE ARE YOU
+https://stream.kliv.in/nex/jiobez2s_38746.m3u8
+#EXTINF:-1 tvg-id="38757" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SESAME STREET S35 S40
+https://stream.kliv.in/nex/jiobez2s_38757.m3u8
+#EXTINF:-1 tvg-id="38768" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SESAME STREET S41 S45
+https://stream.kliv.in/nex/jiobez2s_38768.m3u8
+#EXTINF:-1 tvg-id="38779" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SESAME STREET S46 S50
+https://stream.kliv.in/nex/jiobez2s_38779.m3u8
+#EXTINF:-1 tvg-id="38790" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SHAUN THE SHEEP
+https://stream.kliv.in/nex/jiobez2s_38790.m3u8
+#EXTINF:-1 tvg-id="38801" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SHE RA AND THE PRINCESS OF POWER 1985
+https://stream.kliv.in/nex/jiobez2s_38801.m3u8
+#EXTINF:-1 tvg-id="38812" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SHE RA AND THE PRINCESS OF POWER 2018
+https://stream.kliv.in/nex/jiobez2s_38812.m3u8
+#EXTINF:-1 tvg-id="38823" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SHREK
+https://stream.kliv.in/nex/jiobez2s_38823.m3u8
+#EXTINF:-1 tvg-id="38834" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SILVERHAWKS
+https://stream.kliv.in/nex/jiobez2s_38834.m3u8
+#EXTINF:-1 tvg-id="38845" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SMART GUY
+https://stream.kliv.in/nex/jiobez2s_38845.m3u8
+#EXTINF:-1 tvg-id="38856" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SONIC BOOM
+https://stream.kliv.in/nex/jiobez2s_38856.m3u8
+#EXTINF:-1 tvg-id="38867" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SONIC X
+https://stream.kliv.in/nex/jiobez2s_38867.m3u8
+#EXTINF:-1 tvg-id="38878" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SOUTH PARK
+https://stream.kliv.in/nex/jiobez2s_38878.m3u8
+#EXTINF:-1 tvg-id="38889" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SPECIAL AGENT OSO
+https://stream.kliv.in/nex/jiobez2s_38889.m3u8
+#EXTINF:-1 tvg-id="38900" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SPIDER MAN
+https://stream.kliv.in/nex/jiobez2s_38900.m3u8
+#EXTINF:-1 tvg-id="38911" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SPONGE BOB
+https://stream.kliv.in/nex/jiobez2s_38911.m3u8
+#EXTINF:-1 tvg-id="38922" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SPONGEBOB SQUAREPANTS
+https://stream.kliv.in/nex/jiobez2s_38922.m3u8
+#EXTINF:-1 tvg-id="38933" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",STAR WARS ORIGINAL
+https://stream.kliv.in/nex/jiobez2s_38933.m3u8
+#EXTINF:-1 tvg-id="38944" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",STAR WARS REBELS
+https://stream.kliv.in/nex/jiobez2s_38944.m3u8
+#EXTINF:-1 tvg-id="38955" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",STAR WARS RESISTANCE
+https://stream.kliv.in/nex/jiobez2s_38955.m3u8
+#EXTINF:-1 tvg-id="38966" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",STAR WARS THE CLONE WARS
+https://stream.kliv.in/nex/jiobez2s_38966.m3u8
+#EXTINF:-1 tvg-id="38977" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",STAR TREK VOYAGER
+https://stream.kliv.in/nex/jiobez2s_38977.m3u8
+#EXTINF:-1 tvg-id="38988" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",STEVEN UNIVERSE
+https://stream.kliv.in/nex/jiobez2s_38988.m3u8
+#EXTINF:-1 tvg-id="38999" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SUPER MARIO BROS SUPER SHOW
+https://stream.kliv.in/nex/jiobez2s_38999.m3u8
+#EXTINF:-1 tvg-id="39010" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",SUPER WHY
+https://stream.kliv.in/nex/jiobez2s_39010.m3u8
+#EXTINF:-1 tvg-id="39021" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TALESPIN
+https://stream.kliv.in/nex/jiobez2s_39021.m3u8
+#EXTINF:-1 tvg-id="39032" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TEAM UMIZOOMI
+https://stream.kliv.in/nex/jiobez2s_39032.m3u8
+#EXTINF:-1 tvg-id="39043" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TEEN HITS
+https://stream.kliv.in/nex/jiobez2s_39043.m3u8
+#EXTINF:-1 tvg-id="39054" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TEEN TITANS
+https://stream.kliv.in/nex/jiobez2s_39054.m3u8
+#EXTINF:-1 tvg-id="39065" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TEEN TITANS GO
+https://stream.kliv.in/nex/jiobez2s_39065.m3u8
+#EXTINF:-1 tvg-id="39076" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TEENAGE MUTANT NINJA TURTLES 1987
+https://stream.kliv.in/nex/jiobez2s_39076.m3u8
+#EXTINF:-1 tvg-id="39087" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TEENAGE MUTANT NINJA TURTLES 2003
+https://stream.kliv.in/nex/jiobez2s_39087.m3u8
+#EXTINF:-1 tvg-id="39098" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE ADVENTURES OF PUSS IN BOOTS
+https://stream.kliv.in/nex/jiobez2s_39098.m3u8
+#EXTINF:-1 tvg-id="39109" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE AMAZING SPIDER MAN
+https://stream.kliv.in/nex/jiobez2s_39109.m3u8
+#EXTINF:-1 tvg-id="39120" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE AMAZING WORLD OF GUMBALL
+https://stream.kliv.in/nex/jiobez2s_39120.m3u8
+#EXTINF:-1 tvg-id="39131" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE ANGRY BEAVERS
+https://stream.kliv.in/nex/jiobez2s_39131.m3u8
+#EXTINF:-1 tvg-id="39142" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE AVENGERS EARTHS MIGHTIEST HEROS
+https://stream.kliv.in/nex/jiobez2s_39142.m3u8
+#EXTINF:-1 tvg-id="39153" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE FAIRLY OLD PARENTS
+https://stream.kliv.in/nex/jiobez2s_39153.m3u8
+#EXTINF:-1 tvg-id="39164" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE FLINTSTONES
+https://stream.kliv.in/nex/jiobez2s_39164.m3u8
+#EXTINF:-1 tvg-id="39175" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE JETSONS
+https://stream.kliv.in/nex/jiobez2s_39175.m3u8
+#EXTINF:-1 tvg-id="39186" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE LEGEND OF KORRA
+https://stream.kliv.in/nex/jiobez2s_39186.m3u8
+#EXTINF:-1 tvg-id="39197" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE LOUD HOUSE
+https://stream.kliv.in/nex/jiobez2s_39197.m3u8
+#EXTINF:-1 tvg-id="39208" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE MAGIC SCHOOL BUS
+https://stream.kliv.in/nex/jiobez2s_39208.m3u8
+#EXTINF:-1 tvg-id="39219" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE POWERPUFF GIRLS
+https://stream.kliv.in/nex/jiobez2s_39219.m3u8
+#EXTINF:-1 tvg-id="39230" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE SIMPSONS
+https://stream.kliv.in/nex/jiobez2s_39230.m3u8
+#EXTINF:-1 tvg-id="39241" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE SMURFS
+https://stream.kliv.in/nex/jiobez2s_39241.m3u8
+#EXTINF:-1 tvg-id="39252" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE SPECTACULAR SPIDER MAN
+https://stream.kliv.in/nex/jiobez2s_39252.m3u8
+#EXTINF:-1 tvg-id="39263" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE SUPER HERO SQUAD SHOW
+https://stream.kliv.in/nex/jiobez2s_39263.m3u8
+#EXTINF:-1 tvg-id="39274" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE TRANSFORMERS
+https://stream.kliv.in/nex/jiobez2s_39274.m3u8
+#EXTINF:-1 tvg-id="39285" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE WILD THORNBERRYS
+https://stream.kliv.in/nex/jiobez2s_39285.m3u8
+#EXTINF:-1 tvg-id="39296" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THE YOGI BEAR SHOW
+https://stream.kliv.in/nex/jiobez2s_39296.m3u8
+#EXTINF:-1 tvg-id="39307" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THOMAS THE TANK ENGINE AND FRIENDS
+https://stream.kliv.in/nex/jiobez2s_39307.m3u8
+#EXTINF:-1 tvg-id="39318" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THUNDERBIRD ARE GO
+https://stream.kliv.in/nex/jiobez2s_39318.m3u8
+#EXTINF:-1 tvg-id="39329" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THUNDERBIRDS
+https://stream.kliv.in/nex/jiobez2s_39329.m3u8
+#EXTINF:-1 tvg-id="39340" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THUNDERCATS
+https://stream.kliv.in/nex/jiobez2s_39340.m3u8
+#EXTINF:-1 tvg-id="39351" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TIM AND ERICS BEDTIME STORIES
+https://stream.kliv.in/nex/jiobez2s_39351.m3u8
+#EXTINF:-1 tvg-id="39362" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TIMON AND PUMBAA
+https://stream.kliv.in/nex/jiobez2s_39362.m3u8
+#EXTINF:-1 tvg-id="39373" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TOM AND JERRY
+https://stream.kliv.in/nex/jiobez2s_39373.m3u8
+#EXTINF:-1 tvg-id="39384" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TOTS
+https://stream.kliv.in/nex/jiobez2s_39384.m3u8
+#EXTINF:-1 tvg-id="39395" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TOY STORY
+https://stream.kliv.in/nex/jiobez2s_39395.m3u8
+#EXTINF:-1 tvg-id="39406" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", TRANSFORMERS PRIME
+https://stream.kliv.in/nex/jiobez2s_39406.m3u8
+#EXTINF:-1 tvg-id="39417" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", TRANSFORMERS RESCUE BOTS
+https://stream.kliv.in/nex/jiobez2s_39417.m3u8
+#EXTINF:-1 tvg-id="39428" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", TROLLHUNTERS
+https://stream.kliv.in/nex/jiobez2s_39428.m3u8
+#EXTINF:-1 tvg-id="39439" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", TROLLS THE BEAT GOES ON
+https://stream.kliv.in/nex/jiobez2s_39439.m3u8
+#EXTINF:-1 tvg-id="39450" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", TUFF PUPPY
+https://stream.kliv.in/nex/jiobez2s_39450.m3u8
+#EXTINF:-1 tvg-id="39461" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",ULTIMATE SPIDER MAN
+https://stream.kliv.in/nex/jiobez2s_39461.m3u8
+#EXTINF:-1 tvg-id="39472" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", VEGGIE TALES IN THE HOUSE
+https://stream.kliv.in/nex/jiobez2s_39472.m3u8
+#EXTINF:-1 tvg-id="39483" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", VOLTRON LEGENDARY DENFENDER
+https://stream.kliv.in/nex/jiobez2s_39483.m3u8
+#EXTINF:-1 tvg-id="39494" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", WINNIE THE POOH
+https://stream.kliv.in/nex/jiobez2s_39494.m3u8
+#EXTINF:-1 tvg-id="39505" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", WONDER PETS
+https://stream.kliv.in/nex/jiobez2s_39505.m3u8
+#EXTINF:-1 tvg-id="39516" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",X MEN THE ANIMATED
+https://stream.kliv.in/nex/jiobez2s_39516.m3u8
+#EXTINF:-1 tvg-id="39527" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", YO GABBA GABBA
+https://stream.kliv.in/nex/jiobez2s_39527.m3u8
+#EXTINF:-1 tvg-id="39538" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", YOUNG JUSTICE
+#EXTINF:-1 tvg-id="7695" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",BABY RHYMES HD
+https://stream.kliv.in/nex/jiobez2s_7695.m3u8
+#EXTINF:-1 tvg-id="6161" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",CHILLOU 24x7
+https://stream.kliv.in/nex/jiobez2s_6161.m3u8
+#EXTINF:-1 tvg-id="1080" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",PEPPA PIG HD
+https://stream.kliv.in/nex/jiobez2s_1080.m3u8
+#EXTINF:-1 tvg-id="5998" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",NICK CA 4K cc
+https://stream.kliv.in/nex/jiobez2s_5998.m3u8
+#EXTINF:-1 tvg-id="1122" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",CARTOON NETWORK EAST 4K cc
+https://stream.kliv.in/nex/jiobez2s_1122.m3u8
+#EXTINF:-1 tvg-id="13457" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",CARTOON NETWORK WEST 4K cc
+https://stream.kliv.in/nex/jiobez2s_13457.m3u8
+#EXTINF:-1 tvg-id="1084" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",ODDBODS LIVE 2 HD
+https://stream.kliv.in/nex/jiobez2s_1084.m3u8
+#EXTINF:-1 tvg-id="1086" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",ODDBODS LIVE 3 HD
+https://stream.kliv.in/nex/jiobez2s_1086.m3u8
+#EXTINF:-1 tvg-id="1088" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",ODDBODS LIVE HD
+https://stream.kliv.in/nex/jiobez2s_1088.m3u8
+#EXTINF:-1 tvg-id="1083" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",BABY BUS 1 HD
+https://stream.kliv.in/nex/jiobez2s_1083.m3u8
+#EXTINF:-1 tvg-id="1087" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",P.J MASK LIVE HD
+https://stream.kliv.in/nex/jiobez2s_1087.m3u8
+#EXTINF:-1 tvg-id="1093" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",CHU CHU TV HD
+https://stream.kliv.in/nex/jiobez2s_1093.m3u8
+#EXTINF:-1 tvg-id="1085" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",MIKE & MIA HD
+https://stream.kliv.in/nex/jiobez2s_1085.m3u8
+#EXTINF:-1 tvg-id="1081" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",PAW PATROL HD
+https://stream.kliv.in/nex/jiobez2s_1081.m3u8
+#EXTINF:-1 tvg-id="1082" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",PAW PATROL SERIES HD
+https://stream.kliv.in/nex/jiobez2s_1082.m3u8
+#EXTINF:-1 tvg-id="14445" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",BABY TV CA 4K
+https://stream.kliv.in/nex/jiobez2s_14445.m3u8
+#EXTINF:-1 tvg-id="1091" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY CHANNEL CA 4K cc
+https://stream.kliv.in/nex/jiobez2s_1091.m3u8
+#EXTINF:-1 tvg-id="1096" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",YTV EAST 4K
+https://stream.kliv.in/nex/jiobez2s_1096.m3u8
+#EXTINF:-1 tvg-id="13401" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",YTV WEST 4K
+https://stream.kliv.in/nex/jiobez2s_13401.m3u8
+#EXTINF:-1 tvg-id="8257" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",TEEN NICK 4K
+https://stream.kliv.in/nex/jiobez2s_8257.m3u8
+#EXTINF:-1 tvg-id="7882" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",NICKELODEON USA 4K
+https://stream.kliv.in/nex/jiobez2s_7882.m3u8
+#EXTINF:-1 tvg-id="1097" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",TELETOON FHD
+https://stream.kliv.in/nex/jiobez2s_1097.m3u8
+#EXTINF:-1 tvg-id="14357" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",TELETOON WEST 4K
+https://stream.kliv.in/nex/jiobez2s_14357.m3u8
+#EXTINF:-1 tvg-id="3989" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",KNOWLEDGE NETWORK 4K
+https://stream.kliv.in/nex/jiobez2s_3989.m3u8
+#EXTINF:-1 tvg-id="3990" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",FAMILY CHRGD 4K cc
+https://stream.kliv.in/nex/jiobez2s_3990.m3u8
+#EXTINF:-1 tvg-id="1119" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",BABY FIRST TV 4K
+https://stream.kliv.in/nex/jiobez2s_1119.m3u8
+#EXTINF:-1 tvg-id="1094" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",TVO KIDS HD
+https://stream.kliv.in/nex/jiobez2s_1094.m3u8
+#EXTINF:-1 tvg-id="48720" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",KIDS TOONS ACTIVE
+https://stream.kliv.in/nex/jiobez2s_48720.m3u8
+#EXTINF:-1 tvg-id="48719" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="HINDI",KIDS RHYMES
+https://stream.kliv.in/nex/jiobez2s_48719.m3u8
+#EXTINF:-1 tvg-id="1092" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",HUNGAMA KIDS HD
+https://stream.kliv.in/nex/jiobez2s_1092.m3u8
+#EXTINF:-1 tvg-id="1090" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",MARVEL HQ
+https://stream.kliv.in/nex/jiobez2s_1090.m3u8
+#EXTINF:-1 tvg-id="7757" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",ETV BAL BHARAT INDIA 4K
+https://stream.kliv.in/nex/jiobez2s_7757.m3u8
+#EXTINF:-1 tvg-id="1089" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY INDIA
+https://stream.kliv.in/nex/jiobez2s_1089.m3u8
+#EXTINF:-1 tvg-id="1098" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",FOX BABY TV FHD
+https://stream.kliv.in/nex/jiobez2s_1098.m3u8
+#EXTINF:-1 tvg-id="1099" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY XD 4K cc
+https://stream.kliv.in/nex/jiobez2s_1099.m3u8
+#EXTINF:-1 tvg-id="1100" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY JR 4K cc
+https://stream.kliv.in/nex/jiobez2s_1100.m3u8
+#EXTINF:-1 tvg-id="1101" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",KIDS 4U SPECIAL HD
+https://stream.kliv.in/nex/jiobez2s_1101.m3u8
+#EXTINF:-1 tvg-id="1102" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",TREEHOUSE 4K cc
+https://stream.kliv.in/nex/jiobez2s_1102.m3u8
+#EXTINF:-1 tvg-id="1103" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY CHANNEL 4K
+https://stream.kliv.in/nex/jiobez2s_1103.m3u8
+#EXTINF:-1 tvg-id="1104" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",CARTOON NETWORK 4K cc
+https://stream.kliv.in/nex/jiobez2s_1104.m3u8
+#EXTINF:-1 tvg-id="1105" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",RED LITTLE CAR HD
+https://stream.kliv.in/nex/jiobez2s_1105.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY XD USA 4K
+https://stream.kliv.in/nex/jiobez2s_1106.m3u8
+#EXTINF:-1 tvg-id="1107" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",NICKLODEON 4K
+https://stream.kliv.in/nex/jiobez2s_1107.m3u8
+#EXTINF:-1 tvg-id="1109" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",NICK JR USA 4K
+https://stream.kliv.in/nex/jiobez2s_1109.m3u8
+#EXTINF:-1 tvg-id="1110" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",NICKTOONS
+https://stream.kliv.in/nex/jiobez2s_1110.m3u8
+#EXTINF:-1 tvg-id="1111" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",RTE JUNIOR
+https://stream.kliv.in/nex/jiobez2s_1111.m3u8
+#EXTINF:-1 tvg-id="1112" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",NICK JR UK HD
+https://stream.kliv.in/nex/jiobez2s_1112.m3u8
+#EXTINF:-1 tvg-id="1113" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",CARTOON NETWORK PLUS HD
+https://stream.kliv.in/nex/jiobez2s_1113.m3u8
+#EXTINF:-1 tvg-id="1114" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",NICK PLUS HD
+https://stream.kliv.in/nex/jiobez2s_1114.m3u8
+#EXTINF:-1 tvg-id="1108" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY INTERNATIONAL HD
+https://stream.kliv.in/nex/jiobez2s_1108.m3u8
+#EXTINF:-1 tvg-id="1115" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISCOVERY KIDS
+https://stream.kliv.in/nex/jiobez2s_1115.m3u8
+#EXTINF:-1 tvg-id="1116" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISCOVERY KIDS INDIA
+https://stream.kliv.in/nex/jiobez2s_1116.m3u8
+#EXTINF:-1 tvg-id="1117" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY JR USA 4K
+https://stream.kliv.in/nex/jiobez2s_1117.m3u8
+#EXTINF:-1 tvg-id="1095" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY CHANNEL INDIA 4K
+https://stream.kliv.in/nex/jiobez2s_1095.m3u8
+#EXTINF:-1 tvg-id="1118" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",SONY YAY
+https://stream.kliv.in/nex/jiobez2s_1118.m3u8
+#EXTINF:-1 tvg-id="8194" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",NICK PLUS HINDI 4K
+https://stream.kliv.in/nex/jiobez2s_8194.m3u8
+#EXTINF:-1 tvg-id="1120" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",POGO KIDS
+https://stream.kliv.in/nex/jiobez2s_1120.m3u8
+#EXTINF:-1 tvg-id="1132" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",SONIC NICKLODEON INDIA HINDI
+https://stream.kliv.in/nex/jiobez2s_1132.m3u8
+#EXTINF:-1 tvg-id="1121" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY XD PACIFIC USA 4K
+https://stream.kliv.in/nex/jiobez2s_1121.m3u8
+#EXTINF:-1 tvg-id="1123" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",BOOMERANG 4K
+https://stream.kliv.in/nex/jiobez2s_1123.m3u8
+#EXTINF:-1 tvg-id="1124" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY CHANNEL PACIFIC USA 4K
+https://stream.kliv.in/nex/jiobez2s_1124.m3u8
+#EXTINF:-1 tvg-id="1125" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",CARTONITO
+https://stream.kliv.in/nex/jiobez2s_1125.m3u8
+#EXTINF:-1 tvg-id="1126" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",NICKELODEON UK  PLUS 1
+https://stream.kliv.in/nex/jiobez2s_1126.m3u8
+#EXTINF:-1 tvg-id="1127" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",BOOMERANG  1
+https://stream.kliv.in/nex/jiobez2s_1127.m3u8
+#EXTINF:-1 tvg-id="1128" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",CARTOON NETWORK UK HD
+https://stream.kliv.in/nex/jiobez2s_1128.m3u8
+#EXTINF:-1 tvg-id="1129" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY JR PACIFIC USA 4K
+https://stream.kliv.in/nex/jiobez2s_1129.m3u8
+#EXTINF:-1 tvg-id="1130" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",BOOMERANG UK HD
