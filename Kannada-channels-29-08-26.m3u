@@ -1,23 +1,4 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
-#EXTINF:42,┃INDIAN┃KANNADA┃ CINEMA 1 HD
-#EXTVLCOPT:meta-title=┃INDIAN┃KANNADA┃ CINEMA 1 HD
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=734383
-#EXTINF:-1 tvg-id="COLORS.KANNADA.MOVIES.in" group-title="KANNADA",COLOURS CINEMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019651.m3u8
-#EXTINF:-1 tvg-id="STAR.SUVARNA.HD.in" group-title="KANNADA",STAR SUVARNA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019685.m3u8
-#EXTINF:-1 tvg-id="UDAYA.TV.in" group-title="KANNADA",UDAYA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019695.m3u8
-#EXTINF:-1 tvg-id="UDAYA.HD.in" group-title="KANNADA",UDAYA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373415&e=.m3u8
-#EXTINF:-1 tvg-id="UDAYA.COMEDY.in" group-title="KANNADA",UDAYA COMEDY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-http://flexstream.xyz/live/93HCXLH/8X53N26M24643M4/1019696.m3u8
 #EXTINF:-1 tvg-id="UDAYA.MOVIES.in" group-title="KANNADA",UDAYA MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/bozzop_97327.m3u8
@@ -37,102 +18,18 @@ https://stream.kliv.in/nex/bozzop_140986.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="ZEE.CINEMA.HD.in" group-title="HINDI",ZEE CINEMA HINDI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=735399&e=.m3u8
 #EXTINF:-1 tvg-id="RAJ MUSIC" group-title="KANNADA",RAJ MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/rocktv2_324970.m3u8
 #EXTINF:-1 tvg-id="PUBLIC MUSIC" group-title="KANNADA",PUBLIC MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/rocktv2_179330.m3u8
-#EXTINF:-1 tvg-id="STAR.GOLD.HD.in" group-title="HINDI",STAR GOLD HINDI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=737323&e=.m3u8
-#EXTINF:-1 tvg-id="STAR.PLUS.HD.in" group-title="HINDI",STAR PLUS HINDI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=671571&e=.m3u8
-#EXTINF:-1 tvg-id="SONY.MAX.in" group-title="HINDI",SONY MAX HINDI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373074&e=.m3u8
-#EXTINF:58,IN | ZEE CINEMA [FHD]
-#EXTVLCOPT:meta-title=IN | ZEE CINEMA [FHD]
-http://5dtv.cc:8080/live/gagan/1234/206308.m3u8
-#EXTINF:51,IN: 24/7 MUSIC 03
-#EXTVLCOPT:meta-title=IN: 24/7 MUSIC 03
-http://5dtv.cc:8080/live/gagan/1234/270504.m3u8
-#EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="HINDI",MOVIES NOW HINDI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=372981&e=.m3u8
 #EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="HINDI",MOVIES NOW ENGLISH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/rocktv2_586771.m3u8
-#EXTINF:-1 tvg-id="COLORS.CINEPLEX.in" group-title="HINDI",COLORS CINEMA HINDI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=944627&e=.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY.CHANNEL.in" group-title="HINDI",DISCOVERY HINDI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373036&e=.m3u8
-#EXTINF:-1 tvg-id="POGO.in" group-title="HINDI",POGO HINDI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=372993&e=.m3u8
-#EXTINF:58,24/7 KIDS | DORAEMON
-#EXTVLCOPT:meta-title=24/7 KIDS | DORAEMON
-http://5dtv.cc:8080/live/gagan/1234/388459.m3u8
-#EXTINF:60,24/7 KIDS | MOVIES
-#EXTVLCOPT:meta-title=24/7 KIDS | MOVIES
-http://5dtv.cc:8080/live/gagan/1234/362999.m3u8
-#EXTINF:-1 tvg-id="NICK.in" group-title="HINDI",NICK HINDI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=372983&e=.m3u8
-#EXTINF:-1 tvg-id="DISNEY.CHANNEL.in" group-title="HINDI",DISNEY KIDS HINDI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=372986&e=.m3u8
-#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.HD.in" group-title="ENGLISH",NATIONAL GEO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373324&e=.m3u8
-#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.in" group-title="ENGLISH",NATIONAL WILD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373325&e=.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY.HD.WORLD.in" group-title="ENGLISH",DISCOVERY HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373326&e=.m3u8
-#EXTINF:-1 tvg-id="ANIMAL.PLANET.HD.WORLD.in" group-title="ENGLISH",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373327&e=.m3u8
-#EXTINF:-1 tvg-id="MOVIES.NOW.in" group-title="ENGLISH",MOVIES NOW HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373328&e=.m3u8
-#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" group-title="ENGLISH",STAR MOVIES SELECT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373320&e=.m3u8
-#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" group-title="ENGLISH",STAR MOVIES HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373304&e=.m3u8
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" group-title="ENGLISH",STAR MOVIES 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/rocktv2_586723.m3u8
-#EXTINF:59,STAR MOVIES (4K)
-#EXTVLCOPT:meta-title=STAR MOVIES (4K)
-http://5dtv.cc:8080/live/gagan/1234/109970.m3u8
-#EXTINF:-1 tvg-id="SONY.PIX.HD.in" group-title="ENGLISH",SONY PIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=943971&e=.m3u8
-#EXTINF:-1 group-title="TAMIL",TAMIL FANTASY CINEMA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=734172&e=.m3u8
-#EXTINF:-1 group-title="TAMIL",TAMIL CINEMA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=734182&e=.m3u8
-#EXTINF:-1 group-title="TAMIL",TAMIL CINEMA SIFI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=734161&e=.m3u8
-#EXTINF:-1 group-title="TAMIL",VIJAY SETHUPATHI MOVIES HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=734153&e=.m3u8
-#EXTINF:-1 tvg-id="SURYA.MOVIES.in" group-title="TAMIL",SURYA MOVIES HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=734154&e=.m3u8
 #EXTINF:-1 tvg-id="KANNADA MOVIES" group-title="KANNADA",CINEMA 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://stream.kliv.in/nex/rocktv2_828488.m3u8
@@ -187,8 +84,6 @@ https://stream.kliv.in/nex/jiobez2s_42330.m3u8
 https://stream.kliv.in/nex/jiobez2s_42337.m3u8
 #EXTINF:-1 tvg-id="42344" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", CineMania Kannada 4 FHD
 https://stream.kliv.in/nex/jiobez2s_42344.m3u8
-#EXTINF:-1 tvg-id="32652" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR JAGGESH HD
-https://stream.kliv.in/nex/jiobez2s_32652.m3u8
 #EXTINF:-1 tvg-id="32388" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA EROSNOW CLASSIC CINEMA 1
 https://stream.kliv.in/nex/jiobez2s_32388.m3u8
 #EXTINF:-1 tvg-id="32432" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA CINEMA 1 HD
@@ -219,8 +114,6 @@ https://stream.kliv.in/nex/jiobez2s_32520.m3u8
 https://stream.kliv.in/nex/jiobez2s_32498.m3u8
 #EXTINF:-1 tvg-id="32531" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA COMEDY HD
 https://stream.kliv.in/nex/jiobez2s_32531.m3u8
-#EXTINF:-1 tvg-id="32542" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR VISHNU VARDHAN HD
-https://stream.kliv.in/nex/jiobez2s_32542.m3u8
 #EXTINF:-1 tvg-id="32575" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR SHANKAR NAG HD
 https://stream.kliv.in/nex/jiobez2s_32575.m3u8
 #EXTINF:-1 tvg-id="32564" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR RAJKUMAR HD
@@ -229,8 +122,6 @@ https://stream.kliv.in/nex/jiobez2s_32564.m3u8
 https://stream.kliv.in/nex/jiobez2s_32586.m3u8
 #EXTINF:-1 tvg-id="32630" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR SUDEEPA HD
 https://stream.kliv.in/nex/jiobez2s_32630.m3u8
-#EXTINF:-1 tvg-id="32619" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR SHIVA RAJKUMAR HD
-https://stream.kliv.in/nex/jiobez2s_32619.m3u8
 #EXTINF:-1 tvg-id="32597" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR RAMESH ARAVIND HD
 https://stream.kliv.in/nex/jiobez2s_32597.m3u8
 #EXTINF:-1 tvg-id="32641" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA", KANNADA ACTOR PUNEETH RAJKUMAR HD
@@ -242,24 +133,19 @@ https://stream.kliv.in/nex/jiobez2s_7731.m3u8
 #EXTINF:-1 tvg-id="41560" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",NATIONAL GEOGRAPHIC KAN 4K
 https://stream.kliv.in/nex/jiobez2s_41560.m3u8
 #EXTINF:-1 tvg-id="48176" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",ETV BAL BHARAT KAN 4K
+https://stream.kliv.in/nex/jiobez2s_48176.m3u8
 #EXTINF:-1 tvg-id="14471" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",TATA KANNADA CINEMA
 https://stream.kliv.in/nex/jiobez2s_14471.m3u8
 #EXTINF:-1 tvg-id="1733" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",STAR SUVARNA 4K
 https://stream.kliv.in/nex/jiobez2s_1733.m3u8
 #EXTINF:-1 tvg-id="1734" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",STAR SUVARNA PLUS
 https://stream.kliv.in/nex/jiobez2s_1734.m3u8
-#EXTINF:-1 tvg-id="1732" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",STAR SUVARNA US 4K
-https://stream.kliv.in/nex/jiobez2s_1732.m3u8
 #EXTINF:-1 tvg-id="8189" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",DISCOVERY WORLD 4K*
 https://stream.kliv.in/nex/jiobez2s_8189.m3u8
 #EXTINF:-1 tvg-id="8317" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/8317.png" group-title="KANNADA",STAR SPORTS KANNADA
 https://stream.kliv.in/nex/jiobez2s_8317.m3u8
-#EXTINF:-1 tvg-id="12369" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",KASTURI NEWS
-https://stream.kliv.in/nex/jiobez2s_12369.m3u8
 #EXTINF:-1 tvg-id="1737" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",KASTURI TV
 https://stream.kliv.in/nex/jiobez2s_1737.m3u8
-#EXTINF:-1 tvg-id="1730" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",UDAYA 4K
-https://stream.kliv.in/nex/jiobez2s_1730.m3u8
 #EXTINF:-1 tvg-id="1727" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",UDAYA COMEDY
 https://stream.kliv.in/nex/jiobez2s_1727.m3u8
 #EXTINF:-1 tvg-id="1741" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",UDAYA MUSIC
@@ -296,8 +182,6 @@ https://stream.kliv.in/nex/jiobez2s_1668.m3u8
 https://stream.kliv.in/nex/jiobez2s_48723.m3u8
 #EXTINF:-1 tvg-id="1738" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",RAJ MUSIC KANNADA
 https://stream.kliv.in/nex/jiobez2s_1738.m3u8
-#EXTINF:-1 tvg-id="1739" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",PRAAJA TV
-https://stream.kliv.in/nex/jiobez2s_1739.m3u8
 #EXTINF:-1 tvg-id="12110" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",NEWS 1ST
 https://stream.kliv.in/nex/jiobez2s_12110.m3u8
 #EXTINF:-1 tvg-id="12278" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",DANGAL KANNADA
@@ -321,6 +205,7 @@ https://stream.kliv.in/nex/jiobez2s_1751.m3u8
 #EXTINF:-1 tvg-id="7706" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",KALKI TV
 https://stream.kliv.in/nex/jiobez2s_7706.m3u8
 #EXTINF:-1 tvg-id="7707" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KANNADA",PUBLIC MUSIC
+https://stream.kliv.in/nex/jiobez2s_7707.m3u8
 #EXTINF:-1 tvg-id="45060" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 90's 1 FHD
 https://stream.kliv.in/nex/jiobez2s_45060.m3u8
 #EXTINF:-1 tvg-id="45053" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", CineMania Animation 90's 2 FHD
@@ -457,8 +342,6 @@ https://stream.kliv.in/nex/jiobez2s_37591.m3u8
 https://stream.kliv.in/nex/jiobez2s_37602.m3u8
 #EXTINF:-1 tvg-id="37613" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CHALLENGE OF THE GOBOTS
 https://stream.kliv.in/nex/jiobez2s_37613.m3u8
-#EXTINF:-1 tvg-id="37624" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CHUGGINGTON
-https://stream.kliv.in/nex/jiobez2s_37624.m3u8
 #EXTINF:-1 tvg-id="37635" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CLIFFORD THE BIG RED DOG
 https://stream.kliv.in/nex/jiobez2s_37635.m3u8
 #EXTINF:-1 tvg-id="37646" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",CLIFFORDS PUPPY DAYS
@@ -557,8 +440,6 @@ https://stream.kliv.in/nex/jiobez2s_38141.m3u8
 https://stream.kliv.in/nex/jiobez2s_38152.m3u8
 #EXTINF:-1 tvg-id="38163" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KENAN AND KEL
 https://stream.kliv.in/nex/jiobez2s_38163.m3u8
-#EXTINF:-1 tvg-id="38174" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KIDS BEATS
-https://stream.kliv.in/nex/jiobez2s_38174.m3u8
 #EXTINF:-1 tvg-id="38185" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KIM POSSIBLE
 https://stream.kliv.in/nex/jiobez2s_38185.m3u8
 #EXTINF:-1 tvg-id="38196" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",KING OF THE HILL
@@ -769,8 +650,6 @@ https://stream.kliv.in/nex/jiobez2s_39318.m3u8
 https://stream.kliv.in/nex/jiobez2s_39329.m3u8
 #EXTINF:-1 tvg-id="39340" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",THUNDERCATS
 https://stream.kliv.in/nex/jiobez2s_39340.m3u8
-#EXTINF:-1 tvg-id="39351" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TIM AND ERICS BEDTIME STORIES
-https://stream.kliv.in/nex/jiobez2s_39351.m3u8
 #EXTINF:-1 tvg-id="39362" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TIMON AND PUMBAA
 https://stream.kliv.in/nex/jiobez2s_39362.m3u8
 #EXTINF:-1 tvg-id="39373" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7",TOM AND JERRY
@@ -804,6 +683,7 @@ https://stream.kliv.in/nex/jiobez2s_39516.m3u8
 #EXTINF:-1 tvg-id="39527" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", YO GABBA GABBA
 https://stream.kliv.in/nex/jiobez2s_39527.m3u8
 #EXTINF:-1 tvg-id="39538" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS | 24/7", YOUNG JUSTICE
+https://stream.kliv.in/nex/jiobez2s_39538.m3u8
 #EXTINF:-1 tvg-id="7695" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",BABY RHYMES HD
 https://stream.kliv.in/nex/jiobez2s_7695.m3u8
 #EXTINF:-1 tvg-id="6161" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",CHILLOU 24x7
@@ -937,3 +817,1522 @@ https://stream.kliv.in/nex/jiobez2s_1128.m3u8
 #EXTINF:-1 tvg-id="1129" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",DISNEY JR PACIFIC USA 4K
 https://stream.kliv.in/nex/jiobez2s_1129.m3u8
 #EXTINF:-1 tvg-id="1130" tvg-logo="https://images5.alphacoders.com/865/thumb-1920-865013.jpg" group-title="KIDS",BOOMERANG UK HD
+https://stream.kliv.in/nex/jiobez2s_1130.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg" group-title="1▁𝐏𝐥𝐚𝐲𝐥𝐢𝐯𝐭𝐯 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰▁" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg", t.me/Playlivtvlinks
+http://playlivtv.whf.bz/playlivtv.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg" group-title="▁•☆•𝐏𝐥𝐚𝐲𝐥𝐢𝐯𝐭𝐯 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰•☆•▁" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg", t.me/Playlivtvlinks
+http://playlivtv.whf.bz/playlivtv.m3u8
+#EXTINF:-1 tvg-id="173023" tvg-logo="https://lo1.in/pk/en.png" group-title="►AS | CRICKET",#### BAB - CRICKET ####
+https://stream.kliv.in/nex/air2_173023.m3u8
+#EXTINF:-1 tvg-id="150246" tvg-logo="https://lo1.in/cricket/tensp.png" group-title="►AS | CRICKET",BAB| TEN SPORTS FHD
+https://stream.kliv.in/nex/air2_150246.m3u8
+#EXTINF:-1 tvg-id="150241" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="►AS | CRICKET",BAB| TNT SPORT 1 HD
+https://stream.kliv.in/nex/air2_150241.m3u8
+#EXTINF:-1 tvg-id="150240" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="►AS | CRICKET",BAB| TNT SPORT 2 HD
+https://stream.kliv.in/nex/air2_150240.m3u8
+#EXTINF:-1 tvg-id="150247" tvg-logo="https://lo1.in/pk/gs.png" group-title="►AS | CRICKET",BAB| GEO SUPER HD
+https://stream.kliv.in/nex/air2_150247.m3u8
+#EXTINF:-1 tvg-id="150248" tvg-logo="https://lo1.in/pk/pts.png" group-title="►AS | CRICKET",BAB| PTV SPORTS HD
+https://stream.kliv.in/nex/air2_150248.m3u8
+#EXTINF:-1 tvg-id="150242" tvg-logo="https://lo1.in/pk/sos.png" group-title="►AS | CRICKET",BAB| SONY TEN 5 FHD
+https://stream.kliv.in/nex/air2_150242.m3u8
+#EXTINF:-1 tvg-id="150245" tvg-logo="https://lo1.in/pk/son.png" group-title="►AS | CRICKET",BAB| SONY TEN 1 FHD
+https://stream.kliv.in/nex/air2_150245.m3u8
+#EXTINF:-1 tvg-id="150244" tvg-logo="https://lo1.in/pk/son1.png" group-title="►AS | CRICKET",BAB| SONY TEN 2 FHD
+https://stream.kliv.in/nex/air2_150244.m3u8
+#EXTINF:-1 tvg-id="150243" tvg-logo="https://lo1.in/pk/so.png" group-title="►AS | CRICKET",BAB| SONY TEN 3 FHD
+https://stream.kliv.in/nex/air2_150243.m3u8
+#EXTINF:-1 tvg-id="150249" tvg-logo="https://lo1.in/cricket/fxcrk.png" group-title="►AS | CRICKET",BAB| FOX CRICKET 501 HD
+https://stream.kliv.in/nex/air2_150249.m3u8
+#EXTINF:-1 tvg-id="150250" tvg-logo="https://lo1.in/uk/skyspcrk0.png" group-title="►AS | CRICKET",BAB| SKY SPORTS CRICKET FHD
+https://stream.kliv.in/nex/air2_150250.m3u8
+#EXTINF:-1 tvg-id="150251" tvg-logo="https://lo1.in/uk/skyspcrk0.png" group-title="►AS | CRICKET",BAB| SKY SPORTS CRICKET HD
+https://stream.kliv.in/nex/air2_150251.m3u8
+#EXTINF:-1 tvg-id="190846" tvg-logo="https://lo1.in/pk/asp.png" group-title="►AS | CRICKET",BAB| A SPORTS HD
+https://stream.kliv.in/nex/air2_190846.m3u8
+#EXTINF:-1 tvg-id="478096" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | CRICKET",BAB| JIO EVENTS FHD
+https://stream.kliv.in/nex/air2_478096.m3u8
+#EXTINF:-1 tvg-id="478089" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | CRICKET",BAB| SPORTS 18 FHD
+https://stream.kliv.in/nex/air2_478089.m3u8
+#EXTINF:-1 tvg-id="133655" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | HINDI",►►► HINDI| GENERAL◄◄◄
+https://stream.kliv.in/nex/air2_133655.m3u8
+#EXTINF:-1 tvg-id="197445" tvg-logo="https://lo1.in/ind/tatskydic.png" group-title="►AS | HINDI",IN| TATA SKY VEDIC MATHS 
+https://stream.kliv.in/nex/air2_197445.m3u8
+#EXTINF:-1 tvg-id="131983" tvg-logo="https://lo1.in/ind/zeet.png" group-title="►AS | HINDI",IN| ZEE TV SD
+https://stream.kliv.in/nex/air2_131983.m3u8
+#EXTINF:-1 tvg-id="96658" tvg-logo="https://lo1.in/ind/zecn1.png" group-title="►AS | HINDI",IN| ZEE CINEMA FHD
+https://stream.kliv.in/nex/air2_96658.m3u8
+#EXTINF:-1 tvg-id="97515" tvg-logo="https://lo1.in/ind/zeecl.png" group-title="►AS | HINDI",IN| ZEE CLASSIC SD
+https://stream.kliv.in/nex/air2_97515.m3u8
+#EXTINF:-1 tvg-id="33669" tvg-logo="https://lo1.in/ind/zing.png" group-title="►AS | HINDI",IN| ZING INDIA HD
+https://stream.kliv.in/nex/air2_33669.m3u8
+#EXTINF:-1 tvg-id="132006" tvg-logo="https://lo1.in/ind/strbh.png" group-title="►AS | HINDI",IN| STAR BHARAT FHD
+https://stream.kliv.in/nex/air2_132006.m3u8
+#EXTINF:-1 tvg-id="96662" tvg-logo="https://lo1.in/ind/strgld2.png" group-title="►AS | HINDI",IN| STAR GOLD FHD
+https://stream.kliv.in/nex/air2_96662.m3u8
+#EXTINF:-1 tvg-id="96661" tvg-logo="https://lo1.in/ind/strglds.png" group-title="►AS | HINDI",IN| STAR GOLD SELECT FHD
+https://stream.kliv.in/nex/air2_96661.m3u8
+#EXTINF:-1 tvg-id="97524" tvg-logo="https://lo1.in/ind/splus1.png" group-title="►AS | HINDI",IN| STAR PLUS FHD
+https://stream.kliv.in/nex/air2_97524.m3u8
+#EXTINF:-1 tvg-id="96660" tvg-logo="https://lo1.in/ind/strut.png" group-title="►AS | HINDI",IN| STAR UTSAV SD
+https://stream.kliv.in/nex/air2_96660.m3u8
+#EXTINF:-1 tvg-id="33620" tvg-logo="https://lo1.in/ind/strumv.png" group-title="►AS | HINDI",IN| STAR UTSAV MOVIES HD
+https://stream.kliv.in/nex/air2_33620.m3u8
+#EXTINF:-1 tvg-id="96666" tvg-logo="https://lo1.in/ind/sny.png" group-title="►AS | HINDI",IN| SONY FHD
+https://stream.kliv.in/nex/air2_96666.m3u8
+#EXTINF:-1 tvg-id="96664" tvg-logo="https://lo1.in/ind/snymx.png" group-title="►AS | HINDI",IN| SONY MAX FHD
+https://stream.kliv.in/nex/air2_96664.m3u8
+#EXTINF:-1 tvg-id="96663" tvg-logo="https://lo1.in/ind/snypix.png" group-title="►AS | HINDI",IN| SONY PIX FHD
+https://stream.kliv.in/nex/air2_96663.m3u8
+#EXTINF:-1 tvg-id="132007" tvg-logo="https://lo1.in/ind/snysb.png" group-title="►AS | HINDI",IN| SONY SAB HD
+https://stream.kliv.in/nex/air2_132007.m3u8
+#EXTINF:-1 tvg-id="33612" tvg-logo="https://lo1.in/ind/snypa.png" group-title="►AS | HINDI",IN| SONY PAL HD
+https://stream.kliv.in/nex/air2_33612.m3u8
+#EXTINF:-1 tvg-id="97526" tvg-logo="https://lo1.in/ind/snywh.png" group-title="►AS | HINDI",IN| SONY WAH SD
+https://stream.kliv.in/nex/air2_97526.m3u8
+#EXTINF:-1 tvg-id="33615" tvg-logo="https://lo1.in/ind/snyy.png" group-title="►AS | HINDI",IN| SONY YAY SD
+https://stream.kliv.in/nex/air2_33615.m3u8
+#EXTINF:-1 tvg-id="96675" tvg-logo="https://lo1.in/ind/b4umv.png" group-title="►AS | HINDI",IN| B4U MOVIES SD
+https://stream.kliv.in/nex/air2_96675.m3u8
+#EXTINF:-1 tvg-id="33472" tvg-logo="https://lo1.in/ind/clst.png" group-title="►AS | HINDI",IN| COLORS FHD
+https://stream.kliv.in/nex/air2_33472.m3u8
+#EXTINF:-1 tvg-id="97534" tvg-logo="https://lo1.in/ind/indt.png" group-title="►AS | HINDI",IN| INDIA TV HD
+https://stream.kliv.in/nex/air2_97534.m3u8
+#EXTINF:-1 tvg-id="131991" tvg-logo="https://lo1.in/ind/9xjlw.png" group-title="►AS | HINDI",IN| 9X JALWA HD
+https://stream.kliv.in/nex/air2_131991.m3u8
+#EXTINF:-1 tvg-id="33442" tvg-logo="https://lo1.in/ind/aaj.png" group-title="►AS | HINDI",IN| AAJ TAK HD
+https://stream.kliv.in/nex/air2_33442.m3u8
+#EXTINF:-1 tvg-id="33670" tvg-logo="https://lo1.in/ind/zom.png" group-title="►AS | HINDI",IN| ZOOM INDIA HD
+https://stream.kliv.in/nex/air2_33670.m3u8
+#EXTINF:-1 tvg-id="133488" tvg-logo="https://lo1.in/ind/aastha.png" group-title="►AS | HINDI",IN| AASTHA HD
+https://stream.kliv.in/nex/air2_133488.m3u8
+#EXTINF:-1 tvg-id="33444" tvg-logo="https://lo1.in/ind/assth.png" group-title="►AS | HINDI",IN| AASTHA BHAJAN HD
+https://stream.kliv.in/nex/air2_33444.m3u8
+#EXTINF:-1 tvg-id="97542" tvg-logo="https://lo1.in/ind/abpns.png" group-title="►AS | HINDI",IN| ABP NEWS HD
+https://stream.kliv.in/nex/air2_97542.m3u8
+#EXTINF:-1 tvg-id="97521" tvg-logo="https://lo1.in/ind/t1.png" group-title="►AS | HINDI",IN| &TV HD
+https://stream.kliv.in/nex/air2_97521.m3u8
+#EXTINF:-1 tvg-id="133486" tvg-logo="https://lo1.in/ind/arih.png" group-title="►AS | HINDI",IN| ARIHANT TV HD
+https://stream.kliv.in/nex/air2_133486.m3u8
+#EXTINF:-1 tvg-id="33455" tvg-logo="https://lo1.in/ind/bflmx.png" group-title="►AS | HINDI",IN| BFLIX MOVIES HD
+https://stream.kliv.in/nex/air2_33455.m3u8
+#EXTINF:-1 tvg-id="131989" tvg-logo="https://lo1.in/ind/zeebigmgc.png" group-title="►AS | HINDI",IN| ZEE BIG MAGIC HD
+https://stream.kliv.in/nex/air2_131989.m3u8
+#EXTINF:-1 tvg-id="33478" tvg-logo="https://lo1.in/ind/ddnat.png" group-title="►AS | HINDI",IN| DD NATIONAL HD
+https://stream.kliv.in/nex/air2_33478.m3u8
+#EXTINF:-1 tvg-id="33482" tvg-logo="https://lo1.in/ind/ddraj.png" group-title="►AS | HINDI",IN| DD RAJASTHAN HD
+https://stream.kliv.in/nex/air2_33482.m3u8
+#EXTINF:-1 tvg-id="33629" tvg-logo="https://lo1.in/ind/tarn.png" group-title="►AS | HINDI",IN| TARANG TV HD
+https://stream.kliv.in/nex/air2_33629.m3u8
+#EXTINF:-1 tvg-id="33473" tvg-logo="https://lo1.in/ind/ddbah.png" group-title="►AS | HINDI",IN| DD BHARATI HD
+https://stream.kliv.in/nex/air2_33473.m3u8
+#EXTINF:-1 tvg-id="33474" tvg-logo="https://lo1.in/ind/ddbih.png" group-title="►AS | HINDI",IN| DD BIHAR HD
+https://stream.kliv.in/nex/air2_33474.m3u8
+#EXTINF:-1 tvg-id="133485" tvg-logo="https://lo1.in/ind/dbindns.png" group-title="►AS | HINDI",IN| DD INDIA HD
+https://stream.kliv.in/nex/air2_133485.m3u8
+#EXTINF:-1 tvg-id="97536" tvg-logo="https://lo1.in/ind/ddsp.png" group-title="►AS | HINDI",IN| DD SPORTS HD
+https://stream.kliv.in/nex/air2_97536.m3u8
+#EXTINF:-1 tvg-id="33480" tvg-logo="https://lo1.in/ind/ddod.png" group-title="►AS | HINDI",IN| DD ODIYA HD
+https://stream.kliv.in/nex/air2_33480.m3u8
+#EXTINF:-1 tvg-id="33484" tvg-logo="https://lo1.in/ind/ddut.png" group-title="►AS | HINDI",IN| DD UTTAR PRADESH HD
+https://stream.kliv.in/nex/air2_33484.m3u8
+#EXTINF:-1 tvg-id="33494" tvg-logo="https://lo1.in/ind/e24.png" group-title="►AS | HINDI",IN| E24 HD
+https://stream.kliv.in/nex/air2_33494.m3u8
+#EXTINF:-1 tvg-id="33498" tvg-logo="https://lo1.in/ind/epic.png" group-title="►AS | HINDI",IN| EPIC HD
+https://stream.kliv.in/nex/air2_33498.m3u8
+#EXTINF:-1 tvg-id="89806" tvg-logo="https://lo1.in/ind/hist18.png" group-title="►AS | HINDI",IN| HISTORY TV18 HD
+https://stream.kliv.in/nex/air2_89806.m3u8
+#EXTINF:-1 tvg-id="33548" tvg-logo="https://lo1.in/ind/mtvhd.png" group-title="►AS | HINDI",IN| MTV FHD
+https://stream.kliv.in/nex/air2_33548.m3u8
+#EXTINF:-1 tvg-id="33550" tvg-logo="https://lo1.in/ind/msind.png" group-title="►AS | HINDI",IN| MUSIC INDIA SD
+https://stream.kliv.in/nex/air2_33550.m3u8
+#EXTINF:-1 tvg-id="132014" tvg-logo="https://lo1.in/ind/ntgew.png" group-title="►AS | HINDI",IN| NAT GEO WILD FHD
+https://stream.kliv.in/nex/air2_132014.m3u8
+#EXTINF:-1 tvg-id="132010" tvg-logo="https://lo1.in/ind/pog1.png" group-title="►AS | HINDI",IN| POGO KIDS HD
+https://stream.kliv.in/nex/air2_132010.m3u8
+#EXTINF:-1 tvg-id="33490" tvg-logo="https://lo1.in/ind/dsy0.png" group-title="►AS | HINDI",IN| DISNEY HD
+https://stream.kliv.in/nex/air2_33490.m3u8
+#EXTINF:-1 tvg-id="33491" tvg-logo="https://lo1.in/ind/dsyj.png" group-title="►AS | HINDI",IN| DISNEY JUNIOR HD
+https://stream.kliv.in/nex/air2_33491.m3u8
+#EXTINF:-1 tvg-id="132012" tvg-logo="https://lo1.in/ind/nick.png" group-title="►AS | HINDI",IN| NICK FHD+
+https://stream.kliv.in/nex/air2_132012.m3u8
+#EXTINF:-1 tvg-id="131987" tvg-logo="https://lo1.in/ind/bby.png" group-title="►AS | HINDI",IN| BABY TV HD
+https://stream.kliv.in/nex/air2_131987.m3u8
+#EXTINF:-1 tvg-id="33561" tvg-logo="https://lo1.in/ind/ns18as.png" group-title="►AS | HINDI",IN| NEWS 18 ASSAM SD
+https://stream.kliv.in/nex/air2_33561.m3u8
+#EXTINF:-1 tvg-id="33554" tvg-logo="https://lo1.in/ind/ns18.png" group-title="►AS | HINDI",IN| NEWS 18 HD
+https://stream.kliv.in/nex/air2_33554.m3u8
+#EXTINF:-1 tvg-id="33564" tvg-logo="https://lo1.in/ind/ns18raj.png" group-title="►AS | HINDI",IN| NEWS 18 RAJASTHAN SD
+https://stream.kliv.in/nex/air2_33564.m3u8
+#EXTINF:-1 tvg-id="33558" tvg-logo="https://lo1.in/ind/nsnat.png" group-title="►AS | HINDI",IN| NEWS NATION HD
+https://stream.kliv.in/nex/air2_33558.m3u8
+#EXTINF:-1 tvg-id="33559" tvg-logo="https://lo1.in/ind/nsstm.png" group-title="►AS | HINDI",IN| NEWS STATE MP CG SD
+https://stream.kliv.in/nex/air2_33559.m3u8
+#EXTINF:-1 tvg-id="33596" tvg-logo="https://lo1.in/ind/replic.png" group-title="►AS | HINDI",IN| REPUBLIC BHARAT TV SD
+https://stream.kliv.in/nex/air2_33596.m3u8
+#EXTINF:-1 tvg-id="33571" tvg-logo="https://lo1.in/ind/peac.png" group-title="►AS | HINDI",IN| PEACE OF MIND HD
+https://stream.kliv.in/nex/air2_33571.m3u8
+#EXTINF:-1 tvg-id="132004" tvg-logo="https://lo1.in/ind/utv.png" group-title="►AS | HINDI",IN| UTV FHD
+https://stream.kliv.in/nex/air2_132004.m3u8
+#EXTINF:-1 tvg-id="33649" tvg-logo="https://lo1.in/ind/vedic.png" group-title="►AS | HINDI",IN| VEDIC HD
+https://stream.kliv.in/nex/air2_33649.m3u8
+#EXTINF:-1 tvg-id="97519" tvg-logo="https://lo1.in/ind/zeeanm1.png" group-title="►AS | HINDI",IN| ZEE ANMOL HD
+https://stream.kliv.in/nex/air2_97519.m3u8
+#EXTINF:-1 tvg-id="131986" tvg-logo="https://lo1.in/ind/zeeancn.png" group-title="►AS | HINDI",IN| ZEE ANMOL CINEMA HD
+https://stream.kliv.in/nex/air2_131986.m3u8
+#EXTINF:-1 tvg-id="97514" tvg-logo="https://lo1.in/ind/zeehin.png" group-title="►AS | HINDI",IN| ZEE HINDUSTAN HD
+https://stream.kliv.in/nex/air2_97514.m3u8
+#EXTINF:-1 tvg-id="132002" tvg-logo="https://lo1.in/ind/zeens.png" group-title="►AS | HINDI",IN| ZEE NEWS HD
+https://stream.kliv.in/nex/air2_132002.m3u8
+#EXTINF:-1 tvg-id="33662" tvg-logo="https://lo1.in/ind/zeeraj.png" group-title="►AS | HINDI",IN| ZEE RAJASTHAN HD
+https://stream.kliv.in/nex/air2_33662.m3u8
+#EXTINF:-1 tvg-id="33652" tvg-logo="https://lo1.in/ind/winns.png" group-title="►AS | HINDI",IN| WION NEWS HD
+https://stream.kliv.in/nex/air2_33652.m3u8
+#EXTINF:-1 tvg-id="165455" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | HINDI",#### IN- SONY CHANNELS ####
+https://stream.kliv.in/nex/air2_165455.m3u8
+#EXTINF:-1 tvg-id="164897" tvg-logo="https://lo1.in/uk/sony.png" group-title="►AS | HINDI",IN| SONY TV HD (UK)
+https://stream.kliv.in/nex/air2_164897.m3u8
+#EXTINF:-1 tvg-id="164896" tvg-logo="https://lo1.in/ind/snysb.png" group-title="►AS | HINDI",IN| SONY SAB SD (UK)
+https://stream.kliv.in/nex/air2_164896.m3u8
+#EXTINF:-1 tvg-id="164894" tvg-logo="https://lo1.in/uk/snymx.png" group-title="►AS | HINDI",IN| SONY MAX HD (UK)
+https://stream.kliv.in/nex/air2_164894.m3u8
+#EXTINF:-1 tvg-id="96665" tvg-logo="https://lo1.in/ind/snymx.png" group-title="►AS | HINDI",IN| SONY MAX 2 HD
+https://stream.kliv.in/nex/air2_96665.m3u8
+#EXTINF:-1 tvg-id="164893" tvg-logo="https://lo1.in/uk/snymx.png" group-title="►AS | HINDI",IN| SONY MAX 2 SD (UK)
+https://stream.kliv.in/nex/air2_164893.m3u8
+#EXTINF:-1 tvg-id="164892" tvg-logo="https://lo1.in/uk/sonymo.png" group-title="►AS | HINDI",IN| SONY MOVIES (UK)
+https://stream.kliv.in/nex/air2_164892.m3u8
+#EXTINF:-1 tvg-id="164888" tvg-logo="https://lo1.in/uk/sonymo.png" group-title="►AS | HINDI",IN| SONY CHANNEL SD (UK)
+https://stream.kliv.in/nex/air2_164888.m3u8
+#EXTINF:-1 tvg-id="132011" tvg-logo="https://lo1.in/ind/nicksnc.png" group-title="►AS | HINDI",IN| NICK SONIC HD
+https://stream.kliv.in/nex/air2_132011.m3u8
+#EXTINF:-1 tvg-id="33567" tvg-logo="https://lo1.in/ind/nickj.png" group-title="►AS | HINDI",IN| NICK JUNIOR FHD
+https://stream.kliv.in/nex/air2_33567.m3u8
+#EXTINF:-1 tvg-id="132247" tvg-logo="https://lo1.in/ind/nickj.png" group-title="►AS | HINDI",IN| NICK JUNIOR FHD TAMIL
+https://stream.kliv.in/nex/air2_132247.m3u8
+#EXTINF:-1 tvg-id="132243" tvg-logo="https://lo1.in/ind/animplt.png" group-title="►AS | HINDI",IN| ANIMAL PLANET FHD TAMIL
+https://stream.kliv.in/nex/air2_132243.m3u8
+#EXTINF:-1 tvg-id="33617" tvg-logo="https://lo1.in/ind/strgld2.png" group-title="►AS | HINDI",IN| STAR GOLD 2 HD
+https://stream.kliv.in/nex/air2_33617.m3u8
+#EXTINF:-1 tvg-id="132016" tvg-logo="https://lo1.in/ind/mtv.png" group-title="►AS | HINDI",IN| MTV HD
+https://stream.kliv.in/nex/air2_132016.m3u8
+#EXTINF:-1 tvg-id="33646" tvg-logo="https://lo1.in/ind/utvmv.png" group-title="►AS | HINDI",IN| UTV MOVIES HD
+https://stream.kliv.in/nex/air2_33646.m3u8
+#EXTINF:-1 tvg-id="132246" tvg-logo="https://lo1.in/ind/nick.png" group-title="►AS | HINDI",IN| NICK HD TAMIL
+https://stream.kliv.in/nex/air2_132246.m3u8
+#EXTINF:-1 tvg-id="97518" tvg-logo="https://lo1.in/ind/zeebol.png" group-title="►AS | HINDI",IN| ZEE BOLLYWOOD SD
+https://stream.kliv.in/nex/air2_97518.m3u8
+#EXTINF:-1 tvg-id="132250" tvg-logo="https://lo1.in/ind/cn.png" group-title="►AS | HINDI",IN| CARTOON NETWORK HD TAMIL
+https://stream.kliv.in/nex/air2_132250.m3u8
+#EXTINF:-1 tvg-id="3218" tvg-logo="https://lo1.in/ind/ptsp.png" group-title="►AS | HINDI",IN| PTV SPORTS RAW HD
+https://stream.kliv.in/nex/air2_3218.m3u8
+#EXTINF:-1 tvg-id="3219" tvg-logo="https://lo1.in/ind/crtnet.png" group-title="►AS | HINDI",IN| CARTOON NETWORK ENG FHD
+https://stream.kliv.in/nex/air2_3219.m3u8
+#EXTINF:-1 tvg-id="3220" tvg-logo="https://lo1.in/ind/ptsp.png" group-title="►AS | HINDI",IN| PTV SPORTS HD
+https://stream.kliv.in/nex/air2_3220.m3u8
+#EXTINF:-1 tvg-id="5763" tvg-logo="https://lo1.in/ind/ODISHA TV HD.png" group-title="►AS | HINDI",IN| ODISHA TV HD ODIA
+https://stream.kliv.in/nex/air2_5763.m3u8
+#EXTINF:-1 tvg-id="5764" tvg-logo="https://lo1.in/ind/TARANG TV HD.png" group-title="►AS | HINDI",IN| TARANG TV HD ODIA
+https://stream.kliv.in/nex/air2_5764.m3u8
+#EXTINF:-1 tvg-id="5765" tvg-logo="https://lo1.in/ind/ALANKAR TV HD.png" group-title="►AS | HINDI",IN| ALANKAR TV HD ODIA
+https://stream.kliv.in/nex/air2_5765.m3u8
+#EXTINF:-1 tvg-id="5766" tvg-logo="https://lo1.in/ind/TARANG MUSIC HD ODIA.png" group-title="►AS | HINDI",IN| TARANG MUSIC HD ODIA
+https://stream.kliv.in/nex/air2_5766.m3u8
+#EXTINF:-1 tvg-id="5767" tvg-logo="https://lo1.in/ind/PRAMEYA NEWS 7.png" group-title="►AS | HINDI",IN| PRAMEYA NEWS 7 HD ODIA
+https://stream.kliv.in/nex/air2_5767.m3u8
+#EXTINF:-1 tvg-id="5768" tvg-logo="https://lo1.in/ind/ARGUS NEWS HD.png" group-title="►AS | HINDI",IN| ARGUS NEWS HD ODIA
+https://stream.kliv.in/nex/air2_5768.m3u8
+#EXTINF:-1 tvg-id="5769" tvg-logo="https://lo1.in/ind/SIDDARTH TV HD.png" group-title="►AS | HINDI",IN| SIDDARTH TV HD ODIA
+https://stream.kliv.in/nex/air2_5769.m3u8
+#EXTINF:-1 tvg-id="5771" tvg-logo="https://lo1.in/ind/ZEE SARTHAK TV.png" group-title="►AS | HINDI",IN| ZEE SARTHAK TV HD ODIA
+https://stream.kliv.in/nex/air2_5771.m3u8
+#EXTINF:-1 tvg-id="5772" tvg-logo="https://lo1.in/ind/KALINGA TV HD ODIA.png" group-title="►AS | HINDI",IN| KALINGA TV HD ODIA
+https://stream.kliv.in/nex/air2_5772.m3u8
+#EXTINF:-1 tvg-id="5773" tvg-logo="https://lo1.in/ind/STAR KIRAN HD.png" group-title="►AS | HINDI",IN| STAR KIRAN HD ODIA
+https://stream.kliv.in/nex/air2_5773.m3u8
+#EXTINF:-1 tvg-id="5788" tvg-logo="https://lo1.in/ind/WILLOW CRICKET HD.png" group-title="►AS | HINDI",IN| WILLOW CRICKET HD
+https://stream.kliv.in/nex/air2_5788.m3u8
+#EXTINF:-1 tvg-id="5789" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | HINDI",IN| Hub Sports 5
+https://stream.kliv.in/nex/air2_5789.m3u8
+#EXTINF:-1 tvg-id="5790" tvg-logo="https://lo1.in/ind/Hub Sports 4.png" group-title="►AS | HINDI",IN| Hub Sports 4
+https://stream.kliv.in/nex/air2_5790.m3u8
+#EXTINF:-1 tvg-id="5791" tvg-logo="https://lo1.in/ind/Hub Sports 3.png" group-title="►AS | HINDI",IN| Hub Sports 3
+https://stream.kliv.in/nex/air2_5791.m3u8
+#EXTINF:-1 tvg-id="5792" tvg-logo="https://lo1.in/ind/Hub Sports 2.png" group-title="►AS | HINDI",IN| Hub Sports 2
+https://stream.kliv.in/nex/air2_5792.m3u8
+#EXTINF:-1 tvg-id="5793" tvg-logo="https://lo1.in/ind/Hub Sports 1.png" group-title="►AS | HINDI",IN| Hub Sports 1
+https://stream.kliv.in/nex/air2_5793.m3u8
+#EXTINF:-1 tvg-id="5794" tvg-logo="https://lo1.in/ind/DILLI AAJ TAKK.png" group-title="►AS | HINDI",IN| DILLI AAJ TAKK
+https://stream.kliv.in/nex/air2_5794.m3u8
+#EXTINF:-1 tvg-id="5795" tvg-logo="https://lo1.in/ind/OM SHANTI.png" group-title="►AS | HINDI",IN| OM SHANTI
+https://stream.kliv.in/nex/air2_5795.m3u8
+#EXTINF:-1 tvg-id="5796" tvg-logo="https://lo1.in/ind/DANGAL.png" group-title="►AS | HINDI",IN| DANGAL
+https://stream.kliv.in/nex/air2_5796.m3u8
+#EXTINF:-1 tvg-id="5798" tvg-logo="https://lo1.in/ind/DISNEY INTERNATION.png" group-title="►AS | HINDI",IN| DISNEY INTERNATIONAL HD
+https://stream.kliv.in/nex/air2_5798.m3u8
+#EXTINF:-1 tvg-id="5799" tvg-logo="https://lo1.in/ind/ZEE NEWS UP.png" group-title="►AS | HINDI",IN| ZEE NEWS UP
+https://stream.kliv.in/nex/air2_5799.m3u8
+#EXTINF:-1 tvg-id="5800" tvg-logo="https://lo1.in/ind/ZEE NEWS BIHAR.png" group-title="►AS | HINDI",IN| ZEE NEWS BIHAR
+https://stream.kliv.in/nex/air2_5800.m3u8
+#EXTINF:-1 tvg-id="5802" tvg-logo="https://lo1.in/ind/PARAS TV.png" group-title="►AS | HINDI",IN| PARAS TV
+https://stream.kliv.in/nex/air2_5802.m3u8
+#EXTINF:-1 tvg-id="5803" tvg-logo="https://lo1.in/ind/NICK PLUS HD.png" group-title="►AS | HINDI",IN| NICK PLUS HD
+https://stream.kliv.in/nex/air2_5803.m3u8
+#EXTINF:-1 tvg-id="5804" tvg-logo="https://lo1.in/ind/MTV PLUS HD.png" group-title="►AS | HINDI",IN| MTV PLUS HD
+https://stream.kliv.in/nex/air2_5804.m3u8
+#EXTINF:-1 tvg-id="5805" tvg-logo="https://lo1.in/ind/MINIPLEX HD.png" group-title="►AS | HINDI",IN| MINIPLEX HD
+https://stream.kliv.in/nex/air2_5805.m3u8
+#EXTINF:-1 tvg-id="5806" tvg-logo="https://lo1.in/ind/DD BHARTI.png" group-title="►AS | HINDI",IN| DD BHARTI
+https://stream.kliv.in/nex/air2_5806.m3u8
+#EXTINF:-1 tvg-id="5807" tvg-logo="https://lo1.in/ind/DD MP.png" group-title="►AS | HINDI",IN| DD MP
+https://stream.kliv.in/nex/air2_5807.m3u8
+#EXTINF:-1 tvg-id="5808" tvg-logo="https://lo1.in/ind/DD MP.png" group-title="►AS | HINDI",IN| DD UP
+https://stream.kliv.in/nex/air2_5808.m3u8
+#EXTINF:-1 tvg-id="5809" tvg-logo="https://lo1.in/us/COMEDY ACTIVE.png" group-title="►AS | HINDI",IN| COMEDY ACTIVE
+https://stream.kliv.in/nex/air2_5809.m3u8
+#EXTINF:-1 tvg-id="5811" tvg-logo="https://lo1.in/ind/AAJ TAK TEZ.png" group-title="►AS | HINDI",IN| AAJ TAK TEZ
+https://stream.kliv.in/nex/air2_5811.m3u8
+#EXTINF:-1 tvg-id="5812" tvg-logo="https://lo1.in/ind/SONY YAY.png" group-title="►AS | HINDI",IN| SONY YAY
+https://stream.kliv.in/nex/air2_5812.m3u8
+#EXTINF:-1 tvg-id="5813" tvg-logo="https://lo1.in/ind/SONY BBC EARTH HINDI HD.png" group-title="►AS | HINDI",IN| SONY BBC EARTH HINDI HD
+https://stream.kliv.in/nex/air2_5813.m3u8
+#EXTINF:-1 tvg-id="5814" tvg-logo="https://lo1.in/ind/vh10.png" group-title="►AS | HINDI",IN| VH1 HD ENG
+https://stream.kliv.in/nex/air2_5814.m3u8
+#EXTINF:-1 tvg-id="5815" tvg-logo="https://lo1.in/ind/THE Q YOU HD.png" group-title="►AS | HINDI",IN| THE Q YOU HD ENG
+https://stream.kliv.in/nex/air2_5815.m3u8
+#EXTINF:-1 tvg-id="5816" tvg-logo="https://lo1.in/ind/COMEDY CENTRAL HD ENG.png" group-title="►AS | HINDI",IN| COMEDY CENTRAL HD ENG
+https://stream.kliv.in/nex/air2_5816.m3u8
+#EXTINF:-1 tvg-id="5817" tvg-logo="https://lo1.in/ind/BLOOMBERG INDIA ENG.png" group-title="►AS | HINDI",IN| BLOOMBERG INDIA ENG
+https://stream.kliv.in/nex/air2_5817.m3u8
+#EXTINF:-1 tvg-id="5818" tvg-logo="https://lo1.in/ind/DISNEY INTERNATIONAL.png" group-title="►AS | HINDI",IN| DISNEY INTERNATIONAL HD ENG
+https://stream.kliv.in/nex/air2_5818.m3u8
+#EXTINF:-1 tvg-id="5819" tvg-logo="https://lo1.in/ind/CNBC TV18 NEWS.png" group-title="►AS | HINDI",IN| CNBC TV18 NEWS HD ENG
+https://stream.kliv.in/nex/air2_5819.m3u8
+#EXTINF:-1 tvg-id="5820" tvg-logo="https://lo1.in/ind/FOX LIFE HD ENG.png" group-title="►AS | HINDI",IN| FOX LIFE HD ENG
+https://stream.kliv.in/nex/air2_5820.m3u8
+#EXTINF:-1 tvg-id="5821" tvg-logo="https://lo1.in/ind/SONY BBC EARTH HINDI HD.png" group-title="►AS | HINDI",IN| SONY BBC EARTH ENG HD
+https://stream.kliv.in/nex/air2_5821.m3u8
+#EXTINF:-1 tvg-id="5842" tvg-logo="https://lo1.in/ind/CVR NEWS TELEGU.png" group-title="►AS | HINDI",IN| CVR NEWS TELEGU
+https://stream.kliv.in/nex/air2_5842.m3u8
+#EXTINF:-1 tvg-id="6205" tvg-logo="https://lo1.in/ind/sony.png" group-title="►AS | HINDI",IN| SONY ASIA HD
+https://stream.kliv.in/nex/air2_6205.m3u8
+#EXTINF:-1 tvg-id="18363" tvg-logo="https://lo1.in/ind/ddns.png" group-title="►AS | HINDI",IN| DD NEWS
+https://stream.kliv.in/nex/air2_18363.m3u8
+#EXTINF:-1 tvg-id="18364" tvg-logo="https://lo1.in/ind/crtnet.png" group-title="►AS | HINDI",IN| CARTOON NETWORK
+https://stream.kliv.in/nex/air2_18364.m3u8
+#EXTINF:-1 tvg-id="33435" tvg-logo="https://lo1.in/ind/7sms.png" group-title="►AS | HINDI",IN| 7S MUSIC SD
+https://stream.kliv.in/nex/air2_33435.m3u8
+#EXTINF:-1 tvg-id="33436" tvg-logo="https://lo1.in/ind/anmpl.png" group-title="►AS | HINDI",IN| ANIMAL PLANET HD
+https://stream.kliv.in/nex/air2_33436.m3u8
+#EXTINF:-1 tvg-id="33437" tvg-logo="https://lo1.in/ind/b4ms.png" group-title="►AS | HINDI",IN| B4U MUSIC HD
+https://stream.kliv.in/nex/air2_33437.m3u8
+#EXTINF:-1 tvg-id="33439" tvg-logo="https://lo1.in/ind/dissci.png" group-title="►AS | HINDI",IN| DISCOVERY SCIENCE HD
+https://stream.kliv.in/nex/air2_33439.m3u8
+#EXTINF:-1 tvg-id="33440" tvg-logo="https://lo1.in/ind/ntge.png" group-title="►AS | HINDI",IN| NAT GEO HD
+https://stream.kliv.in/nex/air2_33440.m3u8
+#EXTINF:-1 tvg-id="33441" tvg-logo="https://lo1.in/ind/exp.png" group-title="►AS | HINDI",IN| & XPLORE FHD
+https://stream.kliv.in/nex/air2_33441.m3u8
+#EXTINF:-1 tvg-id="33448" tvg-logo="https://lo1.in/ind/alank.png" group-title="►AS | HINDI",IN| ALANKAR HD
+https://stream.kliv.in/nex/air2_33448.m3u8
+#EXTINF:-1 tvg-id="33450" tvg-logo="https://lo1.in/ind/anmpl.png" group-title="►AS | HINDI",IN| ANIMAL PLANET ENG FHD
+https://stream.kliv.in/nex/air2_33450.m3u8
+#EXTINF:-1 tvg-id="33451" tvg-logo="https://lo1.in/ind/aryfm.png" group-title="►AS | HINDI",IN| ARY FAMILY SD
+https://stream.kliv.in/nex/air2_33451.m3u8
+#EXTINF:-1 tvg-id="33457" tvg-logo="https://lo1.in/ind/bhart.png" group-title="►AS | HINDI",IN| BHARAT SAMACHAR HD
+https://stream.kliv.in/nex/air2_33457.m3u8
+#EXTINF:-1 tvg-id="33459" tvg-logo="https://lo1.in/ind/chnsas.png" group-title="►AS | HINDI",IN| CHANNEL NEWS ASIA FHD
+https://stream.kliv.in/nex/air2_33459.m3u8
+#EXTINF:-1 tvg-id="33460" tvg-logo="https://lo1.in/ind/chwin.png" group-title="►AS | HINDI",IN| CHANNEL WIN SD
+https://stream.kliv.in/nex/air2_33460.m3u8
+#EXTINF:-1 tvg-id="33464" tvg-logo="https://lo1.in/ind/cnbc.png" group-title="►AS | HINDI",IN| CNBC TV18 HD
+https://stream.kliv.in/nex/air2_33464.m3u8
+#EXTINF:-1 tvg-id="33465" tvg-logo="https://lo1.in/ind/cnn.png" group-title="►AS | HINDI",IN| CNN HD
+https://stream.kliv.in/nex/air2_33465.m3u8
+#EXTINF:-1 tvg-id="33466" tvg-logo="https://lo1.in/ind/cnnns18.png" group-title="►AS | HINDI",IN| CNN NEWS 18 HD
+https://stream.kliv.in/nex/air2_33466.m3u8
+#EXTINF:-1 tvg-id="33471" tvg-logo="https://lo1.in/ind/clsu.png" group-title="►AS | HINDI",IN| COLORS SUPER FHD
+https://stream.kliv.in/nex/air2_33471.m3u8
+#EXTINF:-1 tvg-id="33476" tvg-logo="https://lo1.in/ind/ddkas1.png" group-title="►AS | HINDI",IN| DD KASHIR HD
+https://stream.kliv.in/nex/air2_33476.m3u8
+#EXTINF:-1 tvg-id="33477" tvg-logo="https://lo1.in/ind/ddmad.png" group-title="►AS | HINDI",IN| DD MADHYA PRADESH HD
+https://stream.kliv.in/nex/air2_33477.m3u8
+#EXTINF:-1 tvg-id="33479" tvg-logo="https://lo1.in/ind/ddnor.png" group-title="►AS | HINDI",IN| DD NORTH EAST HD
+https://stream.kliv.in/nex/air2_33479.m3u8
+#EXTINF:-1 tvg-id="33485" tvg-logo="https://lo1.in/ind/ddyad0.png" group-title="►AS | HINDI",IN| DD YADAGIRI HD
+https://stream.kliv.in/nex/air2_33485.m3u8
+#EXTINF:-1 tvg-id="33487" tvg-logo="https://lo1.in/ind/digh7ns.png" group-title="►AS | HINDI",IN| DIGHVIJAY 24X7 NEWS SD
+https://stream.kliv.in/nex/air2_33487.m3u8
+#EXTINF:-1 tvg-id="33489" tvg-logo="https://lo1.in/ind/diskd.png" group-title="►AS | HINDI",IN| DISCOVERY KIDS HD
+https://stream.kliv.in/nex/air2_33489.m3u8
+#EXTINF:-1 tvg-id="33492" tvg-logo="https://lo1.in/ind/dwnew.png" group-title="►AS | HINDI",IN| DW NEWS HD
+https://stream.kliv.in/nex/air2_33492.m3u8
+#EXTINF:-1 tvg-id="33493" tvg-logo="https://lo1.in/ind/dy365.png" group-title="►AS | HINDI",IN| DY 365 HD
+https://stream.kliv.in/nex/air2_33493.m3u8
+#EXTINF:-1 tvg-id="33499" tvg-logo="https://lo1.in/ind/etvabh.png" group-title="►AS | HINDI",IN| ETV ABHIRUCHI SD
+https://stream.kliv.in/nex/air2_33499.m3u8
+#EXTINF:-1 tvg-id="33500" tvg-logo="https://lo1.in/ind/etva.png" group-title="►AS | HINDI",IN| ETV ANDHRA PRADESH HD
+https://stream.kliv.in/nex/air2_33500.m3u8
+#EXTINF:-1 tvg-id="33501" tvg-logo="https://lo1.in/ind/etvpl.png" group-title="►AS | HINDI",IN| ETV PLUS HD
+https://stream.kliv.in/nex/air2_33501.m3u8
+#EXTINF:-1 tvg-id="33502" tvg-logo="https://lo1.in/ind/etvte.png" group-title="►AS | HINDI",IN| ETV TELENGANA HD
+https://stream.kliv.in/nex/air2_33502.m3u8
+#EXTINF:-1 tvg-id="33505" tvg-logo="https://lo1.in/ind/geons.png" group-title="►AS | HINDI",IN| GEO NEWS
+https://stream.kliv.in/nex/air2_33505.m3u8
+#EXTINF:-1 tvg-id="33506" tvg-logo="https://lo1.in/ind/geons.png" group-title="►AS | HINDI",IN| GEO TV HD
+https://stream.kliv.in/nex/air2_33506.m3u8
+#EXTINF:-1 tvg-id="33508" tvg-logo="https://lo1.in/ind/ndgdtm.png" group-title="►AS | HINDI",IN| GOOD TIMES HD
+https://stream.kliv.in/nex/air2_33508.m3u8
+#EXTINF:-1 tvg-id="33509" tvg-logo="https://lo1.in/ind/gulns.png" group-title="►AS | HINDI",IN| GULISTAN NEWS HD
+https://stream.kliv.in/nex/air2_33509.m3u8
+#EXTINF:-1 tvg-id="33511" tvg-logo="https://lo1.in/ind/havusa.png" group-title="►AS | HINDI",IN| HARVEST TV USA SD
+https://stream.kliv.in/nex/air2_33511.m3u8
+#EXTINF:-1 tvg-id="33512" tvg-logo="https://lo1.in/ind/hinddh1.png" group-title="►AS | HINDI",IN| HINDU DHARMAM HD
+https://stream.kliv.in/nex/air2_33512.m3u8
+#EXTINF:-1 tvg-id="33513" tvg-logo="https://lo1.in/ind/humt.png" group-title="►AS | HINDI",IN| HUM TV HD
+https://stream.kliv.in/nex/air2_33513.m3u8
+#EXTINF:-1 tvg-id="33514" tvg-logo="https://lo1.in/ind/ibc2.png" group-title="►AS | HINDI",IN| IBC 24 HD
+https://stream.kliv.in/nex/air2_33514.m3u8
+#EXTINF:-1 tvg-id="33515" tvg-logo="https://lo1.in/ind/invgdis.png" group-title="►AS | HINDI",IN| INVESTIGATION DISCOVERY HD
+https://stream.kliv.in/nex/air2_33515.m3u8
+#EXTINF:-1 tvg-id="33519" tvg-logo="https://lo1.in/ind/ishw.png" group-title="►AS | HINDI",IN| ISHWAR TV SD
+https://stream.kliv.in/nex/air2_33519.m3u8
+#EXTINF:-1 tvg-id="33528" tvg-logo="https://lo1.in/ind/kanns.png" group-title="►AS | HINDI",IN| KANAK NEWS HD
+https://stream.kliv.in/nex/air2_33528.m3u8
+#EXTINF:-1 tvg-id="33542" tvg-logo="https://lo1.in/ind/mh1.png" group-title="►AS | HINDI",IN| MH ONE HD
+https://stream.kliv.in/nex/air2_33542.m3u8
+#EXTINF:-1 tvg-id="33543" tvg-logo="https://lo1.in/ind/mh1shr.png" group-title="►AS | HINDI",IN| MH ONE SHRADDHA HD
+https://stream.kliv.in/nex/air2_33543.m3u8
+#EXTINF:-1 tvg-id="33545" tvg-logo="https://lo1.in/ind/mironw.png" group-title="►AS | HINDI",IN| MIRROR NOW HD
+https://stream.kliv.in/nex/air2_33545.m3u8
+#EXTINF:-1 tvg-id="33547" tvg-logo="https://lo1.in/ind/mnmv1.png" group-title="►AS | HINDI",IN| MN+ MOVIES FHD
+https://stream.kliv.in/nex/air2_33547.m3u8
+#EXTINF:-1 tvg-id="33551" tvg-logo="https://lo1.in/ind/ndns2.png" group-title="►AS | HINDI",IN| NDTV NEWS 24 HD
+https://stream.kliv.in/nex/air2_33551.m3u8
+#EXTINF:-1 tvg-id="33552" tvg-logo="https://lo1.in/ind/ndpr.png" group-title="►AS | HINDI",IN| NDTV PROFIT HD
+https://stream.kliv.in/nex/air2_33552.m3u8
+#EXTINF:-1 tvg-id="33553" tvg-logo="https://lo1.in/ind/npl1.png" group-title="►AS | HINDI",IN| NEPAL 1 HD
+https://stream.kliv.in/nex/air2_33553.m3u8
+#EXTINF:-1 tvg-id="33556" tvg-logo="https://lo1.in/ind/ns18up.png" group-title="►AS | HINDI",IN| NEWS 18 UP TV HD
+https://stream.kliv.in/nex/air2_33556.m3u8
+#EXTINF:-1 tvg-id="33557" tvg-logo="https://lo1.in/ind/nslv.png" group-title="►AS | HINDI",IN| NEWS LIVE HD
+https://stream.kliv.in/nex/air2_33557.m3u8
+#EXTINF:-1 tvg-id="33568" tvg-logo="https://lo1.in/ind/norealv.png" group-title="►AS | HINDI",IN| NORTH EAST LIVE HD
+https://stream.kliv.in/nex/air2_33568.m3u8
+#EXTINF:-1 tvg-id="33570" tvg-logo="https://lo1.in/china/pk.png" group-title="►AS | HINDI",IN| PATRIKA TV RAJ HD
+https://stream.kliv.in/nex/air2_33570.m3u8
+#EXTINF:-1 tvg-id="33574" tvg-logo="https://lo1.in/ind/pragns.png" group-title="►AS | HINDI",IN| PRAG NEWS HD
+https://stream.kliv.in/nex/air2_33574.m3u8
+#EXTINF:-1 tvg-id="33579" tvg-logo="https://lo1.in/ind/pubms.png" group-title="►AS | HINDI",IN| PUBLIC MUSIC HD
+https://stream.kliv.in/nex/air2_33579.m3u8
+#EXTINF:-1 tvg-id="33593" tvg-logo="https://lo1.in/ind/ramd.png" group-title="►AS | HINDI",IN| RAMDHENU HD
+https://stream.kliv.in/nex/air2_33593.m3u8
+#EXTINF:-1 tvg-id="33594" tvg-logo="https://lo1.in/ind/rag.png" group-title="►AS | HINDI",IN| RANG HD
+https://stream.kliv.in/nex/air2_33594.m3u8
+#EXTINF:-1 tvg-id="33595" tvg-logo="https://lo1.in/ind/reng.png" group-title="►AS | HINDI",IN| RENGONI TV SD
+https://stream.kliv.in/nex/air2_33595.m3u8
+#EXTINF:-1 tvg-id="33597" tvg-logo="https://lo1.in/ind/rishclr.png" group-title="►AS | HINDI",IN| COLORS RISHTEY FHD
+https://stream.kliv.in/nex/air2_33597.m3u8
+#EXTINF:-1 tvg-id="33604" tvg-logo="https://lo1.in/ind/sardr.png" group-title="►AS | HINDI",IN| SARDARI TV HD
+https://stream.kliv.in/nex/air2_33604.m3u8
+#EXTINF:-1 tvg-id="33605" tvg-logo="https://lo1.in/ind/shem.png" group-title="►AS | HINDI",IN| SHEMAROO TV SD
+https://stream.kliv.in/nex/air2_33605.m3u8
+#EXTINF:-1 tvg-id="33606" tvg-logo="https://lo1.in/ind/shbx.png" group-title="►AS | HINDI",IN| SHOWBOX MUSIC
+https://stream.kliv.in/nex/air2_33606.m3u8
+#EXTINF:-1 tvg-id="33607" tvg-logo="https://lo1.in/ind/shub.png" group-title="►AS | HINDI",IN| SHUBH TV HD
+https://stream.kliv.in/nex/air2_33607.m3u8
+#EXTINF:-1 tvg-id="33613" tvg-logo="https://lo1.in/ind/snytn1.png" group-title="►AS | HINDI",IN| SONY TEN 1 FHD
+https://stream.kliv.in/nex/air2_33613.m3u8
+#EXTINF:-1 tvg-id="33614" tvg-logo="https://lo1.in/ind/snytn2.png" group-title="►AS | HINDI",IN| SONY TEN 2 FHD
+https://stream.kliv.in/nex/air2_33614.m3u8
+#EXTINF:-1 tvg-id="33618" tvg-logo="https://lo1.in/ind/strmvs.png" group-title="►AS | HINDI",IN| STAR MOVIES HD
+https://stream.kliv.in/nex/air2_33618.m3u8
+#EXTINF:-1 tvg-id="33623" tvg-logo="https://lo1.in/ind/sunans.png" group-title="►AS | HINDI",IN| SUDARSHAN NEWS HD
+https://stream.kliv.in/nex/air2_33623.m3u8
+#EXTINF:-1 tvg-id="33628" tvg-logo="https://lo1.in/ind/tns.png" group-title="►AS | HINDI",IN| T NEWS HD
+https://stream.kliv.in/nex/air2_33628.m3u8
+#EXTINF:-1 tvg-id="33631" tvg-logo="https://lo1.in/ind/tqind.png" group-title="►AS | HINDI",IN| THE Q ENTERTAINMENT HD
+https://stream.kliv.in/nex/air2_33631.m3u8
+#EXTINF:-1 tvg-id="33632" tvg-logo="https://lo1.in/ind/tmnw.png" group-title="►AS | HINDI",IN| TIMES NOW HD
+https://stream.kliv.in/nex/air2_33632.m3u8
+#EXTINF:-1 tvg-id="33633" tvg-logo="https://lo1.in/ind/tlcwrd.png" group-title="►AS | HINDI",IN| TLC WORLD FHD
+https://stream.kliv.in/nex/air2_33633.m3u8
+#EXTINF:-1 tvg-id="33637" tvg-logo="https://lo1.in/ind/tv5mon.png" group-title="►AS | HINDI",IN| TV5 MONDE HD
+https://stream.kliv.in/nex/air2_33637.m3u8
+#EXTINF:-1 tvg-id="33663" tvg-logo="https://lo1.in/ind/zeesal.png" group-title="►AS | HINDI",IN| ZEE SALAAM HD
+https://stream.kliv.in/nex/air2_33663.m3u8
+#EXTINF:-1 tvg-id="33664" tvg-logo="https://lo1.in/ind/zeesar.png" group-title="►AS | HINDI",IN| ZEE SARTHAK HD
+https://stream.kliv.in/nex/air2_33664.m3u8
+#EXTINF:-1 tvg-id="33667" tvg-logo="https://lo1.in/ind/zeet.png" group-title="►AS | HINDI",IN| ZEE TV HD
+https://stream.kliv.in/nex/air2_33667.m3u8
+#EXTINF:-1 tvg-id="33668" tvg-logo="https://lo1.in/ind/zeeutt.png" group-title="►AS | HINDI",IN| ZEE UTTAR PRADESH UTTARAKHAND SD
+https://stream.kliv.in/nex/air2_33668.m3u8
+#EXTINF:-1 tvg-id="96659" tvg-logo="https://lo1.in/ind/zeeac.png" group-title="►AS | HINDI",IN| ZEE ACTION HD
+https://stream.kliv.in/nex/air2_96659.m3u8
+#EXTINF:-1 tvg-id="96668" tvg-logo="https://lo1.in/ind/mvns.png" group-title="►AS | HINDI",IN| MOVIES NOW SD
+https://stream.kliv.in/nex/air2_96668.m3u8
+#EXTINF:-1 tvg-id="96669" tvg-logo="https://lo1.in/ind/mvac.png" group-title="►AS | HINDI",IN| MOVIES ACTIVE FHD
+https://stream.kliv.in/nex/air2_96669.m3u8
+#EXTINF:-1 tvg-id="96672" tvg-logo="https://lo1.in/ind/pict.png" group-title="►AS | HINDI",IN| &PICTURES HD
+https://stream.kliv.in/nex/air2_96672.m3u8
+#EXTINF:-1 tvg-id="96673" tvg-logo="https://lo1.in/ind/flix.png" group-title="►AS | HINDI",IN| & FLIX FHD
+https://stream.kliv.in/nex/air2_96673.m3u8
+#EXTINF:-1 tvg-id="96674" tvg-logo="https://lo1.in/ind/colcin.png" group-title="►AS | HINDI",IN| COLORS CINEPLEX BOLLYWOOD HD
+https://stream.kliv.in/nex/air2_96674.m3u8
+#EXTINF:-1 tvg-id="96676" tvg-logo="https://lo1.in/ind/biggan.png" group-title="►AS | HINDI",IN| GANGA HD
+https://stream.kliv.in/nex/air2_96676.m3u8
+#EXTINF:-1 tvg-id="96679" tvg-logo="https://lo1.in/ind/tensp1.png" group-title="►AS | HINDI",IN| TEN SPORTS FHD
+https://stream.kliv.in/nex/air2_96679.m3u8
+#EXTINF:-1 tvg-id="96680" tvg-logo="https://lo1.in/ind/geosu.png" group-title="►AS | HINDI",IN| GEO SUPER FHD
+https://stream.kliv.in/nex/air2_96680.m3u8
+#EXTINF:-1 tvg-id="97517" tvg-logo="https://lo1.in/ind/zeebs.png" group-title="►AS | HINDI",IN| ZEE BUSINESS HD
+https://stream.kliv.in/nex/air2_97517.m3u8
+#EXTINF:-1 tvg-id="97527" tvg-logo="https://lo1.in/ind/snytn3.png" group-title="►AS | HINDI",IN| SONY TEN 3 FHD
+https://stream.kliv.in/nex/air2_97527.m3u8
+#EXTINF:-1 tvg-id="97528" tvg-logo="https://lo1.in/ind/sny6.png" group-title="►AS | HINDI",IN| SONY TEN 5 FHD
+https://stream.kliv.in/nex/air2_97528.m3u8
+#EXTINF:-1 tvg-id="97530" tvg-logo="https://lo1.in/ind/sadht.png" group-title="►AS | HINDI",IN| SADHNA TV DEVOTIONAL HD
+https://stream.kliv.in/nex/air2_97530.m3u8
+#EXTINF:-1 tvg-id="97532" tvg-logo="https://lo1.in/ind/ns24.png" group-title="►AS | HINDI",IN| NEWS 24 HD
+https://stream.kliv.in/nex/air2_97532.m3u8
+#EXTINF:-1 tvg-id="97533" tvg-logo="https://lo1.in/ind/ndind.png" group-title="►AS | HINDI",IN| NDTV INDIA HD
+https://stream.kliv.in/nex/air2_97533.m3u8
+#EXTINF:-1 tvg-id="97535" tvg-logo="https://lo1.in/ind/distur.png" group-title="►AS | HINDI",IN| DISCOVERY TURBO HD
+https://stream.kliv.in/nex/air2_97535.m3u8
+#EXTINF:-1 tvg-id="97538" tvg-logo="https://lo1.in/ind/colrind.png" group-title="►AS | HINDI",IN| COLORS INFINITY FHD
+https://stream.kliv.in/nex/air2_97538.m3u8
+#EXTINF:-1 tvg-id="97539" tvg-logo="https://lo1.in/ind/cbeb.png" group-title="►AS | HINDI",IN| CBEEBIES SD
+https://stream.kliv.in/nex/air2_97539.m3u8
+#EXTINF:-1 tvg-id="97540" tvg-logo="https://lo1.in/ind/bbcwns.png" group-title="►AS | HINDI",IN| BBC WORLD NEWS HD
+https://stream.kliv.in/nex/air2_97540.m3u8
+#EXTINF:-1 tvg-id="97543" tvg-logo="https://lo1.in/ind/9xtash.png" group-title="►AS | HINDI",IN| 9X TASHAN HD
+https://stream.kliv.in/nex/air2_97543.m3u8
+#EXTINF:-1 tvg-id="97544" tvg-logo="https://lo1.in/ind/9xm.png" group-title="►AS | HINDI",IN| 9XM HD
+https://stream.kliv.in/nex/air2_97544.m3u8
+#EXTINF:-1 tvg-id="99930" tvg-logo="https://lo1.in/ind/ns18lok.png" group-title="►AS | HINDI",IN| NEWS 18 LOKMAT HD
+https://stream.kliv.in/nex/air2_99930.m3u8
+#EXTINF:-1 tvg-id="99935" tvg-logo="https://lo1.in/ind/indtd.png" group-title="►AS | HINDI",IN| INDIA TODAY HD
+https://stream.kliv.in/nex/air2_99935.m3u8
+#EXTINF:-1 tvg-id="100001" tvg-logo="https://lo1.in/ind/sats.png" group-title="►AS | HINDI",IN| SATSANG SD
+https://stream.kliv.in/nex/air2_100001.m3u8
+#EXTINF:-1 tvg-id="100002" tvg-logo="https://lo1.in/ind/sansk.png" group-title="►AS | HINDI",IN| SANSKAR HD
+https://stream.kliv.in/nex/air2_100002.m3u8
+#EXTINF:-1 tvg-id="100003" tvg-logo="https://lo1.in/ind/sadhpl.png" group-title="►AS | HINDI",IN| SADHNA PLUS SD
+https://stream.kliv.in/nex/air2_100003.m3u8
+#EXTINF:-1 tvg-id="100005" tvg-logo="https://lo1.in/ind/ns18od.png" group-title="►AS | HINDI",IN| NEWS 18 ODIA SD
+https://stream.kliv.in/nex/air2_100005.m3u8
+#EXTINF:-1 tvg-id="100008" tvg-logo="https://lo1.in/ind/ns18cha.png" group-title="►AS | HINDI",IN| NEWS 18 CHHATTISGARH SD
+https://stream.kliv.in/nex/air2_100008.m3u8
+#EXTINF:-1 tvg-id="100011" tvg-logo="https://lo1.in/ind/mahamv.png" group-title="►AS | HINDI",IN| MAHA MOVIE HD
+https://stream.kliv.in/nex/air2_100011.m3u8
+#EXTINF:-1 tvg-id="100013" tvg-logo="https://lo1.in/ind/jonc.png" group-title="►AS | HINDI",IN| JONACK TV SD
+https://stream.kliv.in/nex/air2_100013.m3u8
+#EXTINF:-1 tvg-id="100017" tvg-logo="https://lo1.in/ind/etn.png" group-title="►AS | HINDI",IN| ET NOW HD
+https://stream.kliv.in/nex/air2_100017.m3u8
+#EXTINF:-1 tvg-id="100018" tvg-logo="https://lo1.in/ind/chny.png" group-title="►AS | HINDI",IN| CHANNEL Y HD
+https://stream.kliv.in/nex/air2_100018.m3u8
+#EXTINF:-1 tvg-id="100021" tvg-logo="https://lo1.in/ind/akdcalns.png" group-title="►AS | HINDI",IN| AKD CALCUTTA NEWS SD
+https://stream.kliv.in/nex/air2_100021.m3u8
+#EXTINF:-1 tvg-id="100027" tvg-logo="https://lo1.in/ind/5aab.png" group-title="►AS | HINDI",IN| 5AAB TV HD
+https://stream.kliv.in/nex/air2_100027.m3u8
+#EXTINF:-1 tvg-id="100029" tvg-logo="https://lo1.in/ind/priv.png" group-title="►AS | HINDI",IN| &PRIVÉ FHD
+https://stream.kliv.in/nex/air2_100029.m3u8
+#EXTINF:-1 tvg-id="100035" tvg-logo="https://lo1.in/ind/strmvse.png" group-title="►AS | HINDI",IN| STAR MOVIES SELECT FHD
+https://stream.kliv.in/nex/air2_100035.m3u8
+#EXTINF:-1 tvg-id="100037" tvg-logo="https://lo1.in/ind/skyns.png" group-title="►AS | HINDI",IN| SKY NEWS SD
+https://stream.kliv.in/nex/air2_100037.m3u8
+#EXTINF:-1 tvg-id="100038" tvg-logo="https://lo1.in/ind/chs0.png" group-title="►AS | HINDI",IN| CHANNEL-S HD
+https://stream.kliv.in/nex/air2_100038.m3u8
+#EXTINF:-1 tvg-id="100042" tvg-logo="https://lo1.in/ind/brit.png" group-title="►AS | HINDI",IN| BRITASIA TV SD
+https://stream.kliv.in/nex/air2_100042.m3u8
+#EXTINF:-1 tvg-id="100043" tvg-logo="https://lo1.in/ind/divya1.png" group-title="►AS | HINDI",IN| DIVYA HD
+https://stream.kliv.in/nex/air2_100043.m3u8
+#EXTINF:-1 tvg-id="122493" tvg-logo="https://lo1.in/uk/clrsnc0.png" group-title="►AS | HINDI",IN| RISHTEY CINEPLEX HD
+https://stream.kliv.in/nex/air2_122493.m3u8
+#EXTINF:-1 tvg-id="122494" tvg-logo="https://lo1.in/ind/co.png" group-title="►AS | HINDI",IN| COLORS ORIYA HD
+https://stream.kliv.in/nex/air2_122494.m3u8
+#EXTINF:-1 tvg-id="131982" tvg-logo="https://lo1.in/ind/zecn.png" group-title="►AS | HINDI",IN| ZEE CINEMA SD
+https://stream.kliv.in/nex/air2_131982.m3u8
+#EXTINF:-1 tvg-id="131984" tvg-logo="https://lo1.in/ind/ddcha.png" group-title="►AS | HINDI",IN| DD CHANDANA HD
+https://stream.kliv.in/nex/air2_131984.m3u8
+#EXTINF:-1 tvg-id="131985" tvg-logo="https://lo1.in/ind/harek.png" group-title="►AS | HINDI",IN| HAREKRSNA HD
+https://stream.kliv.in/nex/air2_131985.m3u8
+#EXTINF:-1 tvg-id="131988" tvg-logo="https://lo1.in/ind/masti.png" group-title="►AS | HINDI",IN| MASTIII HD
+https://stream.kliv.in/nex/air2_131988.m3u8
+#EXTINF:-1 tvg-id="131990" tvg-logo="https://lo1.in/ind/9xms.png" group-title="►AS | HINDI",IN| 9X MUSIC HD
+https://stream.kliv.in/nex/air2_131990.m3u8
+#EXTINF:-1 tvg-id="131994" tvg-logo="https://lo1.in/ind/awakde.png" group-title="►AS | HINDI",IN| AWAKENING DEVOTIONAL HD
+https://stream.kliv.in/nex/air2_131994.m3u8
+#EXTINF:-1 tvg-id="131995" tvg-logo="https://lo1.in/ind/krishvdev.png" group-title="►AS | HINDI",IN| KRISHNA VANI DEVOTIONAL HD
+https://stream.kliv.in/nex/air2_131995.m3u8
+#EXTINF:-1 tvg-id="131997" tvg-logo="https://lo1.in/ind/b4uk.png" group-title="►AS | HINDI",IN| B4U KADAK HD
+https://stream.kliv.in/nex/air2_131997.m3u8
+#EXTINF:-1 tvg-id="132000" tvg-logo="https://lo1.in/ind/etvlf1.png" group-title="►AS | HINDI",IN| ETV LIFE HD
+https://stream.kliv.in/nex/air2_132000.m3u8
+#EXTINF:-1 tvg-id="132003" tvg-logo="https://lo1.in/ind/zeecf1.png" group-title="►AS | HINDI",IN| ZEE CAFE FHD
+https://stream.kliv.in/nex/air2_132003.m3u8
+#EXTINF:-1 tvg-id="132008" tvg-logo="https://lo1.in/ind/sonc.png" group-title="►AS | HINDI",IN| SONIC HD
+https://stream.kliv.in/nex/air2_132008.m3u8
+#EXTINF:-1 tvg-id="132009" tvg-logo="https://lo1.in/ind/rmdnw.png" group-title="►AS | HINDI",IN| ROMEDY NOW HD
+https://stream.kliv.in/nex/air2_132009.m3u8
+#EXTINF:-1 tvg-id="132013" tvg-logo="https://lo1.in/ind/nickeng.png" group-title="►AS | HINDI",IN| NICK+ FHD ENGLISH FHD
+https://stream.kliv.in/nex/air2_132013.m3u8
+#EXTINF:-1 tvg-id="132015" tvg-logo="https://lo1.in/ind/ntgew.png" group-title="►AS | HINDI",IN| NAT GEO WILD ENG FHD
+https://stream.kliv.in/nex/air2_132015.m3u8
+#EXTINF:-1 tvg-id="132017" tvg-logo="https://lo1.in/ind/mnx.png" group-title="►AS | HINDI",IN| MNX FHD
+https://stream.kliv.in/nex/air2_132017.m3u8
+#EXTINF:-1 tvg-id="132018" tvg-logo="https://lo1.in/ind/diswd.png" group-title="►AS | HINDI",IN| DISCOVERY WORLD HD
+https://stream.kliv.in/nex/air2_132018.m3u8
+#EXTINF:-1 tvg-id="132019" tvg-logo="https://lo1.in/ind/dsyeng.png" group-title="►AS | HINDI",IN| DISCOVERY ENGLISH FHD
+https://stream.kliv.in/nex/air2_132019.m3u8
+#EXTINF:-1 tvg-id="132020" tvg-logo="https://lo1.in/ind/clrsod.png" group-title="►AS | HINDI",IN| COLORS ODIYA SD
+https://stream.kliv.in/nex/air2_132020.m3u8
+#EXTINF:-1 tvg-id="132021" tvg-logo="https://lo1.in/ind/colcin.png" group-title="►AS | HINDI",IN| COLORS CINEPLEX SD
+https://stream.kliv.in/nex/air2_132021.m3u8
+#EXTINF:-1 tvg-id="132022" tvg-logo="https://lo1.in/ind/cnbcp.png" group-title="►AS | HINDI",IN| CNBC PRIME TV18 FHD
+https://stream.kliv.in/nex/air2_132022.m3u8
+#EXTINF:-1 tvg-id="132207" tvg-logo="https://lo1.in/ind/ntge.png" group-title="►AS | HINDI",IN| NAT GEO FHD ENG
+https://stream.kliv.in/nex/air2_132207.m3u8
+#EXTINF:-1 tvg-id="133484" tvg-logo="https://lo1.in/ind/dbkisns.png" group-title="►AS | HINDI",IN| DD KISAN HD
+https://stream.kliv.in/nex/air2_133484.m3u8
+#EXTINF:-1 tvg-id="133487" tvg-logo="https://lo1.in/ind/janns.png" group-title="►AS | HINDI",IN| JANTANTRA NEWS HD
+https://stream.kliv.in/nex/air2_133487.m3u8
+#EXTINF:-1 tvg-id="133489" tvg-logo="https://lo1.in/ind/nsx.png" group-title="►AS | HINDI",IN| NEWS X HD
+https://stream.kliv.in/nex/air2_133489.m3u8
+#EXTINF:-1 tvg-id="188235" tvg-logo="https://lo1.in/uk/clrst.png" group-title="►AS | HINDI",IN| COLORS RISHTEY UK SD
+https://stream.kliv.in/nex/air2_188235.m3u8
+#EXTINF:-1 tvg-id="188236" tvg-logo="https://lo1.in/ind/fodind.png" group-title="►AS | HINDI",IN| FOOD FOOD INDIA HD
+https://stream.kliv.in/nex/air2_188236.m3u8
+#EXTINF:-1 tvg-id="188237" tvg-logo="https://lo1.in/ind/zecnak.png" group-title="►AS | HINDI",IN| ZEE CINEMA UK HD
+https://stream.kliv.in/nex/air2_188237.m3u8
+#EXTINF:-1 tvg-id="188239" tvg-logo="https://lo1.in/ind/b4umvs.png" group-title="►AS | HINDI",IN| B4U MOVIES UK SD
+https://stream.kliv.in/nex/air2_188239.m3u8
+#EXTINF:-1 tvg-id="188244" tvg-logo="https://lo1.in/ind/daban.png" group-title="►AS | HINDI",IN| DABANGG HD
+https://stream.kliv.in/nex/air2_188244.m3u8
+#EXTINF:-1 tvg-id="188275" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | HINDI",IN| TS TATA SKY THEATRE SD
+https://stream.kliv.in/nex/air2_188275.m3u8
+#EXTINF:-1 tvg-id="197368" tvg-logo="https://lo1.in/ind/eurns.png" group-title="►AS | HINDI",IN| EURO NEWS HD
+https://stream.kliv.in/nex/air2_197368.m3u8
+#EXTINF:-1 tvg-id="197369" tvg-logo="https://lo1.in/ind/ns18ur.png" group-title="►AS | HINDI",IN| NEWS 18 URDU HD
+https://stream.kliv.in/nex/air2_197369.m3u8
+#EXTINF:-1 tvg-id="197370" tvg-logo="https://lo1.in/ind/repb.png" group-title="►AS | HINDI",IN| REPUBLIC TV HD
+https://stream.kliv.in/nex/air2_197370.m3u8
+#EXTINF:-1 tvg-id="197371" tvg-logo="https://lo1.in/ind/prns.png" group-title="►AS | HINDI",IN| PRIME NEWS HD
+https://stream.kliv.in/nex/air2_197371.m3u8
+#EXTINF:-1 tvg-id="197373" tvg-logo="https://lo1.in/ind/kashns.png" group-title="►AS | HINDI",IN| KASHISH NEWS SD
+https://stream.kliv.in/nex/air2_197373.m3u8
+#EXTINF:-1 tvg-id="197374" tvg-logo="https://lo1.in/ind/apnns.png" group-title="►AS | HINDI",IN| APN NEWS SD
+https://stream.kliv.in/nex/air2_197374.m3u8
+#EXTINF:-1 tvg-id="197375" tvg-logo="https://lo1.in/ind/nsind27.png" group-title="►AS | HINDI",IN| NEWS INDIA 24x7 HD
+https://stream.kliv.in/nex/air2_197375.m3u8
+#EXTINF:-1 tvg-id="197376" tvg-logo="https://lo1.in/ind/ns11bh.png" group-title="►AS | HINDI",IN| NEWS 11 BHARAT SD
+https://stream.kliv.in/nex/air2_197376.m3u8
+#EXTINF:-1 tvg-id="197377" tvg-logo="https://lo1.in/ind/ddurd.png" group-title="►AS | HINDI",IN| DD URDU SD
+https://stream.kliv.in/nex/air2_197377.m3u8
+#EXTINF:-1 tvg-id="197378" tvg-logo="https://lo1.in/ind/jzr.png" group-title="►AS | HINDI",IN| AL JAZEERA HD
+https://stream.kliv.in/nex/air2_197378.m3u8
+#EXTINF:-1 tvg-id="197379" tvg-logo="https://lo1.in/ind/sans.png" group-title="►AS | HINDI",IN| SANSAD TV HD
+https://stream.kliv.in/nex/air2_197379.m3u8
+#EXTINF:-1 tvg-id="197381" tvg-logo="https://lo1.in/ind/zeensmp.png" group-title="►AS | HINDI",IN| ZEE NEWS MP/CHATTISGARH HD
+https://stream.kliv.in/nex/air2_197381.m3u8
+#EXTINF:-1 tvg-id="197382" tvg-logo="https://lo1.in/ind/indnss.png" group-title="►AS | HINDI",IN| INDIA NEWS HARYANA HD
+https://stream.kliv.in/nex/air2_197382.m3u8
+#EXTINF:-1 tvg-id="197383" tvg-logo="https://lo1.in/ind/indins.png" group-title="►AS | HINDI",IN| INDIA NEWS UP SD
+https://stream.kliv.in/nex/air2_197383.m3u8
+#EXTINF:-1 tvg-id="197384" tvg-logo="https://lo1.in/ind/indnssr.png" group-title="►AS | HINDI",IN| INDIA NEWS RAJASTHAN SD
+https://stream.kliv.in/nex/air2_197384.m3u8
+#EXTINF:-1 tvg-id="197385" tvg-logo="https://lo1.in/ind/indins.png" group-title="►AS | HINDI",IN| INDIA NEWS MP CH HD
+https://stream.kliv.in/nex/air2_197385.m3u8
+#EXTINF:-1 tvg-id="197386" tvg-logo="https://lo1.in/ind/indins.png" group-title="►AS | HINDI",IN| INDIA NEWS SD
+https://stream.kliv.in/nex/air2_197386.m3u8
+#EXTINF:-1 tvg-id="197498" tvg-logo="https://lo1.in/ind/cokinac.png" group-title="►AS | HINDI",IN| COOKING ACTIVE SD
+https://stream.kliv.in/nex/air2_197498.m3u8
+#EXTINF:-1 tvg-id="197500" tvg-logo="https://lo1.in/ind/snyten4.png" group-title="►AS | HINDI",IN| SONY TEN 4 HD
+https://stream.kliv.in/nex/air2_197500.m3u8
+#EXTINF:-1 tvg-id="197501" tvg-logo="https://lo1.in/ind/enter10mv.png" group-title="►AS | HINDI",IN| ENTERR10 MOVIES SD
+https://stream.kliv.in/nex/air2_197501.m3u8
+#EXTINF:-1 tvg-id="197503" tvg-logo="https://lo1.in/ind/abzmv.png" group-title="►AS | HINDI",IN| ABZY MOVIES SD
+https://stream.kliv.in/nex/air2_197503.m3u8
+#EXTINF:-1 tvg-id="197504" tvg-logo="https://lo1.in/ind/histeng.png" group-title="►AS | HINDI",IN| HISTORY TV18 HINDI FHD
+https://stream.kliv.in/nex/air2_197504.m3u8
+#EXTINF:-1 tvg-id="197505" tvg-logo="https://lo1.in/ind/cnnint.png" group-title="►AS | HINDI",IN| CNN INTL HD
+https://stream.kliv.in/nex/air2_197505.m3u8
+#EXTINF:-1 tvg-id="197717" tvg-logo="https://lo1.in/ind/histeng.png" group-title="►AS | HINDI",IN| HISTORY TV18 ENG FHD
+https://stream.kliv.in/nex/air2_197717.m3u8
+#EXTINF:-1 tvg-id="226152" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | HINDI",IN| SPORTS 18 FHD
+https://stream.kliv.in/nex/air2_226152.m3u8
+#EXTINF:-1 tvg-id="478095" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | HINDI",IN| JIO EVENTS FHD
+https://stream.kliv.in/nex/air2_478095.m3u8
+#EXTINF:-1 tvg-id="983323" tvg-logo="https://lo1.in/ind/tmnw.png" group-title="►AS | HINDI",IN| TIMES NOW NAVBHARAT HD
+https://stream.kliv.in/nex/air2_983323.m3u8
+#EXTINF:-1 tvg-id="983324" tvg-logo="https://lo1.in/ind/tmnw.png" group-title="►AS | HINDI",IN| TIMES NOW WORLD FHD
+https://stream.kliv.in/nex/air2_983324.m3u8
+#EXTINF:-1 tvg-id="990016" tvg-logo="https://lo1.in/uk/aka.png" group-title="►AS | HINDI",IN| AKAAL CHANNEL
+https://stream.kliv.in/nex/air2_990016.m3u8
+#EXTINF:-1 tvg-id="1012986" tvg-logo="https://lo1.in/ind/abpmaj.png" group-title="►AS | HINDI",IN| ABP SANJHA TV
+https://stream.kliv.in/nex/air2_1012986.m3u8
+#EXTINF:-1 tvg-id="1012382" tvg-logo="https://lo1.in/ind/zeet.png" group-title="►AS | HINDI",IN| ZEE TV CANADA
+https://stream.kliv.in/nex/air2_1012382.m3u8
+#EXTINF:-1 tvg-id="1012381" tvg-logo="https://lo1.in/ind/itvban.png" group-title="►AS | HINDI",IN| ITV GOLD
+https://stream.kliv.in/nex/air2_1012381.m3u8
+#EXTINF:-1 tvg-id="1012380" tvg-logo="https://lo1.in/ind/shub.png" group-title="►AS | HINDI",IN| SHUBH CINEMA TV
+https://stream.kliv.in/nex/air2_1012380.m3u8
+#EXTINF:-1 tvg-id="1012379" tvg-logo="https://lo1.in/ind/manoj.png" group-title="►AS | HINDI",IN| MANORANJAN GRAND
+https://stream.kliv.in/nex/air2_1012379.m3u8
+#EXTINF:-1 tvg-id="1025065" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | HINDI",IN| VENDHAR NEWS
+https://stream.kliv.in/nex/air2_1025065.m3u8
+#EXTINF:-1 tvg-id="1084807" tvg-logo="https://lo1.in/uk/sony.png" group-title="►AS | HINDI",IN| SONY PAL (USA)
+https://stream.kliv.in/nex/air2_1084807.m3u8
+#EXTINF:-1 tvg-id="1084806" tvg-logo="https://lo1.in/uk/sony.png" group-title="►AS | HINDI",IN| SONY YAY (USA)
+https://stream.kliv.in/nex/air2_1084806.m3u8
+#EXTINF:-1 tvg-id="1084805" tvg-logo="https://lo1.in/uk/sony.png" group-title="►AS | HINDI",IN| SONY MAX (USA)
+https://stream.kliv.in/nex/air2_1084805.m3u8
+#EXTINF:-1 tvg-id="1084804" tvg-logo="https://lo1.in/uk/sony.png" group-title="►AS | HINDI",IN| SONY MAX 2 (USA)
+https://stream.kliv.in/nex/air2_1084804.m3u8
+#EXTINF:-1 tvg-id="1095574" tvg-logo="https://lo1.in/ind/zeet.png" group-title="►AS | HINDI",IN| ZEE TV USA
+https://stream.kliv.in/nex/air2_1095574.m3u8
+#EXTINF:-1 tvg-id="1127629" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | HINDI",IN| TV ASIA
+https://stream.kliv.in/nex/air2_1127629.m3u8
+#EXTINF:-1 tvg-id="173024" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | MALAYALAM",#### IN - MALAYALAM ####
+https://stream.kliv.in/nex/air2_173024.m3u8
+#EXTINF:-1 tvg-id="133508" tvg-logo="https://lo1.in/ind/mathns.png" group-title="►AS | MALAYALAM",IN| MATHRUBHUMI NEWS MALAYALAM HD
+https://stream.kliv.in/nex/air2_133508.m3u8
+#EXTINF:-1 tvg-id="97541" tvg-logo="https://lo1.in/ind/amrita.png" group-title="►AS | MALAYALAM",IN| AMRITA TV SD
+https://stream.kliv.in/nex/air2_97541.m3u8
+#EXTINF:-1 tvg-id="89816" tvg-logo="https://lo1.in/ind/asie.png" group-title="►AS | MALAYALAM",IN| ASIANET FHD
+https://stream.kliv.in/nex/air2_89816.m3u8
+#EXTINF:-1 tvg-id="89817" tvg-logo="https://lo1.in/ind/asiapl.png" group-title="►AS | MALAYALAM",IN| ASIANET PLUS HD
+https://stream.kliv.in/nex/air2_89817.m3u8
+#EXTINF:-1 tvg-id="89818" tvg-logo="https://lo1.in/ind/flowr.png" group-title="►AS | MALAYALAM",IN| FLOWERS TV HD
+https://stream.kliv.in/nex/air2_89818.m3u8
+#EXTINF:-1 tvg-id="33526" tvg-logo="https://lo1.in/ind/kair.png" group-title="►AS | MALAYALAM",IN| KAIRALI ARABIA HD
+https://stream.kliv.in/nex/air2_33526.m3u8
+#EXTINF:-1 tvg-id="89820" tvg-logo="https://lo1.in/ind/kaum.png" group-title="►AS | MALAYALAM",IN| KAUMUDY TV HD
+https://stream.kliv.in/nex/air2_89820.m3u8
+#EXTINF:-1 tvg-id="33541" tvg-logo="https://lo1.in/ind/mazh.png" group-title="►AS | MALAYALAM",IN| MAZHAVIL MANORAMA HD
+https://stream.kliv.in/nex/air2_33541.m3u8
+#EXTINF:-1 tvg-id="33586" tvg-logo="https://lo1.in/ind/rajmsml.png" group-title="►AS | MALAYALAM",IN| RAJ MUSIX MALAYALAM HD
+https://stream.kliv.in/nex/air2_33586.m3u8
+#EXTINF:-1 tvg-id="33600" tvg-logo="https://lo1.in/ind/safr.png" group-title="►AS | MALAYALAM",IN| SAFARI TV HD
+https://stream.kliv.in/nex/air2_33600.m3u8
+#EXTINF:-1 tvg-id="191128" tvg-logo="https://lo1.in/ind/shalom.png" group-title="►AS | MALAYALAM",IN| SHALOM TV SD
+https://stream.kliv.in/nex/air2_191128.m3u8
+#EXTINF:-1 tvg-id="132092" tvg-logo="https://lo1.in/ind/surycmd.png" group-title="►AS | MALAYALAM",IN| SURYA COMEDY SD
+https://stream.kliv.in/nex/air2_132092.m3u8
+#EXTINF:-1 tvg-id="33625" tvg-logo="https://lo1.in/ind/surmv.png" group-title="►AS | MALAYALAM",IN| SURYA MOVIES SD
+https://stream.kliv.in/nex/air2_33625.m3u8
+#EXTINF:-1 tvg-id="132091" tvg-logo="https://lo1.in/ind/surms.png" group-title="►AS | MALAYALAM",IN| SURYA MUSIC SD
+https://stream.kliv.in/nex/air2_132091.m3u8
+#EXTINF:-1 tvg-id="33452" tvg-logo="https://lo1.in/ind/asie.png" group-title="►AS | MALAYALAM",IN| ASIANET NEWS HD
+https://stream.kliv.in/nex/air2_33452.m3u8
+#EXTINF:-1 tvg-id="33538" tvg-logo="https://lo1.in/ind/manrns1.png" group-title="►AS | MALAYALAM",IN| MANORAMA NEWS HD
+https://stream.kliv.in/nex/air2_33538.m3u8
+#EXTINF:-1 tvg-id="89819" tvg-logo="https://lo1.in/ind/ddmly.png" group-title="►AS | MALAYALAM",IN| DD MALAYALAM HD
+https://stream.kliv.in/nex/air2_89819.m3u8
+#EXTINF:-1 tvg-id="33529" tvg-logo="https://lo1.in/ind/kapp.png" group-title="►AS | MALAYALAM",IN| KAPPA TV HD
+https://stream.kliv.in/nex/air2_33529.m3u8
+#EXTINF:-1 tvg-id="97513" tvg-logo="https://lo1.in/ind/zeeker.png" group-title="►AS | MALAYALAM",IN| ZEE KERALAM HD
+https://stream.kliv.in/nex/air2_97513.m3u8
+#EXTINF:-1 tvg-id="33521" tvg-logo="https://lo1.in/ind/janm.png" group-title="►AS | MALAYALAM",IN| JANAM TV SD
+https://stream.kliv.in/nex/air2_33521.m3u8
+#EXTINF:-1 tvg-id="33525" tvg-logo="https://lo1.in/ind/kains.png" group-title="►AS | MALAYALAM",IN| KAIRALI NEWS SD
+https://stream.kliv.in/nex/air2_33525.m3u8
+#EXTINF:-1 tvg-id="99933" tvg-logo="https://lo1.in/ind/kairw.png" group-title="►AS | MALAYALAM",IN| KAIRALI WE HD
+https://stream.kliv.in/nex/air2_99933.m3u8
+#EXTINF:-1 tvg-id="33590" tvg-logo="https://lo1.in/ind/rajnsml.png" group-title="►AS | MALAYALAM",IN| RAJ NEWS MALAYALAM HD
+https://stream.kliv.in/nex/air2_33590.m3u8
+#EXTINF:-1 tvg-id="132238" tvg-logo="https://lo1.in/ind/nickj.png" group-title="►AS | MALAYALAM",IN| NICK JUNIOR FHD MALAYALAM
+https://stream.kliv.in/nex/air2_132238.m3u8
+#EXTINF:-1 tvg-id="132237" tvg-logo="https://lo1.in/ind/nick.png" group-title="►AS | MALAYALAM",IN| NICK HD MALAYALAM
+https://stream.kliv.in/nex/air2_132237.m3u8
+#EXTINF:-1 tvg-id="132235" tvg-logo="https://lo1.in/ind/anmpl.png" group-title="►AS | MALAYALAM",IN| ANIMAL PLANET FHD MALAYALAM
+https://stream.kliv.in/nex/air2_132235.m3u8
+#EXTINF:-1 tvg-id="132234" tvg-logo="https://lo1.in/ind/diskd.png" group-title="►AS | MALAYALAM",IN| DISCOVERY KIDS HD MALAYALAM
+https://stream.kliv.in/nex/air2_132234.m3u8
+#EXTINF:-1 tvg-id="132232" tvg-logo="https://lo1.in/ind/dis.png" group-title="►AS | MALAYALAM",IN| DISCOVERY FHD MALAYALAM
+https://stream.kliv.in/nex/air2_132232.m3u8
+#EXTINF:-1 tvg-id="98014" tvg-logo="https://lo1.in/ind/backg.png" group-title="►AS | MALAYALAM",IN| SURYA TV HD
+https://stream.kliv.in/nex/air2_98014.m3u8
+#EXTINF:-1 tvg-id="99931" tvg-logo="https://lo1.in/ind/media.png" group-title="►AS | MALAYALAM",IN| MEDIA ONE SD
+https://stream.kliv.in/nex/air2_99931.m3u8
+#EXTINF:-1 tvg-id="99929" tvg-logo="https://lo1.in/ind/repo.png" group-title="►AS | MALAYALAM",IN| REPORTER TV SD
+https://stream.kliv.in/nex/air2_99929.m3u8
+#EXTINF:-1 tvg-id="99934" tvg-logo="https://lo1.in/ind/jeev.png" group-title="►AS | MALAYALAM",IN| JEEVAN TV SD
+https://stream.kliv.in/nex/air2_99934.m3u8
+#EXTINF:-1 tvg-id="197132" tvg-logo="https://lo1.in/ind/ns18ke.png" group-title="►AS | MALAYALAM",IN| NEWS 18 KERALA SD
+https://stream.kliv.in/nex/air2_197132.m3u8
+#EXTINF:-1 tvg-id="7871" tvg-logo="https://lo1.in/ind/DARSH.png" group-title="►AS | MALAYALAM",IN| DARSHANA TV SD
+https://stream.kliv.in/nex/air2_7871.m3u8
+#EXTINF:-1 tvg-id="5864" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | MALAYALAM",IN| KAIRALI PEOPLE TV MALAYALAM
+https://stream.kliv.in/nex/air2_5864.m3u8
+#EXTINF:-1 tvg-id="5863" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | MALAYALAM",IN| KOCHU TV MALAYALAM
+https://stream.kliv.in/nex/air2_5863.m3u8
+#EXTINF:-1 tvg-id="5862" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | MALAYALAM",IN| SHOLAM TV MALAYALAM
+https://stream.kliv.in/nex/air2_5862.m3u8
+#EXTINF:-1 tvg-id="5861" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | MALAYALAM",IN| 24 NEWS MALAYALAM
+https://stream.kliv.in/nex/air2_5861.m3u8
+#EXTINF:-1 tvg-id="5860" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | MALAYALAM",IN| MIDDLE EAST MALAYALAM
+https://stream.kliv.in/nex/air2_5860.m3u8
+#EXTINF:-1 tvg-id="4729" tvg-logo="https://lo1.in/ind/backg.png" group-title="►AS | MALAYALAM",IN| SURYA TV FHD
+https://stream.kliv.in/nex/air2_4729.m3u8
+#EXTINF:-1 tvg-id="173025" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | MARATHI",#### IN - MARATHI ####
+https://stream.kliv.in/nex/air2_173025.m3u8
+#EXTINF:-1 tvg-id="132113" tvg-logo="https://lo1.in/ind/clrmar.png" group-title="►AS | MARATHI",IN| COLORS MARATHI FHD
+https://stream.kliv.in/nex/air2_132113.m3u8
+#EXTINF:-1 tvg-id="33603" tvg-logo="https://lo1.in/ind/sangm.png" group-title="►AS | MARATHI",IN| SANGEET MARATHI HD
+https://stream.kliv.in/nex/air2_33603.m3u8
+#EXTINF:-1 tvg-id="132111" tvg-logo="https://lo1.in/ind/snymar.png" group-title="►AS | MARATHI",IN| SONY MARATHI HD
+https://stream.kliv.in/nex/air2_132111.m3u8
+#EXTINF:-1 tvg-id="132110" tvg-logo="https://lo1.in/ind/strpr.png" group-title="►AS | MARATHI",IN| STAR PRAVAH FHD
+https://stream.kliv.in/nex/air2_132110.m3u8
+#EXTINF:-1 tvg-id="132112" tvg-logo="https://lo1.in/ind/zemar.png" group-title="►AS | MARATHI",IN| ZEE MARATHI HD
+https://stream.kliv.in/nex/air2_132112.m3u8
+#EXTINF:-1 tvg-id="131993" tvg-logo="https://lo1.in/ind/zetal.png" group-title="►AS | MARATHI",IN| ZEE TALKIES FHD
+https://stream.kliv.in/nex/air2_131993.m3u8
+#EXTINF:-1 tvg-id="97520" tvg-logo="https://lo1.in/ind/ze24ta1.png" group-title="►AS | MARATHI",IN| ZEE 24 TAAS HD
+https://stream.kliv.in/nex/air2_97520.m3u8
+#EXTINF:-1 tvg-id="97512" tvg-logo="https://lo1.in/ind/zeyuv.png" group-title="►AS | MARATHI",IN| ZEE YUVA HD
+https://stream.kliv.in/nex/air2_97512.m3u8
+#EXTINF:-1 tvg-id="132290" tvg-logo="https://lo1.in/ind/ntge.png" group-title="►AS | MARATHI",IN| NAT GEO FHD MARATHI
+https://stream.kliv.in/nex/air2_132290.m3u8
+#EXTINF:-1 tvg-id="33642" tvg-logo="https://lo1.in/ind/tv9mar.png" group-title="►AS | MARATHI",IN| TV9 MARATHI HD
+https://stream.kliv.in/nex/air2_33642.m3u8
+#EXTINF:-1 tvg-id="33599" tvg-logo="https://lo1.in/ind/sammar.png" group-title="►AS | MARATHI",IN| SAAM MARATHI HD
+https://stream.kliv.in/nex/air2_33599.m3u8
+#EXTINF:-1 tvg-id="33447" tvg-logo="https://lo1.in/ind/abpmaj.png" group-title="►AS | MARATHI",IN| ABP MAJHA MARATHI HD
+https://stream.kliv.in/nex/air2_33447.m3u8
+#EXTINF:-1 tvg-id="132109" tvg-logo="https://lo1.in/ind/loksh.png" group-title="►AS | MARATHI",IN| LOKSHAHI SD
+https://stream.kliv.in/nex/air2_132109.m3u8
+#EXTINF:-1 tvg-id="133512" tvg-logo="https://lo1.in/ind/9xjh.png" group-title="►AS | MARATHI",IN| 9X JHAKAAS HD
+https://stream.kliv.in/nex/air2_133512.m3u8
+#EXTINF:-1 tvg-id="133513" tvg-logo="https://lo1.in/ind/faktm.png" group-title="►AS | MARATHI",IN| FAKT MARATHI HD
+https://stream.kliv.in/nex/air2_133513.m3u8
+#EXTINF:-1 tvg-id="133514" tvg-logo="https://lo1.in/ind/dbsah.png" group-title="►AS | MARATHI",IN| DD SAHYADRI HD
+https://stream.kliv.in/nex/air2_133514.m3u8
+#EXTINF:-1 tvg-id="173026" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BHOJPURI",#### IN - BHOJPURI ####
+https://stream.kliv.in/nex/air2_173026.m3u8
+#EXTINF:-1 tvg-id="132124" tvg-logo="https://lo1.in/ind/b4umvs.png" group-title="►AS | BHOJPURI",IN| B4U BHOJPURI SD
+https://stream.kliv.in/nex/air2_132124.m3u8
+#EXTINF:-1 tvg-id="33458" tvg-logo="https://lo1.in/ind/bhojcn.png" group-title="►AS | BHOJPURI",IN| BHOJPURI CINEMA HD
+https://stream.kliv.in/nex/air2_33458.m3u8
+#EXTINF:-1 tvg-id="97537" tvg-logo="https://lo1.in/ind/dang.png" group-title="►AS | BHOJPURI",IN| DANGAL HD
+https://stream.kliv.in/nex/air2_97537.m3u8
+#EXTINF:-1 tvg-id="133657" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BANGLA",►►► BANGLA| UK◄◄◄
+https://stream.kliv.in/nex/air2_133657.m3u8
+#EXTINF:-1 tvg-id="33453" tvg-logo="https://lo1.in/ind/atnbng.png" group-title="►AS | BANGLA",IN| ATN BANGLA SD
+https://stream.kliv.in/nex/air2_33453.m3u8
+#EXTINF:-1 tvg-id="33518" tvg-logo="https://lo1.in/ind/aakash.png" group-title="►AS | BANGLA",IN| IQRA BANGLA SD
+https://stream.kliv.in/nex/air2_33518.m3u8
+#EXTINF:-1 tvg-id="133658" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BANGLA",►►► BANGLA| GENERAL◄◄◄
+https://stream.kliv.in/nex/air2_133658.m3u8
+#EXTINF:-1 tvg-id="33654" tvg-logo="https://lo1.in/ind/ze24gh.png" group-title="►AS | BANGLA",IN| ZEE 24 GHANTA FHD
+https://stream.kliv.in/nex/air2_33654.m3u8
+#EXTINF:-1 tvg-id="33602" tvg-logo="https://lo1.in/ind/sanget.png" group-title="►AS | BANGLA",IN| SANGEET BANGLA HD
+https://stream.kliv.in/nex/air2_33602.m3u8
+#EXTINF:-1 tvg-id="171454" tvg-logo="https://lo1.in/ban/tbh.png" group-title="►AS | BANGLA",BD| TBN UK HD
+https://stream.kliv.in/nex/air2_171454.m3u8
+#EXTINF:-1 tvg-id="33598" tvg-logo="https://lo1.in/ind/ruposhb.png" group-title="►AS | BANGLA",IN| RUPOSHI BANGLA HD
+https://stream.kliv.in/nex/air2_33598.m3u8
+#EXTINF:-1 tvg-id="133493" tvg-logo="https://lo1.in/ind/abpa.png" group-title="►AS | BANGLA",IN| ABP ANANDA FHD
+https://stream.kliv.in/nex/air2_133493.m3u8
+#EXTINF:-1 tvg-id="133659" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BANGLA",►►► BANGLA| ASIA◄◄◄
+https://stream.kliv.in/nex/air2_133659.m3u8
+#EXTINF:-1 tvg-id="133492" tvg-logo="https://lo1.in/ind/clrb.png" group-title="►AS | BANGLA",IN| COLORS BANGLA FHD
+https://stream.kliv.in/nex/air2_133492.m3u8
+#EXTINF:-1 tvg-id="171506" tvg-logo="https://lo1.in/ban/zee.png" group-title="►AS | BANGLA",BD| ZEE 24 GHANTA HD
+https://stream.kliv.in/nex/air2_171506.m3u8
+#EXTINF:-1 tvg-id="149630" tvg-logo="https://lo1.in/ind/nago.png" group-title="►AS | BANGLA",IN| NAGORIK TV HD
+https://stream.kliv.in/nex/air2_149630.m3u8
+#EXTINF:-1 tvg-id="171501" tvg-logo="https://lo1.in/ban/flg.png" group-title="►AS | BANGLA",BD| ASIAN TV HD
+https://stream.kliv.in/nex/air2_171501.m3u8
+#EXTINF:-1 tvg-id="149629" tvg-logo="https://lo1.in/ind/atnms.png" group-title="►AS | BANGLA",IN| ATN MUSIC HD
+https://stream.kliv.in/nex/air2_149629.m3u8
+#EXTINF:-1 tvg-id="149628" tvg-logo="https://lo1.in/ind/atnns.png" group-title="►AS | BANGLA",IN| ATN NEWS HD
+https://stream.kliv.in/nex/air2_149628.m3u8
+#EXTINF:-1 tvg-id="171496" tvg-logo="https://lo1.in/ban/ban.png" group-title="►AS | BANGLA",BD| ETV BANGLA HD
+https://stream.kliv.in/nex/air2_171496.m3u8
+#EXTINF:-1 tvg-id="149627" tvg-logo="https://lo1.in/ind/atnisl.png" group-title="►AS | BANGLA",IN| ATN ISLAMIC TV HD
+https://stream.kliv.in/nex/air2_149627.m3u8
+#EXTINF:-1 tvg-id="171492" tvg-logo="https://lo1.in/ban/boi0.png" group-title="►AS | BANGLA",BD| BOISHAKHI TV HD
+https://stream.kliv.in/nex/air2_171492.m3u8
+#EXTINF:-1 tvg-id="149622" tvg-logo="https://lo1.in/ind/btvwr1.png" group-title="►AS | BANGLA",IN| BTV WORLD HD
+https://stream.kliv.in/nex/air2_149622.m3u8
+#EXTINF:-1 tvg-id="149623" tvg-logo="https://lo1.in/ind/btvwr1.png" group-title="►AS | BANGLA",IN| BTV HD
+https://stream.kliv.in/nex/air2_149623.m3u8
+#EXTINF:-1 tvg-id="171489" tvg-logo="https://lo1.in/ban/ch.png" group-title="►AS | BANGLA",BD| CHANNEL 24 HD
+https://stream.kliv.in/nex/air2_171489.m3u8
+#EXTINF:-1 tvg-id="149621" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BANGLA",IN| CHANNEL 9 HD
+https://stream.kliv.in/nex/air2_149621.m3u8
+#EXTINF:-1 tvg-id="149620" tvg-logo="https://lo1.in/ind/ch.png" group-title="►AS | BANGLA",IN| CHANNEL I HD
+https://stream.kliv.in/nex/air2_149620.m3u8
+#EXTINF:-1 tvg-id="29752" tvg-logo="https://lo1.in/ban/chns.png" group-title="►AS | BANGLA",BD| CHANNEL S HD
+https://stream.kliv.in/nex/air2_29752.m3u8
+#EXTINF:-1 tvg-id="149619" tvg-logo="https://lo1.in/ind/dbcns.png" group-title="►AS | BANGLA",IN| DBC NEWS HD
+https://stream.kliv.in/nex/air2_149619.m3u8
+#EXTINF:-1 tvg-id="149618" tvg-logo="https://lo1.in/ind/deshb.png" group-title="►AS | BANGLA",IN| DESHE BIDESHE TV HD
+https://stream.kliv.in/nex/air2_149618.m3u8
+#EXTINF:-1 tvg-id="132315" tvg-logo="https://lo1.in/ind/disban.png" group-title="►AS | BANGLA",IN| DISCOVERY FHD BANGLA
+https://stream.kliv.in/nex/air2_132315.m3u8
+#EXTINF:-1 tvg-id="149616" tvg-logo="https://lo1.in/ind/etv.png" group-title="►AS | BANGLA",IN| ETV BANGAL HD
+https://stream.kliv.in/nex/air2_149616.m3u8
+#EXTINF:-1 tvg-id="149614" tvg-logo="https://lo1.in/ind/indens.png" group-title="►AS | BANGLA",IN| INDEPENDENT NEWS HD
+https://stream.kliv.in/nex/air2_149614.m3u8
+#EXTINF:-1 tvg-id="100036" tvg-logo="https://lo1.in/ind/itvban.png" group-title="►AS | BANGLA",IN| ITV BANGLA HD
+https://stream.kliv.in/nex/air2_100036.m3u8
+#EXTINF:-1 tvg-id="149613" tvg-logo="https://lo1.in/ind/mohn1.png" group-title="►AS | BANGLA",IN| MOHONA TV HD
+https://stream.kliv.in/nex/air2_149613.m3u8
+#EXTINF:-1 tvg-id="133491" tvg-logo="https://lo1.in/ind/nsstms.png" group-title="►AS | BANGLA",IN| NEWS TIMES HD
+https://stream.kliv.in/nex/air2_133491.m3u8
+#EXTINF:-1 tvg-id="149610" tvg-logo="https://lo1.in/ind/nrb.png" group-title="►AS | BANGLA",IN| NRB TV HD
+https://stream.kliv.in/nex/air2_149610.m3u8
+#EXTINF:-1 tvg-id="33569" tvg-logo="https://lo1.in/ind/ntv.png" group-title="►AS | BANGLA",IN| NTV HD
+https://stream.kliv.in/nex/air2_33569.m3u8
+#EXTINF:-1 tvg-id="89808" tvg-logo="https://lo1.in/ind/ktv.png" group-title="►AS | BANGLA",IN| KTV FHD
+https://stream.kliv.in/nex/air2_89808.m3u8
+#EXTINF:-1 tvg-id="171471" tvg-logo="https://lo1.in/ban/sg.png" group-title="►AS | BANGLA",BD| SANGEET BANGLA HD
+https://stream.kliv.in/nex/air2_171471.m3u8
+#EXTINF:-1 tvg-id="149609" tvg-logo="https://lo1.in/ind/somns.png" group-title="►AS | BANGLA",IN| SOMOY NEWS TV HD
+https://stream.kliv.in/nex/air2_149609.m3u8
+#EXTINF:-1 tvg-id="33609" tvg-logo="https://lo1.in/ind/snyaat.png" group-title="►AS | BANGLA",IN| SONY AATH HD
+https://stream.kliv.in/nex/air2_33609.m3u8
+#EXTINF:-1 tvg-id="97525" tvg-logo="https://lo1.in/ind/sjalsha1.png" group-title="►AS | BANGLA",IN| STAR JALSHA FHD
+https://stream.kliv.in/nex/air2_97525.m3u8
+#EXTINF:-1 tvg-id="149608" tvg-logo="https://lo1.in/ind/deept.png" group-title="►AS | BANGLA",IN| DEEPTO HD
+https://stream.kliv.in/nex/air2_149608.m3u8
+#EXTINF:-1 tvg-id="149607" tvg-logo="https://lo1.in/ind/jumn.png" group-title="►AS | BANGLA",IN| JAMUNA TV HD
+https://stream.kliv.in/nex/air2_149607.m3u8
+#EXTINF:-1 tvg-id="149606" tvg-logo="https://lo1.in/ind/myt0.png" group-title="►AS | BANGLA",IN| MY TV HD
+https://stream.kliv.in/nex/air2_149606.m3u8
+#EXTINF:-1 tvg-id="171463" tvg-logo="https://lo1.in/ban/zee1.png" group-title="►AS | BANGLA",BD| ZEE BANGLA HD
+https://stream.kliv.in/nex/air2_171463.m3u8
+#EXTINF:-1 tvg-id="149605" tvg-logo="https://lo1.in/ind/ent1.png" group-title="►AS | BANGLA",IN| ENTER 10 BANGLA HD
+https://stream.kliv.in/nex/air2_149605.m3u8
+#EXTINF:-1 tvg-id="33535" tvg-logo="https://lo1.in/ind/madbng.png" group-title="►AS | BANGLA",IN| MADANI TV BANGLA
+https://stream.kliv.in/nex/air2_33535.m3u8
+#EXTINF:-1 tvg-id="171457" tvg-logo="https://lo1.in/ban/str.png" group-title="►AS | BANGLA",BD|  STAR JALSHA FHD
+https://stream.kliv.in/nex/air2_171457.m3u8
+#EXTINF:-1 tvg-id="33655" tvg-logo="https://lo1.in/ind/zebncn.png" group-title="►AS | BANGLA",IN| ZEE BANGLA CINEMA HD
+https://stream.kliv.in/nex/air2_33655.m3u8
+#EXTINF:-1 tvg-id="132322" tvg-logo="https://lo1.in/ind/ntge.png" group-title="►AS | BANGLA",IN| NAT GEO HD BANGLA
+https://stream.kliv.in/nex/air2_132322.m3u8
+#EXTINF:-1 tvg-id="132122" tvg-logo="https://lo1.in/ind/sunbn.png" group-title="►AS | BANGLA",IN| SUN BANGLA SD
+https://stream.kliv.in/nex/air2_132122.m3u8
+#EXTINF:-1 tvg-id="197328" tvg-logo="https://lo1.in/ind/ekat.png" group-title="►AS | BANGLA",IN| EKATTOR TV HD
+https://stream.kliv.in/nex/air2_197328.m3u8
+#EXTINF:-1 tvg-id="197329" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BANGLA",IN| AMAR BANGAL
+https://stream.kliv.in/nex/air2_197329.m3u8
+#EXTINF:-1 tvg-id="197330" tvg-logo="https://lo1.in/ind/ch24.png" group-title="►AS | BANGLA",IN| CHANNEL 24
+https://stream.kliv.in/nex/air2_197330.m3u8
+#EXTINF:-1 tvg-id="197331" tvg-logo="https://lo1.in/ind/khusboo.png" group-title="►AS | BANGLA",IN| KHUSBOO BANGLA
+https://stream.kliv.in/nex/air2_197331.m3u8
+#EXTINF:-1 tvg-id="197333" tvg-logo="https://lo1.in/ind/sadh.png" group-title="►AS | BANGLA",IN| SADHNA
+https://stream.kliv.in/nex/air2_197333.m3u8
+#EXTINF:-1 tvg-id="197334" tvg-logo="https://lo1.in/ind/boish0.png" group-title="►AS | BANGLA",IN| BOISHAKHI TV
+https://stream.kliv.in/nex/air2_197334.m3u8
+#EXTINF:-1 tvg-id="197335" tvg-logo="https://lo1.in/ind/manj.png" group-title="►AS | BANGLA",IN| MANJARI TV SD
+https://stream.kliv.in/nex/air2_197335.m3u8
+#EXTINF:-1 tvg-id="5825" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BANGLA",IN| TV ONE BANGLA
+https://stream.kliv.in/nex/air2_5825.m3u8
+#EXTINF:-1 tvg-id="5824" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BANGLA",IN| KTV BANGLA
+https://stream.kliv.in/nex/air2_5824.m3u8
+#EXTINF:-1 tvg-id="5823" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BANGLA",IN| NEWS 24 HD BANGLA
+https://stream.kliv.in/nex/air2_5823.m3u8
+#EXTINF:-1 tvg-id="173027" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | TELEGU",#### IN - TELEGU ####
+https://stream.kliv.in/nex/air2_173027.m3u8
+#EXTINF:-1 tvg-id="33456" tvg-logo="https://lo1.in/ind/bhakt.png" group-title="►AS | TELEGU",IN| BHAKTI TV SD
+https://stream.kliv.in/nex/air2_33456.m3u8
+#EXTINF:-1 tvg-id="132001" tvg-logo="https://lo1.in/ind/etvcn.png" group-title="►AS | TELEGU",IN| ETV CINEMA HD
+https://stream.kliv.in/nex/air2_132001.m3u8
+#EXTINF:-1 tvg-id="131999" tvg-logo="https://lo1.in/ind/etv.png" group-title="►AS | TELEGU",IN| ETV FHD
+https://stream.kliv.in/nex/air2_131999.m3u8
+#EXTINF:-1 tvg-id="33504" tvg-logo="https://lo1.in/ind/gemi.png" group-title="►AS | TELEGU",IN| GEMINI TV FHD
+https://stream.kliv.in/nex/air2_33504.m3u8
+#EXTINF:-1 tvg-id="133483" tvg-logo="https://lo1.in/ind/gemmv.png" group-title="►AS | TELEGU",IN| GEMINI MOVIES FHD
+https://stream.kliv.in/nex/air2_133483.m3u8
+#EXTINF:-1 tvg-id="33523" tvg-logo="https://lo1.in/ind/jaymx.png" group-title="►AS | TELEGU",IN| JAYA MAX HD
+https://stream.kliv.in/nex/air2_33523.m3u8
+#EXTINF:-1 tvg-id="33534" tvg-logo="https://lo1.in/ind/mammv.png" group-title="►AS | TELEGU",IN| STAR MAA MOVIES FHD
+https://stream.kliv.in/nex/air2_33534.m3u8
+#EXTINF:-1 tvg-id="150686" tvg-logo="https://lo1.in/ind/ntgew.png" group-title="►AS | TELEGU",IN| NAT GEO WILD FHD TELUGU
+https://stream.kliv.in/nex/air2_150686.m3u8
+#EXTINF:-1 tvg-id="150685" tvg-logo="https://lo1.in/ind/ntge.png" group-title="►AS | TELEGU",IN| NAT GEO FHD TELUGU
+https://stream.kliv.in/nex/air2_150685.m3u8
+#EXTINF:-1 tvg-id="33587" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | TELEGU",IN| RAJ MUSIX TELUGU HD
+https://stream.kliv.in/nex/air2_33587.m3u8
+#EXTINF:-1 tvg-id="33591" tvg-logo="https://lo1.in/ind/rajms.png" group-title="►AS | TELEGU",IN| RAJ NEWS TELUGU HD
+https://stream.kliv.in/nex/air2_33591.m3u8
+#EXTINF:-1 tvg-id="133490" tvg-logo="https://lo1.in/ind/stargd.png" group-title="►AS | TELEGU",IN| STAR MAA GOLD HD
+https://stream.kliv.in/nex/air2_133490.m3u8
+#EXTINF:-1 tvg-id="33533" tvg-logo="https://lo1.in/ind/starm.png" group-title="►AS | TELEGU",IN| STAR MAA FHD
+https://stream.kliv.in/nex/air2_33533.m3u8
+#EXTINF:-1 tvg-id="33643" tvg-logo="https://lo1.in/ind/9telg.png" group-title="►AS | TELEGU",IN| TV9 TELUGU HD
+https://stream.kliv.in/nex/air2_33643.m3u8
+#EXTINF:-1 tvg-id="33647" tvg-logo="https://lo1.in/ind/v6ns.png" group-title="►AS | TELEGU",IN| V6 NEWS HD
+https://stream.kliv.in/nex/air2_33647.m3u8
+#EXTINF:-1 tvg-id="97516" tvg-logo="https://lo1.in/ind/zecnm.png" group-title="►AS | TELEGU",IN| ZEE CINEMALU HD
+https://stream.kliv.in/nex/air2_97516.m3u8
+#EXTINF:-1 tvg-id="131992" tvg-logo="https://lo1.in/ind/gemlf.png" group-title="►AS | TELEGU",IN| GEMINI LIFE HD
+https://stream.kliv.in/nex/air2_131992.m3u8
+#EXTINF:-1 tvg-id="33601" tvg-logo="https://lo1.in/ind/sakshi.png" group-title="►AS | TELEGU",IN| SAKSHI TV HD
+https://stream.kliv.in/nex/air2_33601.m3u8
+#EXTINF:-1 tvg-id="150687" tvg-logo="https://lo1.in/ind/crtnet.png" group-title="►AS | TELEGU",IN| CARTOON NETWORK HD TELUGU
+https://stream.kliv.in/nex/air2_150687.m3u8
+#EXTINF:-1 tvg-id="150684" tvg-logo="https://lo1.in/ind/nickj.png" group-title="►AS | TELEGU",IN| NICK JUNIOR FHD TELUGU
+https://stream.kliv.in/nex/air2_150684.m3u8
+#EXTINF:-1 tvg-id="150683" tvg-logo="https://lo1.in/ind/nick.png" group-title="►AS | TELEGU",IN| NICK HD TELUGU
+https://stream.kliv.in/nex/air2_150683.m3u8
+#EXTINF:-1 tvg-id="150682" tvg-logo="https://lo1.in/ind/pog1.png" group-title="►AS | TELEGU",IN| POGO HD TELUGU
+https://stream.kliv.in/nex/air2_150682.m3u8
+#EXTINF:-1 tvg-id="150680" tvg-logo="https://lo1.in/ind/animplte.png" group-title="►AS | TELEGU",IN| ANIMAL PLANET FHD TELUGU
+https://stream.kliv.in/nex/air2_150680.m3u8
+#EXTINF:-1 tvg-id="150679" tvg-logo="https://lo1.in/ind/diskd.png" group-title="►AS | TELEGU",IN| DISCOVERY KIDS HD TELUGU
+https://stream.kliv.in/nex/air2_150679.m3u8
+#EXTINF:-1 tvg-id="150677" tvg-logo="https://lo1.in/ind/distelu.png" group-title="►AS | TELEGU",IN| DISCOVERY FHD TELUGU
+https://stream.kliv.in/nex/air2_150677.m3u8
+#EXTINF:-1 tvg-id="150676" tvg-logo="https://lo1.in/ind/gemncmy.png" group-title="►AS | TELEGU",IN| GEMINI COMEDY HD
+https://stream.kliv.in/nex/air2_150676.m3u8
+#EXTINF:-1 tvg-id="97531" tvg-logo="https://lo1.in/ind/ntvtel.png" group-title="►AS | TELEGU",IN| NTV TELUGU SD
+https://stream.kliv.in/nex/air2_97531.m3u8
+#EXTINF:-1 tvg-id="133477" tvg-logo="https://lo1.in/ind/vis.png" group-title="►AS | TELEGU",IN| VISSA TV HD
+https://stream.kliv.in/nex/air2_133477.m3u8
+#EXTINF:-1 tvg-id="133481" tvg-logo="https://lo1.in/ind/zetel.png" group-title="►AS | TELEGU",IN| ZEE TELUGU FHD
+https://stream.kliv.in/nex/air2_133481.m3u8
+#EXTINF:-1 tvg-id="133482" tvg-logo="https://lo1.in/ind/htv.png" group-title="►AS | TELEGU",IN| HM TV HD
+https://stream.kliv.in/nex/air2_133482.m3u8
+#EXTINF:-1 tvg-id="197160" tvg-logo="https://lo1.in/ind/10t0.png" group-title="►AS | TELEGU",IN| 10 TV SD
+https://stream.kliv.in/nex/air2_197160.m3u8
+#EXTINF:-1 tvg-id="173028" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | GUJARRATI",#### IN - GUJARRATI ####
+https://stream.kliv.in/nex/air2_173028.m3u8
+#EXTINF:-1 tvg-id="33468" tvg-logo="https://lo1.in/ind/clrsg.png" group-title="►AS | GUJARRATI",IN| COLORS GUJRATI TV FHD
+https://stream.kliv.in/nex/air2_33468.m3u8
+#EXTINF:-1 tvg-id="133494" tvg-logo="https://lo1.in/ind/lvns.png" group-title="►AS | GUJARRATI",IN| LIVING INDIA NEWS HD
+https://stream.kliv.in/nex/air2_133494.m3u8
+#EXTINF:-1 tvg-id="133509" tvg-logo="https://lo1.in/ind/sandshins.png" group-title="►AS | GUJARRATI",IN| SANDESH NEWS GUJRATI FHD
+https://stream.kliv.in/nex/air2_133509.m3u8
+#EXTINF:-1 tvg-id="33651" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | GUJARRATI",IN| VTV NEWS GUJARATI SD
+https://stream.kliv.in/nex/air2_33651.m3u8
+#EXTINF:-1 tvg-id="132296" tvg-logo="https://lo1.in/ind/animplte.png" group-title="►AS | GUJARRATI",IN| ANIMAL PLANET FHD GUJARATI
+https://stream.kliv.in/nex/air2_132296.m3u8
+#EXTINF:-1 tvg-id="132300" tvg-logo="https://lo1.in/ind/nickj.png" group-title="►AS | GUJARRATI",IN| NICK JUNIOR FHD GUJARATI
+https://stream.kliv.in/nex/air2_132300.m3u8
+#EXTINF:-1 tvg-id="132299" tvg-logo="https://lo1.in/ind/nick.png" group-title="►AS | GUJARRATI",IN| NICK HD GUJARATI
+https://stream.kliv.in/nex/air2_132299.m3u8
+#EXTINF:-1 tvg-id="132297" tvg-logo="https://lo1.in/ind/sonict.png" group-title="►AS | GUJARRATI",IN| SONIC HD GUJARATI
+https://stream.kliv.in/nex/air2_132297.m3u8
+#EXTINF:-1 tvg-id="132295" tvg-logo="https://lo1.in/ind/diskd.png" group-title="►AS | GUJARRATI",IN| DISCOVERY KIDS HD GUJARATI
+https://stream.kliv.in/nex/air2_132295.m3u8
+#EXTINF:-1 tvg-id="33640" tvg-logo="https://lo1.in/ind/9guj.png" group-title="►AS | GUJARRATI",IN| TV9 GUJARATI HD
+https://stream.kliv.in/nex/air2_33640.m3u8
+#EXTINF:-1 tvg-id="33467" tvg-logo="https://lo1.in/ind/clrgucn1.png" group-title="►AS | GUJARRATI",IN| COLORS GUJRATI CINEMA FHD
+https://stream.kliv.in/nex/air2_33467.m3u8
+#EXTINF:-1 tvg-id="33563" tvg-logo="https://lo1.in/ind/ns18guj.png" group-title="►AS | GUJARRATI",IN| NEWS 18 GUJARATI SD
+https://stream.kliv.in/nex/air2_33563.m3u8
+#EXTINF:-1 tvg-id="33446" tvg-logo="https://lo1.in/ind/abp.png" group-title="►AS | GUJARRATI",IN| ABP ASMITA SD
+https://stream.kliv.in/nex/air2_33446.m3u8
+#EXTINF:-1 tvg-id="33475" tvg-logo="https://lo1.in/ind/ddgir.png" group-title="►AS | GUJARRATI",IN| DD GIRNAR HD
+https://stream.kliv.in/nex/air2_33475.m3u8
+#EXTINF:-1 tvg-id="33639" tvg-logo="https://lo1.in/ind/9bhar.png" group-title="►AS | GUJARRATI",IN| TV9 BHARATVARSH HD
+https://stream.kliv.in/nex/air2_33639.m3u8
+#EXTINF:-1 tvg-id="99938" tvg-logo="https://lo1.in/ind/cnbcaw.png" group-title="►AS | GUJARRATI",IN| CNBC AWAAZ FHD
+https://stream.kliv.in/nex/air2_99938.m3u8
+#EXTINF:-1 tvg-id="133510" tvg-logo="https://lo1.in/ind/ze24kl.png" group-title="►AS | GUJARRATI",IN| ZEE 24 KALAK GUJRATI HD
+https://stream.kliv.in/nex/air2_133510.m3u8
+#EXTINF:-1 tvg-id="197224" tvg-logo="https://lo1.in/ind/prar.png" group-title="►AS | GUJARRATI",IN| PRARTHANA SD
+https://stream.kliv.in/nex/air2_197224.m3u8
+#EXTINF:-1 tvg-id="197225" tvg-logo="https://lo1.in/ind/tatskycn.png" group-title="►AS | GUJARRATI",IN| GUJRATI CINEMA SD
+https://stream.kliv.in/nex/air2_197225.m3u8
+#EXTINF:-1 tvg-id="197223" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 1 SD
+https://stream.kliv.in/nex/air2_197223.m3u8
+#EXTINF:-1 tvg-id="197222" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 2 SD
+https://stream.kliv.in/nex/air2_197222.m3u8
+#EXTINF:-1 tvg-id="197221" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 3 SD
+https://stream.kliv.in/nex/air2_197221.m3u8
+#EXTINF:-1 tvg-id="197220" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 4 SD
+https://stream.kliv.in/nex/air2_197220.m3u8
+#EXTINF:-1 tvg-id="197219" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 5 SD
+https://stream.kliv.in/nex/air2_197219.m3u8
+#EXTINF:-1 tvg-id="197218" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 6 SD
+https://stream.kliv.in/nex/air2_197218.m3u8
+#EXTINF:-1 tvg-id="197217" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 7 SD
+https://stream.kliv.in/nex/air2_197217.m3u8
+#EXTINF:-1 tvg-id="197216" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 8 SD
+https://stream.kliv.in/nex/air2_197216.m3u8
+#EXTINF:-1 tvg-id="197215" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 9 SD
+https://stream.kliv.in/nex/air2_197215.m3u8
+#EXTINF:-1 tvg-id="197214" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 10 SD
+https://stream.kliv.in/nex/air2_197214.m3u8
+#EXTINF:-1 tvg-id="197213" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 11 SD
+https://stream.kliv.in/nex/air2_197213.m3u8
+#EXTINF:-1 tvg-id="197212" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 12 SD
+https://stream.kliv.in/nex/air2_197212.m3u8
+#EXTINF:-1 tvg-id="197211" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 13 SD
+https://stream.kliv.in/nex/air2_197211.m3u8
+#EXTINF:-1 tvg-id="197210" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 14 SD
+https://stream.kliv.in/nex/air2_197210.m3u8
+#EXTINF:-1 tvg-id="197209" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 15 SD
+https://stream.kliv.in/nex/air2_197209.m3u8
+#EXTINF:-1 tvg-id="197208" tvg-logo="https://lo1.in/ind/vand.png" group-title="►AS | GUJARRATI",IN| VANDE GUJARAT 16 SD
+https://stream.kliv.in/nex/air2_197208.m3u8
+#EXTINF:-1 tvg-id="173029" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | BENGALI",#### IN - BENGALI ####
+https://stream.kliv.in/nex/air2_173029.m3u8
+#EXTINF:-1 tvg-id="171507" tvg-logo="https://lo1.in/ban/co.png" group-title="►AS | BENGALI",BD| COLORS BANGLA FHD
+https://stream.kliv.in/nex/air2_171507.m3u8
+#EXTINF:-1 tvg-id="132121" tvg-logo="https://lo1.in/ind/strjalmv.png" group-title="►AS | BENGALI",IN| STAR JALSHA MOVIES FHD
+https://stream.kliv.in/nex/air2_132121.m3u8
+#EXTINF:-1 tvg-id="132123" tvg-logo="https://lo1.in/ind/zebng.png" group-title="►AS | BENGALI",IN| ZEE BANGLA FHD
+https://stream.kliv.in/nex/air2_132123.m3u8
+#EXTINF:-1 tvg-id="149626" tvg-logo="https://lo1.in/ind/bangvs.png" group-title="►AS | BENGALI",IN| BANGLA VISION HD
+https://stream.kliv.in/nex/air2_149626.m3u8
+#EXTINF:-1 tvg-id="149625" tvg-logo="https://lo1.in/ind/bang.png" group-title="►AS | BENGALI",IN| BANGLA TV HD
+https://stream.kliv.in/nex/air2_149625.m3u8
+#EXTINF:-1 tvg-id="149615" tvg-logo="https://lo1.in/ind/ganbms.png" group-title="►AS | BENGALI",IN| GAAN BANGLA-MUSIC HD
+https://stream.kliv.in/nex/air2_149615.m3u8
+#EXTINF:-1 tvg-id="149612" tvg-logo="https://lo1.in/ind/movbng.png" group-title="►AS | BENGALI",IN| ITV MOVIE BANGLA FHD
+https://stream.kliv.in/nex/air2_149612.m3u8
+#EXTINF:-1 tvg-id="173030" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | KANNADA",#### IN - KANNADA ####
+https://stream.kliv.in/nex/air2_173030.m3u8
+#EXTINF:-1 tvg-id="33470" tvg-logo="https://lo1.in/ind/clrknd1.png" group-title="►AS | KANNADA",IN| COLORS KANNADA FHD
+https://stream.kliv.in/nex/air2_33470.m3u8
+#EXTINF:-1 tvg-id="33469" tvg-logo="https://lo1.in/ind/clrcn1.png" group-title="►AS | KANNADA",IN| COLORS KANNADA CINEMA SD
+https://stream.kliv.in/nex/air2_33469.m3u8
+#EXTINF:-1 tvg-id="100007" tvg-logo="https://lo1.in/ind/ns18ka.png" group-title="►AS | KANNADA",IN| NEWS 18 KANNADA SD
+https://stream.kliv.in/nex/air2_100007.m3u8
+#EXTINF:-1 tvg-id="33585" tvg-logo="https://lo1.in/ind/rjms.png" group-title="►AS | KANNADA",IN| RAJ MUSIX KANNADA HD
+https://stream.kliv.in/nex/air2_33585.m3u8
+#EXTINF:-1 tvg-id="33589" tvg-logo="https://lo1.in/ind/rajnskan.png" group-title="►AS | KANNADA",IN| RAJ NEWS KANNADA HD
+https://stream.kliv.in/nex/air2_33589.m3u8
+#EXTINF:-1 tvg-id="131998" tvg-logo="https://lo1.in/ind/strsv.png" group-title="►AS | KANNADA",IN| STAR SUVARNA FHD
+https://stream.kliv.in/nex/air2_131998.m3u8
+#EXTINF:-1 tvg-id="33641" tvg-logo="https://lo1.in/ind/t9kan.png" group-title="►AS | KANNADA",IN| TV9 KANNADA HD
+https://stream.kliv.in/nex/air2_33641.m3u8
+#EXTINF:-1 tvg-id="33645" tvg-logo="https://lo1.in/ind/udaymv.png" group-title="►AS | KANNADA",IN| UDAYA TV FHD
+https://stream.kliv.in/nex/air2_33645.m3u8
+#EXTINF:-1 tvg-id="33644" tvg-logo="https://lo1.in/ind/udaymv.png" group-title="►AS | KANNADA",IN| UDAYA MOVIES HD
+https://stream.kliv.in/nex/air2_33644.m3u8
+#EXTINF:-1 tvg-id="33636" tvg-logo="https://lo1.in/ind/tv5kan.png" group-title="►AS | KANNADA",IN| TV5 KANNADA HD
+https://stream.kliv.in/nex/air2_33636.m3u8
+#EXTINF:-1 tvg-id="33580" tvg-logo="https://lo1.in/ind/pub.png" group-title="►AS | KANNADA",IN| PUBLIC TV HD
+https://stream.kliv.in/nex/air2_33580.m3u8
+#EXTINF:-1 tvg-id="33626" tvg-logo="https://lo1.in/ind/suvns.png" group-title="►AS | KANNADA",IN| SUVARNA NEWS HD
+https://stream.kliv.in/nex/air2_33626.m3u8
+#EXTINF:-1 tvg-id="132082" tvg-logo="https://lo1.in/ind/strsp1k.png" group-title="►AS | KANNADA",IN| STAR SPORTS 1 KANNADA HD
+https://stream.kliv.in/nex/air2_132082.m3u8
+#EXTINF:-1 tvg-id="197337" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | KANNADA",IN| SIRI KANNADA SD
+https://stream.kliv.in/nex/air2_197337.m3u8
+#EXTINF:-1 tvg-id="197338" tvg-logo="https://lo1.in/ind/chint.png" group-title="►AS | KANNADA",IN| CHINTU TV SD
+https://stream.kliv.in/nex/air2_197338.m3u8
+#EXTINF:-1 tvg-id="197339" tvg-logo="https://lo1.in/ind/srisa.png" group-title="►AS | KANNADA",IN| SRI SANKARA SD
+https://stream.kliv.in/nex/air2_197339.m3u8
+#EXTINF:-1 tvg-id="197340" tvg-logo="https://lo1.in/ind/zeekan.png" group-title="►AS | KANNADA",IN| ZEE TV KANNADA HD
+https://stream.kliv.in/nex/air2_197340.m3u8
+#EXTINF:-1 tvg-id="5827" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | KANNADA",IN| UDAYA COMEDY KANNADA
+https://stream.kliv.in/nex/air2_5827.m3u8
+#EXTINF:-1 tvg-id="5826" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | KANNADA",IN| UDAYA MUSIC KANNADA
+https://stream.kliv.in/nex/air2_5826.m3u8
+#EXTINF:-1 tvg-id="173031" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",#### IN - PUNJABI ####
+https://stream.kliv.in/nex/air2_173031.m3u8
+#EXTINF:-1 tvg-id="33461" tvg-logo="https://lo1.in/ind/chartm.png" group-title="►AS | PUNJABI",IN| CHARDIKLA TIME TV HD
+https://stream.kliv.in/nex/air2_33461.m3u8
+#EXTINF:-1 tvg-id="133498" tvg-logo="https://lo1.in/ind/dbpun.png" group-title="►AS | PUNJABI",IN| DD PUNJABI HD
+https://stream.kliv.in/nex/air2_133498.m3u8
+#EXTINF:-1 tvg-id="33539" tvg-logo="https://lo1.in/ind/manmv.png" group-title="►AS | PUNJABI",IN| MANORANJAN MOVIES HD
+https://stream.kliv.in/nex/air2_33539.m3u8
+#EXTINF:-1 tvg-id="33540" tvg-logo="https://lo1.in/ind/manoj.png" group-title="►AS | PUNJABI",IN| MANORANJAN TV HD
+https://stream.kliv.in/nex/air2_33540.m3u8
+#EXTINF:-1 tvg-id="33544" tvg-logo="https://lo1.in/ind/mh1ms.png" group-title="►AS | PUNJABI",IN| MH1 MUSIC
+https://stream.kliv.in/nex/air2_33544.m3u8
+#EXTINF:-1 tvg-id="33555" tvg-logo="https://lo1.in/ind/ns18ph.png" group-title="►AS | PUNJABI",IN| NEWS 18 PUNJAB HARYANA HD
+https://stream.kliv.in/nex/air2_33555.m3u8
+#EXTINF:-1 tvg-id="133496" tvg-logo="https://lo1.in/ind/pitar.png" group-title="►AS | PUNJABI",IN| PITAARA TV HD
+https://stream.kliv.in/nex/air2_133496.m3u8
+#EXTINF:-1 tvg-id="96678" tvg-logo="https://lo1.in/ind/prima.png" group-title="►AS | PUNJABI",IN| PRIME ASIA HD
+https://stream.kliv.in/nex/air2_96678.m3u8
+#EXTINF:-1 tvg-id="33576" tvg-logo="https://lo1.in/ind/ptcha1.png" group-title="►AS | PUNJABI",IN| PTC CHAK DE HD
+https://stream.kliv.in/nex/air2_33576.m3u8
+#EXTINF:-1 tvg-id="33577" tvg-logo="https://lo1.in/ind/ptcns.png" group-title="►AS | PUNJABI",IN| PTC NEWS HD
+https://stream.kliv.in/nex/air2_33577.m3u8
+#EXTINF:-1 tvg-id="133495" tvg-logo="https://lo1.in/ind/ptcpj1.png" group-title="►AS | PUNJABI",IN| PTC PUNJABI HD
+https://stream.kliv.in/nex/air2_133495.m3u8
+#EXTINF:-1 tvg-id="33578" tvg-logo="https://lo1.in/ind/ptcpgd.png" group-title="►AS | PUNJABI",IN| PTC PUNJABI GOLD TV
+https://stream.kliv.in/nex/air2_33578.m3u8
+#EXTINF:-1 tvg-id="33507" tvg-logo="https://lo1.in/ind/glbsan0.png" group-title="►AS | PUNJABI",IN| GLOBAL PUNJABI FHD
+https://stream.kliv.in/nex/air2_33507.m3u8
+#EXTINF:-1 tvg-id="33661" tvg-logo="https://lo1.in/ind/zep.png" group-title="►AS | PUNJABI",IN| ZEE PUNJABI HD
+https://stream.kliv.in/nex/air2_33661.m3u8
+#EXTINF:-1 tvg-id="33660" tvg-logo="https://lo1.in/ind/zeph.png" group-title="►AS | PUNJABI",IN| ZEE PUNJAB HARYANA HD
+https://stream.kliv.in/nex/air2_33660.m3u8
+#EXTINF:-1 tvg-id="33650" tvg-logo="https://lo1.in/ind/vispt.png" group-title="►AS | PUNJABI",IN| VISION PUNJAB GURBANI HD
+https://stream.kliv.in/nex/air2_33650.m3u8
+#EXTINF:-1 tvg-id="33581" tvg-logo="https://lo1.in/ind/pnjbt.png" group-title="►AS | PUNJABI",IN| PUNJABI TV HD
+https://stream.kliv.in/nex/air2_33581.m3u8
+#EXTINF:-1 tvg-id="132114" tvg-logo="https://lo1.in/ind/ptcsm.png" group-title="►AS | PUNJABI",IN| PTC SIMRAN
+https://stream.kliv.in/nex/air2_132114.m3u8
+#EXTINF:-1 tvg-id="133497" tvg-logo="https://lo1.in/ind/fath.png" group-title="►AS | PUNJABI",IN| FATEH TV HD
+https://stream.kliv.in/nex/air2_133497.m3u8
+#EXTINF:-1 tvg-id="33486" tvg-logo="https://lo1.in/ind/desich.png" group-title="►AS | PUNJABI",IN| DESI CHANNEL HD
+https://stream.kliv.in/nex/air2_33486.m3u8
+#EXTINF:-1 tvg-id="197172" tvg-logo="https://lo1.in/ind/ns18pu.png" group-title="►AS | PUNJABI",IN| NEWS 18 PUNJABI SD
+https://stream.kliv.in/nex/air2_197172.m3u8
+#EXTINF:-1 tvg-id="197173" tvg-logo="https://lo1.in/ind/garv.png" group-title="►AS | PUNJABI",IN| GARV PUNJAB SD
+https://stream.kliv.in/nex/air2_197173.m3u8
+#EXTINF:-1 tvg-id="197174" tvg-logo="https://lo1.in/ind/indnspu.png" group-title="►AS | PUNJABI",IN| INDIA NEWS PUNJABI HIMACHAL SD
+https://stream.kliv.in/nex/air2_197174.m3u8
+#EXTINF:-1 tvg-id="990023" tvg-logo="https://lo1.in/ind/mh1ms.png" group-title="►AS | PUNJABI",IN| MH1 SHARADDHA HD
+https://stream.kliv.in/nex/air2_990023.m3u8
+#EXTINF:-1 tvg-id="990021" tvg-logo="https://lo1.in/ind/ptcpj1.png" group-title="►AS | PUNJABI",IN| PTC DHOL INDIA HD
+https://stream.kliv.in/nex/air2_990021.m3u8
+#EXTINF:-1 tvg-id="990018" tvg-logo="https://lo1.in/ind/ptcpj1.png" group-title="►AS | PUNJABI",IN| PTC MUSIC HD
+https://stream.kliv.in/nex/air2_990018.m3u8
+#EXTINF:-1 tvg-id="990017" tvg-logo="https://lo1.in/ca/bbcto0.png" group-title="►AS | PUNJABI",IN| BBC TORONTO GAUNDA PUNJAB
+https://stream.kliv.in/nex/air2_990017.m3u8
+#EXTINF:-1 tvg-id="5834" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",IN| PCHS TV HD PUNJABI
+https://stream.kliv.in/nex/air2_5834.m3u8
+#EXTINF:-1 tvg-id="5835" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",IN| JUS ONE PUNJABI
+https://stream.kliv.in/nex/air2_5835.m3u8
+#EXTINF:-1 tvg-id="5836" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",IN| MAHA PUNJABI
+https://stream.kliv.in/nex/air2_5836.m3u8
+#EXTINF:-1 tvg-id="5837" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",IN| SSTV HD PUNJABI
+https://stream.kliv.in/nex/air2_5837.m3u8
+#EXTINF:-1 tvg-id="5838" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",IN| SANJHA TV HD PUNJABI
+https://stream.kliv.in/nex/air2_5838.m3u8
+#EXTINF:-1 tvg-id="5839" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",IN| MH1 SHRADDHA PUNJABI
+https://stream.kliv.in/nex/air2_5839.m3u8
+#EXTINF:-1 tvg-id="5840" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",IN| MH1 NEWS PUNJABI
+https://stream.kliv.in/nex/air2_5840.m3u8
+#EXTINF:-1 tvg-id="5841" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",IN| KTV INDIA PUNJABI
+https://stream.kliv.in/nex/air2_5841.m3u8
+#EXTINF:-1 tvg-id="6206" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | PUNJABI",IN| ATN Punjabi 5 HD
+https://stream.kliv.in/nex/air2_6206.m3u8
+#EXTINF:-1 tvg-id="33635" tvg-logo="https://lo1.in/ind/punj0.png" group-title="►AS | PUNJABI",IN| TV PUNJAB HD
+https://stream.kliv.in/nex/air2_33635.m3u8
+#EXTINF:-1 tvg-id="133656" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | TAMIL",►►► TAMIL| GENERAL◄◄◄
+https://stream.kliv.in/nex/air2_133656.m3u8
+#EXTINF:-1 tvg-id="33449" tvg-logo="https://lo1.in/ind/angl.png" group-title="►AS | TAMIL",IN| ANGEL TV HD
+https://stream.kliv.in/nex/air2_33449.m3u8
+#EXTINF:-1 tvg-id="89804" tvg-logo="https://lo1.in/ind/clrt.png" group-title="►AS | TAMIL",IN| COLORS TAMIL FHD
+https://stream.kliv.in/nex/air2_89804.m3u8
+#EXTINF:-1 tvg-id="33481" tvg-logo="https://lo1.in/ind/ddpo.png" group-title="►AS | TAMIL",IN| DD PODHIGAI HD
+https://stream.kliv.in/nex/air2_33481.m3u8
+#EXTINF:-1 tvg-id="132240" tvg-logo="https://lo1.in/ind/dist.png" group-title="►AS | TAMIL",IN| DISCOVERY FHD TAMIL
+https://stream.kliv.in/nex/air2_132240.m3u8
+#EXTINF:-1 tvg-id="89807" tvg-logo="https://lo1.in/ind/jayt.png" group-title="►AS | TAMIL",IN| JAYA TV FHD
+https://stream.kliv.in/nex/air2_89807.m3u8
+#EXTINF:-1 tvg-id="132249" tvg-logo="https://lo1.in/ind/natgewt.png" group-title="►AS | TAMIL",IN| NAT GEO WILD FHD TAMIL
+https://stream.kliv.in/nex/air2_132249.m3u8
+#EXTINF:-1 tvg-id="132248" tvg-logo="https://lo1.in/ind/natget.png" group-title="►AS | TAMIL",IN| NAT GEO FHD TAMIL
+https://stream.kliv.in/nex/air2_132248.m3u8
+#EXTINF:-1 tvg-id="33565" tvg-logo="https://lo1.in/ind/ns18t.png" group-title="►AS | TAMIL",IN| NEWS 18 TAMIL SD
+https://stream.kliv.in/nex/air2_33565.m3u8
+#EXTINF:-1 tvg-id="33584" tvg-logo="https://lo1.in/ind/rajmsx.png" group-title="►AS | TAMIL",IN| RAJ MUSIX HD
+https://stream.kliv.in/nex/air2_33584.m3u8
+#EXTINF:-1 tvg-id="33592" tvg-logo="https://lo1.in/ind/rajt.png" group-title="►AS | TAMIL",IN| RAJ TV HD
+https://stream.kliv.in/nex/air2_33592.m3u8
+#EXTINF:-1 tvg-id="33610" tvg-logo="https://lo1.in/ind/snybbce.png" group-title="►AS | TAMIL",IN| SONY BBC EARTH FHD
+https://stream.kliv.in/nex/air2_33610.m3u8
+#EXTINF:-1 tvg-id="33621" tvg-logo="https://lo1.in/ind/svijay1.png" group-title="►AS | TAMIL",IN| STAR VIJAY FHD
+https://stream.kliv.in/nex/air2_33621.m3u8
+#EXTINF:-1 tvg-id="33624" tvg-logo="https://lo1.in/ind/sunlf.png" group-title="►AS | TAMIL",IN| SUN LIFE TV HD
+https://stream.kliv.in/nex/air2_33624.m3u8
+#EXTINF:-1 tvg-id="89810" tvg-logo="https://lo1.in/ind/sunms.png" group-title="►AS | TAMIL",IN| SUN MUSIC FHD
+https://stream.kliv.in/nex/air2_89810.m3u8
+#EXTINF:-1 tvg-id="149915" tvg-logo="https://lo1.in/ind/suns.png" group-title="►AS | TAMIL",IN| SUN TV NEWS HD
+https://stream.kliv.in/nex/air2_149915.m3u8
+#EXTINF:-1 tvg-id="89811" tvg-logo="https://lo1.in/ind/sunt.png" group-title="►AS | TAMIL",IN| SUN TV FHD
+https://stream.kliv.in/nex/air2_89811.m3u8
+#EXTINF:-1 tvg-id="33648" tvg-logo="https://lo1.in/ind/vasan.png" group-title="►AS | TAMIL",IN| VASANTH TV
+https://stream.kliv.in/nex/air2_33648.m3u8
+#EXTINF:-1 tvg-id="132101" tvg-logo="https://lo1.in/ind/vijasp.png" group-title="►AS | TAMIL",IN| VIJAY SUPER HD
+https://stream.kliv.in/nex/air2_132101.m3u8
+#EXTINF:-1 tvg-id="89812" tvg-logo="https://lo1.in/ind/zetam.png" group-title="►AS | TAMIL",IN| ZEE TAMIL FHD
+https://stream.kliv.in/nex/air2_89812.m3u8
+#EXTINF:-1 tvg-id="89815" tvg-logo="https://lo1.in/ind/than1.png" group-title="►AS | TAMIL",IN| THANTHI TV
+https://stream.kliv.in/nex/air2_89815.m3u8
+#EXTINF:-1 tvg-id="33527" tvg-logo="https://lo1.in/ind/kalgt.png" group-title="►AS | TAMIL",IN| KALAIGNAR TV HD
+https://stream.kliv.in/nex/air2_33527.m3u8
+#EXTINF:-1 tvg-id="33583" tvg-logo="https://lo1.in/ind/rajdpl.png" group-title="►AS | TAMIL",IN| RAJ DIGITAL PLUS HD
+https://stream.kliv.in/nex/air2_33583.m3u8
+#EXTINF:-1 tvg-id="132245" tvg-logo="https://lo1.in/ind/pogt1.png" group-title="►AS | TAMIL",IN| POGO HD TAMIL
+https://stream.kliv.in/nex/air2_132245.m3u8
+#EXTINF:-1 tvg-id="132244" tvg-logo="https://lo1.in/ind/sonci.png" group-title="►AS | TAMIL",IN| SONIC HD TAMIL
+https://stream.kliv.in/nex/air2_132244.m3u8
+#EXTINF:-1 tvg-id="132242" tvg-logo="https://lo1.in/ind/diskt.png" group-title="►AS | TAMIL",IN| DISCOVERY KIDS HD TAMIL
+https://stream.kliv.in/nex/air2_132242.m3u8
+#EXTINF:-1 tvg-id="33634" tvg-logo="https://lo1.in/ind/travt.png" group-title="►AS | TAMIL",IN| TRAVELXP TAMIL HD
+https://stream.kliv.in/nex/air2_33634.m3u8
+#EXTINF:-1 tvg-id="33483" tvg-logo="https://lo1.in/ind/ddsa.png" group-title="►AS | TAMIL",IN| DD SAPTAGIRI HD
+https://stream.kliv.in/nex/air2_33483.m3u8
+#EXTINF:-1 tvg-id="33520" tvg-logo="https://lo1.in/ind/jmv.png" group-title="►AS | TAMIL",IN| J MOVIES HD
+https://stream.kliv.in/nex/air2_33520.m3u8
+#EXTINF:-1 tvg-id="33524" tvg-logo="https://lo1.in/ind/jayps.png" group-title="►AS | TAMIL",IN| JAYA PLUS HD
+https://stream.kliv.in/nex/air2_33524.m3u8
+#EXTINF:-1 tvg-id="33536" tvg-logo="https://lo1.in/ind/maklt.png" group-title="►AS | TAMIL",IN| MAKKAL TV SD
+https://stream.kliv.in/nex/air2_33536.m3u8
+#EXTINF:-1 tvg-id="33572" tvg-logo="https://lo1.in/ind/polns.png" group-title="►AS | TAMIL",IN| POLIMER NEWS HD
+https://stream.kliv.in/nex/air2_33572.m3u8
+#EXTINF:-1 tvg-id="33573" tvg-logo="https://lo1.in/ind/polmt.png" group-title="►AS | TAMIL",IN| POLIMER TV SD
+https://stream.kliv.in/nex/air2_33573.m3u8
+#EXTINF:-1 tvg-id="33582" tvg-logo="https://lo1.in/ind/puth.png" group-title="►AS | TAMIL",IN| PUTHIYA THALIMURAI
+https://stream.kliv.in/nex/air2_33582.m3u8
+#EXTINF:-1 tvg-id="33588" tvg-logo="https://lo1.in/ind/rajns.png" group-title="►AS | TAMIL",IN| RAJ NEWS HD
+https://stream.kliv.in/nex/air2_33588.m3u8
+#EXTINF:-1 tvg-id="33665" tvg-logo="https://lo1.in/ind/zeth.png" group-title="►AS | TAMIL",IN| ZEE THIRAI HD
+https://stream.kliv.in/nex/air2_33665.m3u8
+#EXTINF:-1 tvg-id="89809" tvg-logo="https://lo1.in/ind/namb.png" group-title="►AS | TAMIL",IN| NAMBIKKAI TV SD
+https://stream.kliv.in/nex/air2_89809.m3u8
+#EXTINF:-1 tvg-id="132102" tvg-logo="https://lo1.in/ind/strsp1t.png" group-title="►AS | TAMIL",IN| STAR SPORTS 1 TAMIL
+https://stream.kliv.in/nex/air2_132102.m3u8
+#EXTINF:-1 tvg-id="197137" tvg-logo="https://lo1.in/ind/siripol.png" group-title="►AS | TAMIL",IN| SIRIPPOLI SD
+https://stream.kliv.in/nex/air2_197137.m3u8
+#EXTINF:-1 tvg-id="197138" tvg-logo="https://lo1.in/ind/mega24.png" group-title="►AS | TAMIL",IN| MEGA 24 SD
+https://stream.kliv.in/nex/air2_197138.m3u8
+#EXTINF:-1 tvg-id="197139" tvg-logo="https://lo1.in/ind/megms.png" group-title="►AS | TAMIL",IN| MEGA MUSIQ SD
+https://stream.kliv.in/nex/air2_197139.m3u8
+#EXTINF:-1 tvg-id="197140" tvg-logo="https://lo1.in/ind/joth.png" group-title="►AS | TAMIL",IN| JOTHI TV SD
+https://stream.kliv.in/nex/air2_197140.m3u8
+#EXTINF:-1 tvg-id="173032" tvg-logo="https://lo1.in/ind/flg.png" group-title="►AS | ENGLISH",#### IN - ENGLISH ####
+https://stream.kliv.in/nex/air2_173032.m3u8
+#EXTINF:-1 tvg-id="193406" tvg-logo="https://lo1.in/china/asia.png" group-title="►AS | SPORT",#### AS - SPORTS ####
+https://stream.kliv.in/nex/air2_193406.m3u8
+#EXTINF:-1 tvg-id="33619" tvg-logo="https://lo1.in/ind/starsp1.png" group-title="►AS | SPORT",IN| STAR SPORTS 1 FHD
+https://stream.kliv.in/nex/air2_33619.m3u8
+#EXTINF:-1 tvg-id="132083" tvg-logo="https://lo1.in/ind/strsp1hnd.png" group-title="►AS | SPORT",IN| STAR SPORTS 1 HINDI FHD
+https://stream.kliv.in/nex/air2_132083.m3u8
+#EXTINF:-1 tvg-id="97523" tvg-logo="https://lo1.in/ind/starsp2.png" group-title="►AS | SPORT",IN| STAR SPORTS 2 FHD
+https://stream.kliv.in/nex/air2_97523.m3u8
+#EXTINF:-1 tvg-id="132081" tvg-logo="https://lo1.in/ind/strsp3.png" group-title="►AS | SPORT",IN| STAR SPORTS 3 HD
+https://stream.kliv.in/nex/air2_132081.m3u8
+#EXTINF:-1 tvg-id="97522" tvg-logo="https://lo1.in/ind/strsps1.png" group-title="►AS | SPORT",IN| STAR SPORTS SELECT 1 FHD
+https://stream.kliv.in/nex/air2_97522.m3u8
+#EXTINF:-1 tvg-id="96681" tvg-logo="https://lo1.in/ind/strsps2.png" group-title="►AS | SPORT",IN| STAR SPORTS SELECT 2  FHD
+https://stream.kliv.in/nex/air2_96681.m3u8
+#EXTINF:-1 tvg-id="193407" tvg-logo="https://lo1.in/china/asia.png" group-title="►AS | SPORT",#### AS - ASTRO ####
+https://stream.kliv.in/nex/air2_193407.m3u8
+#EXTINF:-1 tvg-id="139799" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",►►► MY| MALAYSIA◄◄◄
+https://stream.kliv.in/nex/air2_139799.m3u8
+#EXTINF:-1 tvg-id="34482" tvg-logo="https://lo1.in/MALAY/hijrah.png" group-title="►AS | MALAYSIA",MY| TV ALHIJRAH HD
+https://stream.kliv.in/nex/air2_34482.m3u8
+#EXTINF:-1 tvg-id="34432" tvg-logo="https://lo1.in/MALAY/abcaus.png" group-title="►AS | MALAYSIA",MY| ABC AUSTRALIA HD
+https://stream.kliv.in/nex/air2_34432.m3u8
+#EXTINF:-1 tvg-id="7665" tvg-logo="https://lo1.in/indo/nkjr.png" group-title="►AS | MALAYSIA",ID| NICK JR HD
+https://stream.kliv.in/nex/air2_7665.m3u8
+#EXTINF:-1 tvg-id="34434" tvg-logo="https://lo1.in/MALAY/anmx.png" group-title="►AS | MALAYSIA",SG| ANIMAX HD
+https://stream.kliv.in/nex/air2_34434.m3u8
+#EXTINF:-1 tvg-id="151073" tvg-logo="https://lo1.in/MALAY/astroclrta.png" group-title="►AS | MALAYSIA",MY| COLORS TAMIL HD
+https://stream.kliv.in/nex/air2_151073.m3u8
+#EXTINF:-1 tvg-id="34488" tvg-logo="https://lo1.in/MALAY/nhd.png" group-title="►AS | MALAYSIA",MY| TVN HD
+https://stream.kliv.in/nex/air2_34488.m3u8
+#EXTINF:-1 tvg-id="34462" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="►AS | MALAYSIA",MY| HBO HD
+https://stream.kliv.in/nex/air2_34462.m3u8
+#EXTINF:-1 tvg-id="34489" tvg-logo="https://lo1.in/MALAY/tvnmovies.png" group-title="►AS | MALAYSIA",MY| TVN MOVIES HD
+https://stream.kliv.in/nex/air2_34489.m3u8
+#EXTINF:-1 tvg-id="34460" tvg-logo="https://lo1.in/MALAY/fr24.png" group-title="►AS | MALAYSIA",MY| FRANCE 24 HD
+https://stream.kliv.in/nex/air2_34460.m3u8
+#EXTINF:-1 tvg-id="34459" tvg-logo="https://lo1.in/MALAY/dw.png" group-title="►AS | MALAYSIA",MY| DW HD
+https://stream.kliv.in/nex/air2_34459.m3u8
+#EXTINF:-1 tvg-id="34476" tvg-logo="https://lo1.in/MALAY/skyns.png" group-title="►AS | MALAYSIA",MY| SKY NEWS HD
+https://stream.kliv.in/nex/air2_34476.m3u8
+#EXTINF:-1 tvg-id="34484" tvg-logo="https://lo1.in/MALAY/tv2.png" group-title="►AS | MALAYSIA",MY| TV2 HD
+https://stream.kliv.in/nex/air2_34484.m3u8
+#EXTINF:-1 tvg-id="34483" tvg-logo="https://lo1.in/MALAY/tv1.png" group-title="►AS | MALAYSIA",MY| TV1 HD
+https://stream.kliv.in/nex/air2_34483.m3u8
+#EXTINF:-1 tvg-id="98015" tvg-logo="https://lo1.in/MALAY/hrvstar.png" group-title="►AS | MALAYSIA",MY| HARVEST TV ARABIA
+https://stream.kliv.in/nex/air2_98015.m3u8
+#EXTINF:-1 tvg-id="34433" tvg-logo="https://lo1.in/MALAY/afn.png" group-title="►AS | MALAYSIA",MY| AFN HD
+https://stream.kliv.in/nex/air2_34433.m3u8
+#EXTINF:-1 tvg-id="34437" tvg-logo="https://lo1.in/MALAY/astroaur.png" group-title="►AS | MALAYSIA",MY| ASTRO AURA HD
+https://stream.kliv.in/nex/air2_34437.m3u8
+#EXTINF:-1 tvg-id="34438" tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="►AS | MALAYSIA",MY| ASTRO AWANI HD
+https://stream.kliv.in/nex/air2_34438.m3u8
+#EXTINF:-1 tvg-id="34439" tvg-logo="https://lo1.in/MALAY/astrocer.png" group-title="►AS | MALAYSIA",MY| ASTRO CERIA HD
+https://stream.kliv.in/nex/air2_34439.m3u8
+#EXTINF:-1 tvg-id="34440" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="►AS | MALAYSIA",MY| ASTRO OASIS HD
+https://stream.kliv.in/nex/air2_34440.m3u8
+#EXTINF:-1 tvg-id="34441" tvg-logo="https://lo1.in/MALAY/astror.png" group-title="►AS | MALAYSIA",MY| ASTRO RANIA HD
+https://stream.kliv.in/nex/air2_34441.m3u8
+#EXTINF:-1 tvg-id="173259" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="►AS | MALAYSIA",MY| SPOTV 1 HD
+https://stream.kliv.in/nex/air2_173259.m3u8
+#EXTINF:-1 tvg-id="34443" tvg-logo="https://lo1.in/por/axnhd.png" group-title="►AS | MALAYSIA",MY| AXN HD
+https://stream.kliv.in/nex/air2_34443.m3u8
+#EXTINF:-1 tvg-id="34444" tvg-logo="https://lo1.in/MALAY/bbcea.png" group-title="►AS | MALAYSIA",MY| BBC EARTH HD
+https://stream.kliv.in/nex/air2_34444.m3u8
+#EXTINF:-1 tvg-id="34447" tvg-logo="https://lo1.in/MALAY/blmbrg.png" group-title="►AS | MALAYSIA",MY| BLOOMBERG TV HD
+https://stream.kliv.in/nex/air2_34447.m3u8
+#EXTINF:-1 tvg-id="34448" tvg-logo="https://lo1.in/MALAY/bluaex.png" group-title="►AS | MALAYSIA",MY| BLUE ANT EXTREME
+https://stream.kliv.in/nex/air2_34448.m3u8
+#EXTINF:-1 tvg-id="34449" tvg-logo="https://lo1.in/MALAY/cn.png" group-title="►AS | MALAYSIA",MY| CARTOON NETWORK HD
+https://stream.kliv.in/nex/air2_34449.m3u8
+#EXTINF:-1 tvg-id="34451" tvg-logo="https://lo1.in/MALAY/cc4.png" group-title="►AS | MALAYSIA",MY| CCTV4 HD
+https://stream.kliv.in/nex/air2_34451.m3u8
+#EXTINF:-1 tvg-id="34452" tvg-logo="https://lo1.in/MALAY/clmov.png" group-title="►AS | MALAYSIA",MY| CELESTIAL MOVIES HD
+https://stream.kliv.in/nex/air2_34452.m3u8
+#EXTINF:-1 tvg-id="34453" tvg-logo="https://lo1.in/MALAY/cimx.png" group-title="►AS | MALAYSIA",MY| CINEMAX HD
+https://stream.kliv.in/nex/air2_34453.m3u8
+#EXTINF:-1 tvg-id="34454" tvg-logo="https://lo1.in/MALAY/cnbc.png" group-title="►AS | MALAYSIA",MY| CNBC ASIA HD
+https://stream.kliv.in/nex/air2_34454.m3u8
+#EXTINF:-1 tvg-id="34455" tvg-logo="https://lo1.in/MALAY/crmin.png" group-title="►AS | MALAYSIA",MY| CRIME INVESTIGATION HD
+https://stream.kliv.in/nex/air2_34455.m3u8
+#EXTINF:-1 tvg-id="34457" tvg-logo="https://lo1.in/MALAY/disc.png" group-title="►AS | MALAYSIA",MY| DISCOVERY ASIA HD
+https://stream.kliv.in/nex/air2_34457.m3u8
+#EXTINF:-1 tvg-id="34458" tvg-logo="https://lo1.in/MALAY/disc.png" group-title="►AS | MALAYSIA",MY| DISCOVERY CHANNEL HD
+https://stream.kliv.in/nex/air2_34458.m3u8
+#EXTINF:-1 tvg-id="34461" tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="►AS | MALAYSIA",MY| GOLF CHANNEL HD
+https://stream.kliv.in/nex/air2_34461.m3u8
+#EXTINF:-1 tvg-id="34463" tvg-logo="https://lo1.in/MALAY/hgtv.png" group-title="►AS | MALAYSIA",MY| HGTV HD
+https://stream.kliv.in/nex/air2_34463.m3u8
+#EXTINF:-1 tvg-id="34464" tvg-logo="https://lo1.in/MALAY/his.png" group-title="►AS | MALAYSIA",MY| HISTORY HD
+https://stream.kliv.in/nex/air2_34464.m3u8
+#EXTINF:-1 tvg-id="34465" tvg-logo="https://lo1.in/MALAY/hits.png" group-title="►AS | MALAYSIA",MY| HITS HD
+https://stream.kliv.in/nex/air2_34465.m3u8
+#EXTINF:-1 tvg-id="34466" tvg-logo="https://lo1.in/MALAY/hmov.png" group-title="►AS | MALAYSIA",MY| HITS MOVIES HD
+https://stream.kliv.in/nex/air2_34466.m3u8
+#EXTINF:-1 tvg-id="34467" tvg-logo="https://lo1.in/MALAY/astrohhd.png" group-title="►AS | MALAYSIA",MY| ASTRO HUA HEE DAI HD
+https://stream.kliv.in/nex/air2_34467.m3u8
+#EXTINF:-1 tvg-id="34469" tvg-logo="https://lo1.in/MALAY/jayamx.png" group-title="►AS | MALAYSIA",MY| JAYA MAX HD
+https://stream.kliv.in/nex/air2_34469.m3u8
+#EXTINF:-1 tvg-id="34470" tvg-logo="https://lo1.in/MALAY/kbswrld.png" group-title="►AS | MALAYSIA",MY| KBS WORLD HD
+https://stream.kliv.in/nex/air2_34470.m3u8
+#EXTINF:-1 tvg-id="34471" tvg-logo="https://lo1.in/MALAY/kpls.png" group-title="►AS | MALAYSIA",MY| KPLUS HD
+https://stream.kliv.in/nex/air2_34471.m3u8
+#EXTINF:-1 tvg-id="34473" tvg-logo="https://lo1.in/MALAY/nickjr.png" group-title="►AS | MALAYSIA",MY| NICK JUNIOR HD
+https://stream.kliv.in/nex/air2_34473.m3u8
+#EXTINF:-1 tvg-id="34474" tvg-logo="https://lo1.in/MALAY/nickd.png" group-title="►AS | MALAYSIA",MY| NICKELODEON HD
+https://stream.kliv.in/nex/air2_34474.m3u8
+#EXTINF:-1 tvg-id="34475" tvg-logo="https://lo1.in/MALAY/one.png" group-title="►AS | MALAYSIA",MY| ONE HD
+https://stream.kliv.in/nex/air2_34475.m3u8
+#EXTINF:-1 tvg-id="34477" tvg-logo="https://lo1.in/MALAY/snysetmx.png" group-title="►AS | MALAYSIA",MY| SONY MAX HD
+https://stream.kliv.in/nex/air2_34477.m3u8
+#EXTINF:-1 tvg-id="34478" tvg-logo="https://lo1.in/MALAY/astrostrv.png" group-title="►AS | MALAYSIA",MY| STAR VIJAY HD
+https://stream.kliv.in/nex/air2_34478.m3u8
+#EXTINF:-1 tvg-id="34479" tvg-logo="https://lo1.in/MALAY/sunmus.png" group-title="►AS | MALAYSIA",MY| SUN MUSIC HD
+https://stream.kliv.in/nex/air2_34479.m3u8
+#EXTINF:-1 tvg-id="34480" tvg-logo="https://lo1.in/MALAY/tlc.png" group-title="►AS | MALAYSIA",MY| TLC HD
+https://stream.kliv.in/nex/air2_34480.m3u8
+#EXTINF:-1 tvg-id="34485" tvg-logo="https://lo1.in/MALAY/tv9.png" group-title="►AS | MALAYSIA",MY| TV9 HD
+https://stream.kliv.in/nex/air2_34485.m3u8
+#EXTINF:-1 tvg-id="34486" tvg-logo="https://lo1.in/MALAY/tvbcls.png" group-title="►AS | MALAYSIA",MY| TVB CLASSIC HD
+https://stream.kliv.in/nex/air2_34486.m3u8
+#EXTINF:-1 tvg-id="34490" tvg-logo="https://lo1.in/MALAY/tvbjade.png" group-title="►AS | MALAYSIA",MY| TVB JADE HD
+https://stream.kliv.in/nex/air2_34490.m3u8
+#EXTINF:-1 tvg-id="34491" tvg-logo="https://lo1.in/MALAY/astrozt.png" group-title="►AS | MALAYSIA",MY| ZEE TAMIL HD
+https://stream.kliv.in/nex/air2_34491.m3u8
+#EXTINF:-1 tvg-id="151074" tvg-logo="https://lo1.in/MALAY/clrs.png" group-title="►AS | MALAYSIA",MY| COLORS HD
+https://stream.kliv.in/nex/air2_151074.m3u8
+#EXTINF:-1 tvg-id="151072" tvg-logo="https://lo1.in/MALAY/sun.png" group-title="►AS | MALAYSIA",MY| SUN TV HD
+https://stream.kliv.in/nex/air2_151072.m3u8
+#EXTINF:-1 tvg-id="151071" tvg-logo="https://lo1.in/MALAY/okey.png" group-title="►AS | MALAYSIA",MY| TV OKEY HD
+https://stream.kliv.in/nex/air2_151071.m3u8
+#EXTINF:-1 tvg-id="34445" tvg-logo="https://lo1.in/MALAY/bbcns.png" group-title="►AS | MALAYSIA",MY| BBC NEWS HD
+https://stream.kliv.in/nex/air2_34445.m3u8
+#EXTINF:-1 tvg-id="149842" tvg-logo="https://lo1.in/uk/cbeb.png" group-title="►AS | MALAYSIA",MY| BBC CBEEBIES HD
+https://stream.kliv.in/nex/air2_149842.m3u8
+#EXTINF:-1 tvg-id="149843" tvg-logo="https://lo1.in/MALAY/bbclfst.png" group-title="►AS | MALAYSIA",MY| BBC LIFE STYLE HD
+https://stream.kliv.in/nex/air2_149843.m3u8
+#EXTINF:-1 tvg-id="173263" tvg-logo="https://lo1.in/MALAY/lftm.png" group-title="►AS | MALAYSIA",MY| LIFETIME HD
+https://stream.kliv.in/nex/air2_173263.m3u8
+#EXTINF:-1 tvg-id="173262" tvg-logo="https://lo1.in/MALAY/hbohit.png" group-title="►AS | MALAYSIA",MY| HBO HITS HD
+https://stream.kliv.in/nex/air2_173262.m3u8
+#EXTINF:-1 tvg-id="186242" tvg-logo="https://lo1.in/MALAY/brnm.png" group-title="►AS | MALAYSIA",MY| BERNAMA TV
+https://stream.kliv.in/nex/air2_186242.m3u8
+#EXTINF:-1 tvg-id="5107" tvg-logo="https://lo1.in/MALAY/prsp.png" group-title="►AS | MALAYSIA",MY| PREMIER SPORTS HD
+https://stream.kliv.in/nex/air2_5107.m3u8
+#EXTINF:-1 tvg-id="5108" tvg-logo="https://lo1.in/MALAY/phchch.png" group-title="►AS | MALAYSIA",MY| PHOENIX CHINESE CHANNEL HD
+https://stream.kliv.in/nex/air2_5108.m3u8
+#EXTINF:-1 tvg-id="34436" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="►AS | MALAYSIA",MY| ASTRO ARENA HD
+https://stream.kliv.in/nex/air2_34436.m3u8
+#EXTINF:-1 tvg-id="5110" tvg-logo="https://lo1.in/dstv/moonbug.png" group-title="►AS | MALAYSIA",MY| MOONBUG KIDS HD
+https://stream.kliv.in/nex/air2_5110.m3u8
+#EXTINF:-1 tvg-id="5111" tvg-logo="https://lo1.in/MALAY/tvbssia.png" group-title="►AS | MALAYSIA",MY| TVBS ASIA HD
+https://stream.kliv.in/nex/air2_5111.m3u8
+#EXTINF:-1 tvg-id="5112" tvg-logo="https://lo1.in/MALAY/cgtn.png" group-title="►AS | MALAYSIA",MY| CGTN HD
+https://stream.kliv.in/nex/air2_5112.m3u8
+#EXTINF:-1 tvg-id="5113" tvg-logo="https://lo1.in/MALAY/jazera.png" group-title="►AS | MALAYSIA",MY| AL JAZEERA ENGLISH  HD
+https://stream.kliv.in/nex/air2_5113.m3u8
+#EXTINF:-1 tvg-id="230995" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="►AS | MALAYSIA",MY| SPOTV 2 HD
+https://stream.kliv.in/nex/air2_230995.m3u8
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="►AS | MALAYSIA",MY| ASTRO PREMIER LEAGUE 1 HD
+https://stream.kliv.in/nex/air2_1159.m3u8
+#EXTINF:-1 tvg-id="1158" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="►AS | MALAYSIA",MY| ASTRO PREMIER LEAGUE 2 HD
+https://stream.kliv.in/nex/air2_1158.m3u8
+#EXTINF:-1 tvg-id="1157" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="►AS | MALAYSIA",MY| ASTRO PREMIER LEAGUE 3 HD
+https://stream.kliv.in/nex/air2_1157.m3u8
+#EXTINF:-1 tvg-id="1160" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="►AS | MALAYSIA",MY| ASTRO PREMIER LEAGUE 4 HD
+https://stream.kliv.in/nex/air2_1160.m3u8
+#EXTINF:-1 tvg-id="1176" tvg-logo="https://lo1.in/MALAY/sg.png" group-title="►AS | MALAYSIA",SG| STAR VIJAY FHD
+https://stream.kliv.in/nex/air2_1176.m3u8
+#EXTINF:-1 tvg-id="1177" tvg-logo="https://lo1.in/MALAY/sg.png" group-title="►AS | MALAYSIA",SG| STAR VIJAY
+https://stream.kliv.in/nex/air2_1177.m3u8
+#EXTINF:-1 tvg-id="1178" tvg-logo="https://lo1.in/MALAY/chu.png" group-title="►AS | MALAYSIA",SG| CH U SD
+https://stream.kliv.in/nex/air2_1178.m3u8
+#EXTINF:-1 tvg-id="1179" tvg-logo="https://lo1.in/MALAY/chu.png" group-title="►AS | MALAYSIA",SG| CH U FHD
+https://stream.kliv.in/nex/air2_1179.m3u8
+#EXTINF:-1 tvg-id="1180" tvg-logo="https://lo1.in/MALAY/ch8.png" group-title="►AS | MALAYSIA",SG| CH 8 SD
+https://stream.kliv.in/nex/air2_1180.m3u8
+#EXTINF:-1 tvg-id="1181" tvg-logo="https://lo1.in/MALAY/ch8.png" group-title="►AS | MALAYSIA",SG| CH 8 FHD
+https://stream.kliv.in/nex/air2_1181.m3u8
+#EXTINF:-1 tvg-id="1182" tvg-logo="https://lo1.in/MALAY/ch5.png" group-title="►AS | MALAYSIA",SG| CH 5 SD
+https://stream.kliv.in/nex/air2_1182.m3u8
+#EXTINF:-1 tvg-id="1183" tvg-logo="https://lo1.in/MALAY/ch5.png" group-title="►AS | MALAYSIA",SG| CH 5 FHD
+https://stream.kliv.in/nex/air2_1183.m3u8
+#EXTINF:-1 tvg-id="5104" tvg-logo="https://lo1.in/MALAY/ch8.png" group-title="►AS | MALAYSIA",SG| CH 8 HD
+https://stream.kliv.in/nex/air2_5104.m3u8
+#EXTINF:-1 tvg-id="5105" tvg-logo="https://lo1.in/MALAY/chu.png" group-title="►AS | MALAYSIA",SG| CH U HD
+https://stream.kliv.in/nex/air2_5105.m3u8
+#EXTINF:-1 tvg-id="5106" tvg-logo="https://lo1.in/MALAY/ch5.png" group-title="►AS | MALAYSIA",SG| CH 5 HD
+https://stream.kliv.in/nex/air2_5106.m3u8
+#EXTINF:-1 tvg-id="6095" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="►AS | MALAYSIA",BR| RECORD CAMPINAS HD
+https://stream.kliv.in/nex/air2_6095.m3u8
+#EXTINF:-1 tvg-id="9319" tvg-logo="https://lo1.in/MALAY/GSZ.png" group-title="►AS | MALAYSIA",MY| GLOBAL TREKKER HD
+https://stream.kliv.in/nex/air2_9319.m3u8
+#EXTINF:-1 tvg-id="9320" tvg-logo="https://lo1.in/MALAY/sg.png" group-title="►AS | MALAYSIA",SG| CINEMA ONE GLOBAL
+https://stream.kliv.in/nex/air2_9320.m3u8
+#EXTINF:-1 tvg-id="33329" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="►AS | MALAYSIA",MY| ASTRO ARENA 2 HD
+https://stream.kliv.in/nex/air2_33329.m3u8
+#EXTINF:-1 tvg-id="34435" tvg-logo="https://lo1.in/MALAY/anipls.png" group-title="►AS | MALAYSIA",MY| ANIPLUS HD
+https://stream.kliv.in/nex/air2_34435.m3u8
+#EXTINF:-1 tvg-id="149635" tvg-logo="https://lo1.in/MALAY/astrocit.png" group-title="►AS | MALAYSIA",MY| ASTRO CITRA HD
+https://stream.kliv.in/nex/air2_149635.m3u8
+#EXTINF:-1 tvg-id="4304" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="►AS | MALAYSIA",MY| BEIN SPORTS 2 HD
+https://stream.kliv.in/nex/air2_4304.m3u8
+#EXTINF:-1 tvg-id="4303" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="►AS | MALAYSIA",MY| BEIN SPORTS 3 HD
+https://stream.kliv.in/nex/air2_4303.m3u8
+#EXTINF:-1 tvg-id="6170" tvg-logo="https://lo1.in/MALAY/sg.png" group-title="►AS | MALAYSIA",SG| COLORS TAMIL
+https://stream.kliv.in/nex/air2_6170.m3u8
+#EXTINF:-1 tvg-id="6169" tvg-logo="https://lo1.in/MALAY/sg.png" group-title="►AS | MALAYSIA",SG| COLORS HINDI
+https://stream.kliv.in/nex/air2_6169.m3u8
+#EXTINF:-1 tvg-id="2130" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| ASTRO VELLITHIRAI HD
+https://stream.kliv.in/nex/air2_2130.m3u8
+#EXTINF:-1 tvg-id="2129" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| DREAMWORKS HD
+https://stream.kliv.in/nex/air2_2129.m3u8
+#EXTINF:-1 tvg-id="2157" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| Astro Tutor TV SMK HD
+https://stream.kliv.in/nex/air2_2157.m3u8
+#EXTINF:-1 tvg-id="2148" tvg-logo="https://lo1.in/ind/cnn.png" group-title="►AS | MALAYSIA",MY| CNN HD
+https://stream.kliv.in/nex/air2_2148.m3u8
+#EXTINF:-1 tvg-id="2147" tvg-logo="https://lo1.in/MALAY/cna.png" group-title="►AS | MALAYSIA",MY| CNA HD
+https://stream.kliv.in/nex/air2_2147.m3u8
+#EXTINF:-1 tvg-id="2145" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| W-Sport HD
+https://stream.kliv.in/nex/air2_2145.m3u8
+#EXTINF:-1 tvg-id="2144" tvg-logo="https://lo1.in/MALAY/sun.png" group-title="►AS | MALAYSIA",MY| SUN LIFE HD
+https://stream.kliv.in/nex/air2_2144.m3u8
+#EXTINF:-1 tvg-id="2143" tvg-logo="https://lo1.in/MALAY/sun.png" group-title="►AS | MALAYSIA",MY| SUN NEWS HD
+https://stream.kliv.in/nex/air2_2143.m3u8
+#EXTINF:-1 tvg-id="1080432" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| ASTRO BADMINTON 2 HD
+https://stream.kliv.in/nex/air2_1080432.m3u8
+#EXTINF:-1 tvg-id="1080431" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| ASTRO FOOTBALL HD
+https://stream.kliv.in/nex/air2_1080431.m3u8
+#EXTINF:-1 tvg-id="1080418" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| ASTRO SPORTS PLUS HD
+https://stream.kliv.in/nex/air2_1080418.m3u8
+#EXTINF:-1 tvg-id="1012376" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| DidikTV KPM
+https://stream.kliv.in/nex/air2_1012376.m3u8
+#EXTINF:-1 tvg-id="1012375" tvg-logo="https://lo1.in/MALAY/hits.png" group-title="►AS | MALAYSIA",MY| HITS Now HD
+https://stream.kliv.in/nex/air2_1012375.m3u8
+#EXTINF:-1 tvg-id="742586" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| TVB ENTERTAINMENT NEWS HD
+https://stream.kliv.in/nex/air2_742586.m3u8
+#EXTINF:-1 tvg-id="742585" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="►AS | MALAYSIA",MY| TVS Sarawak HD
+https://stream.kliv.in/nex/air2_742585.m3u8
+#EXTINF:-1 tvg-id="34446" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="►AS | MALAYSIA",MY| BEIN SPORTS HD
+https://stream.kliv.in/nex/air2_34446.m3u8
+#EXTINF:-1 tvg-id="34442" tvg-logo="https://lo1.in/MALAY/astrori.png" group-title="►AS | MALAYSIA",MY| ASTRO RIA (not 24/7)
+https://stream.kliv.in/nex/air2_34442.m3u8
+#EXTINF:-1 tvg-id="29626" tvg-logo="https://lo1.in/MALAY/com.png" group-title="►AS | MALAYSIA",MY| COMEDY CENTRAL
+https://stream.kliv.in/nex/air2_29626.m3u8
+#EXTINF:-1 tvg-id="1211558" tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="►AS | MALAYSIA",MY| TV3 HD
+https://stream.kliv.in/nex/air2_1211558.m3u8
