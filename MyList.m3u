@@ -1,7 +1,5 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="ZEE.KANNADA.HD.in" group-title="KANNADA",ZEE KANNADA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="MOVIES",Ljudi koje upoznajemo na odmoru 2026 (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/8250.ts
@@ -91,16 +89,12 @@ http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9357.ts
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9378.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="MOVIES",Dame prve 2026 (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9380.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8xt1cSgjQPKtt5iDv1rym1E0vc4.jpg" group-title="MOVIES",Biće novih leta 2026 (2026)
-http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9379.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg" group-title="MOVIES",Mortal Kombat II 2026 (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9381.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cXAGjQwOfPJXBYnbAM1qtGHVDZ2.jpg" group-title="MOVIES",Stranci: Treće Poglavlje 2026 (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9382.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7NPTW2sNBrNNZZmNJSHeG6EMzHY.jpg" group-title="MOVIES",Meksiko 86 2026 (2025)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9396.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" group-title="MOVIES",Michael 2026 (2026)
-http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9397.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg" group-title="MOVIES",Romansa u uredu 2026 (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9398.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg" group-title="MOVIES",Seven Snipers 2026 (2026)
@@ -119,8 +113,6 @@ http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9122.ts
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9414.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg" group-title="MOVIES",Backrooms: Bez izlaza (2026) (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9413.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hZMQ6sftuwUbLU8NRqVlYGLFBK7.jpg" group-title="MOVIES",Kontaminacija 2026 (2026)
-http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9415.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sIwakdbMGS1krtgendTWpxTY9Hw.jpg" group-title="MOVIES",Iron Lung 2026 (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9416.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg" group-title="MOVIES",Mrak film 2026 (2026)
@@ -135,10 +127,6 @@ http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9354.ts
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9353.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5PjggLlB72crt1ZIphSya75pInb.jpg" group-title="MOVIES",Blades Of The Guardians 2026 (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9429.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg" group-title="MOVIES",Citizen Vigilante (2026) (2026)
-http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9430.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg" group-title="MOVIES",Apex 2026 (2026)
-http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9352.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg" group-title="MOVIES",Muževi u akciji (2026) (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/9431.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg" group-title="MOVIES",Utočište 2026 (2026)
@@ -921,8 +909,6 @@ http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/388.ts
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/101.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/moiLQPK2YjritOYG674DrWHvlgp.jpg" group-title="MOVIES",Gatillero (2025) (2025)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/132.ts
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE2ODRjZDAtZTYzMS00MGIzLTg2YTgtMGRjZGYyYTlhZmU2XkEyXkFqcGc@._V1_SX155.jpg" group-title="MOVIES",George Lopez: Muy Católico (2025) (2025)
-http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/134.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/64GLnCHeEMcxeoErWqhZpyeFmr9.jpg" group-title="MOVIES",Goli pištolj (2025) (2025)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/136.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg" group-title="MOVIES",Good Boy (2025) (2025)
@@ -963,8 +949,6 @@ http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/150.ts
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/212.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="MOVIES",Madea's Destination Wedding (2025) (2025)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/215.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bzW0afBIyWZ0bjCje8GPezvETy0.jpg" group-title="MOVIES",Naopaki medeni mjesec (2025) (2025)
-http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/214.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/A98LHlo4wvgV3d79IovLhL0KSL5.jpg" group-title="MOVIES",The Man in the White Van (2025) (2024)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/374.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nH26cUZns2jyCAzKsgZkEiinTri.jpg" group-title="MOVIES",The Sound (2025) (2025)
@@ -973,8 +957,6 @@ http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/390.ts
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/130.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/q364Irdi5FHBCg7BWuB9JMAgCGR.jpg" group-title="MOVIES",Opaki radnik (2025) (2025)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/14.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1trZagH7r4YyAR37xoRJ1bmlVlZ.jpg" group-title="MOVIES",Dogs on the Sendero (2025) (2024)
-http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/307.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mu6K5ABJot3YKHJQQLIJUwMxi1P.jpg" group-title="MOVIES",Daaku Maharaaj (2025) (2025)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/82.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/Oqlmo1bhDQWWBPrMxMauuHL7y7.jpg" group-title="MOVIES",The Demon Disorder (2025) (2024)
@@ -1281,8 +1263,6 @@ http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21293.mkv
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21294.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/HFr1zkORvKzYOKEaKdkmF1GKna.jpg" group-title="SERIES",The Flash S04E04
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21295.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/vh50fVATHWnj0jzGyXJumjECnUe.jpg" group-title="SERIES",The Flash S04E05
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21296.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/hNs4SL60kjVUo5QWPetNpPuQyrF.jpg" group-title="SERIES",The Flash S04E06
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21297.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/y1no2bERz1sUj0qIXXA0GlNqMY7.jpg" group-title="SERIES",The Flash S04E07
@@ -1295,42 +1275,6 @@ http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21300.mkv
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21301.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/lH068S5dt1pzsQD5wVab1SVJEEz.jpg" group-title="SERIES",The Flash S04E11
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21302.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/cTivRhCEEa2XxqRNChxMaXDmQ3L.jpg" group-title="SERIES",The Flash S04E12
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21303.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/6cT9Q4JMxBDeG7KNCz2WfjxO4rD.jpg" group-title="SERIES",The Flash S04E13
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21304.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/cTfzqVGaLzqFRFh9Q3Fbf2w1Xa3.jpg" group-title="SERIES",The Flash S04E14
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21305.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/huSTWWTgkvErM2jbB792wqDj7RG.jpg" group-title="SERIES",The Flash S04E15
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21306.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/wTyf0u5aaa6yIVZx2OdhqG4HFio.jpg" group-title="SERIES",The Flash S04E16
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21307.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/dZd5ZOgIR2uBPsRC7DKLzoF7nJo.jpg" group-title="SERIES",The Flash S04E17
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21308.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/oMQXVXn9pTLuyvvKYmoIF94g2xP.jpg" group-title="SERIES",The Flash S04E18
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21309.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/m8kbPH5w9pPNNDuwtgNUPd9yaWR.jpg" group-title="SERIES",The Flash S04E19
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21310.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/7TvLrH6hyhoLRFWKUpmmytBSg6Q.jpg" group-title="SERIES",The Flash S04E20
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21311.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/bImch9aEquFv3jo0bdKgPSJdKFi.jpg" group-title="SERIES",The Flash S04E21
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21312.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/5r6OE4FvkfMll7CPoKlSiH38225.jpg" group-title="SERIES",The Flash S04E22
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21313.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/1yGRFdczeYj7LhVNY8KEVQrSuFL.jpg" group-title="SERIES",The Flash S04E23
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21314.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/z7VM7EfhPeFVR5sgrdYNN4pgmih.jpg" group-title="SERIES",The Flash S05E01
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21315.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/mMtpUwIeJyL4K4mdltHpDwMnvv6.jpg" group-title="SERIES",The Flash S05E02
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21316.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/tW4HSTZfnSFzgm16t0PvEB7daXP.jpg" group-title="SERIES",The Flash S05E03
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21317.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/mWbRwstBeNwjXteNf4lydsCNlRs.jpg" group-title="SERIES",The Flash S05E04
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21318.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/6vNKPF7mu0zWMyxrdepy9otYuhp.jpg" group-title="SERIES",The Flash S05E05
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21319.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/67sEwyfBySRvoS2TTKxIr3Rj4Z4.jpg" group-title="SERIES",The Flash S05E06
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21320.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/d5TRIV6x7p4SMdFfSjAc8LbiI1w.jpg" group-title="SERIES",The Flash S05E07
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/21321.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/pnnLvJd5B7oHVuVDUF2xGn3dzsn.jpg" group-title="SERIES",The Flash S05E08
@@ -1479,8 +1423,6 @@ http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/34071.mkv
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/34072.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4S4XAyU71fOqHnL97cB4KueHutf.jpg" group-title="SERIES",The Flash S09E01
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/37658.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZV0EQL8pmLQqa3Cm8lWo1r10J9.jpg" group-title="SERIES",The Flash S09E02
-http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/37659.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUlIctIEbsg92BJLgtkgLphJsJM.jpg" group-title="SERIES",The Flash S09E03
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/37660.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPULvDX1dfGfC23fDdJj8zQGMR.jpg" group-title="SERIES",The Flash S09E04
@@ -2179,19 +2121,19 @@ http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/44293.mkv
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/44464.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="SERIES",The Boys S05E05
 http://tekotv.biz:80/series/Ashmet_Seljini/dc:bd:7a:6d:af:e2/44500.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES", Mahavatar narasimha
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES",Mahavatar narasimha
 http://sansat.cc:88/movie/NXTENYCYGA/IJO6ZZJ0PC/2393328.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES", Avatar: Fire and Ash (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES",Avatar: Fire and Ash (2025)
 http://sansat.cc:88/movie/NXTENYCYGA/IJO6ZZJ0PC/1982907.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES", Avatar: The Way of Water (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES",Avatar: The Way of Water (2022)
 http://sansat.cc:88/movie/NXTENYCYGA/IJO6ZZJ0PC/1982897.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES", Monsters University (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES",Monsters University (2013)
 http://sansat.cc:88/movie/NXTENYCYGA/IJO6ZZJ0PC/333921.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES", Avengers: Age of Ultron (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES",Avengers: Age of Ultron (2015)
 http://sansat.cc:88/movie/NXTENYCYGA/IJO6ZZJ0PC/1982937.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES",  Avengers: Infinity War (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES",Avengers: Infinity War (2018)
 http://sansat.cc:88/movie/NXTENYCYGA/IJO6ZZJ0PC/1982801.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES",  Avengers: Endgame (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="MOVIES",Avengers: Endgame (2019)
 http://sansat.cc:88/movie/NXTENYCYGA/IJO6ZZJ0PC/1982800.mkv
 #EXTINF:-1,24/7: Avatar The Last Airbender
 http://watchdog.build/live/nino2074/2961106/97d8b74c-0d5f-49ec-9e67-e1648f355ece.ts
