@@ -143,14 +143,42 @@ def prune_m3u(path, results, remove_statuses):
           f"({len(results)} -> {len(results) - removed})")
 
 
+def show_progress(done, total, results):
+    """Render an in-place progress line with a bar and live status counts."""
+    if not sys.stdout.isatty():
+        return
+
+    bar_width = 20
+    frac = done / total if total else 0
+    filled = int(round(bar_width * frac))
+    bar = "█" * filled + "░" * (bar_width - filled)
+
+    counts = {}
+    for r in results:
+        if r:
+            counts[r["status"]] = counts.get(r["status"], 0) + 1
+    status_str = " ".join(
+        f"{k}:{counts.get(k, 0)}"
+        for k in ("WORKING", "UNKNOWN", "TIMEOUT", "ERROR", "DEAD", "NOURL")
+    )
+    print(f"\r[{bar}] {done}/{total} ({frac * 100:3.0f}%)  {status_str}",
+          end="", flush=True)
+
+
 def validate_file(path, fmt="default", only_errors=False, remove_statuses=None):
     channels = parse_m3u(path)
     print(f"\nFound {len(channels)} channels in {path.name}\n")
 
-    results = []
+    results = [None] * len(channels)
+    done = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
-        for res in ex.map(check_channel, channels):
-            results.append(res)
+        futures = {ex.submit(check_channel, ch): i for i, ch in enumerate(channels)}
+        for fut in concurrent.futures.as_completed(futures):
+            i = futures[fut]
+            results[i] = fut.result()
+            done += 1
+            show_progress(done, len(channels), results)
+    print()
 
     collapsed = {}
     for r in results:
