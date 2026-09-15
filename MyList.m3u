@@ -2173,3 +2173,9 @@ http://watchdog.build/live/nino2074/2961106/99d067ea-a1b6-4daf-93f3-0ee81510c96a
 http://watchdog.build/live/nino2074/2961106/a8a62769-d36e-4c79-b962-240696071c48.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="KANNADA LIVE", Nandini TV Kannada
 https://vvsolutions-server11.in/nanditv_10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png" group-title="India",Colors Kannada HD (1080i)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png" group-title="India",Colors Super (396p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="India",Mr. Bean Animated (1080p)
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
