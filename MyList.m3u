@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ZEE.KANNADA.HD.in" group-title="KANNADA",ZEE KANNADA HD
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="ZEE.KANNADA.HD.in" group-title="KANNADA",ZEE KANNADA HD
+https://yupp-tv.keralive.workers.dev/28072023/zeekannadahd_2500/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="MOVIES",Ljudi koje upoznajemo na odmoru 2026 (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/8250.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="MOVIES",Oscar Shaw (2026) (2026)
@@ -2179,3 +2181,31 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlis
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="India",Mr. Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_News.png" group-title="India",Zee Kannada News (720p)
+https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7fhhyX.png" group-title="KANNADA LIVE",Raj Musix Kannada (576p)
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" group-title="KANNADA LIVE",NKR TV Kannada (1080p)
+https://stream.ottlive.co.in/nkrtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540" group-title="KANNADA LIVE",Siri Kannada (576p)
+https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE",Public Movies
+https://samitaorigin.tangotv.in/PUBLICMOVIES/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Public Music
+https://samitaorigin.tangotv.in/PUBLICMUSIC/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Samruddi TV
+https://shashwatha.com/hls/samrudhi/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Sambrama TV
+https://shashwatha.com/hls/shashwatha/sambrama-24233.ts
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Shaine Kannada TV
+https://cloud.dndcommunication.in/shinekannada/shinekannada/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Media Knnada TV
+https://cloud.dndcommunication.in/mediatv/mediatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", JK Knnada TV
+https://account18.livebox.co.in/jktvkannadahls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Sindura Knnada TV
+https://mumbai-edge.smartplaytv.in/SindhuraNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Sindura News TV
+https://mumbai-edge.smartplaytv.in/SindhuraTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Nandi TV
+https://vvsolutions-server11.in/dcn24_44/video.m3u8
