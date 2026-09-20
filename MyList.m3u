@@ -2175,13 +2175,13 @@ http://watchdog.build/live/nino2074/2961106/99d067ea-a1b6-4daf-93f3-0ee81510c96a
 http://watchdog.build/live/nino2074/2961106/a8a62769-d36e-4c79-b962-240696071c48.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="KANNADA LIVE", Nandini TV Kannada
 https://vvsolutions-server11.in/nanditv_10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png" group-title="India",Colors Kannada HD (1080i)
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png" group-title="KANNADA LIVE",Colors Kannada HD (1080i)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png" group-title="India",Colors Super (396p)
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png" group-title="KANNADA LIVE",Colors Super (396p)
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="India",Mr. Bean Animated (1080p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="KIDS",Mr. Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_News.png" group-title="India",Zee Kannada News (720p)
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_News.png" group-title="KANNADA LIVE",Zee Kannada News (720p)
 https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7fhhyX.png" group-title="KANNADA LIVE",Raj Musix Kannada (576p)
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
@@ -8146,69 +8146,3 @@ https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="Music",Raj Musix Kannada
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
-#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="MOVIES", Minions Monster
-https://moon.peakstorm.top/vd/aXF2ZmVBQkFuV2p4M3VqQ0lKOUpOUTowZnRxWXNFTEVBekFYc1JmMjZSLXZZRVozQ3lsUlVXSkNYWHRrQ2FaOVRF/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Avengers: Infinity War
-https://moon.peakstorm.top/vd/UnhzcGN6U01LTXQ3VG5PRlhHNmptZzo1N3h5c2N3enp6Z1hSbW10a2JHRC1UcGRwbzNReFZCWHh5Q3BWZVV3WXpz/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Guardians of the Galaxy Vol. 3
-https://moon.peakstorm.top/vd/am1TNVdLSkUxZjNzWERMdXpCYkxyUTpLNG5uUEJYR3gyOWFjNkptbHp1RU5qU25uMU96NHMxSm45VS10SnMzV1Aw/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Justice League
-https://moon.peakstorm.top/vd/RWxfb2dPaGRrOHhQLXVuV3A1WmtyQTpRNVpNVGhGOUNrc0JPcm9oN0VjR2ZNaTdUeFlFaGhucGJDbzBqalExREs0/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Black Panther
-https://moon.peakstorm.top/vd/NllEM0JOcklFdWhSU1Z6R05qRV9SQTpyQXBzS2pQTXhaTU9aMFMxUVpONnNkOER2dENNczdPR2lkelBWQ3RTSHR3/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Supergirl 2026
-https://moon.peakstorm.top/vd/SU9UdnNXMGN3UUEwdGFqNUt0RDE1UTpzbExUTzJoY1JBSnYwT0tqcnc4YTBZdl9RNGY1U2NfTkVVV0V4Ym9xSUhV/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", The Terminator 1984
-https://moon.peakstorm.top/vd/VVVlb1BLUWRvOGJwZkFVZjZMcnAzdzpjNnRoQ0gySmRpSUZZZEg1N2djSjNR/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Fall 2: Deadpoint
-https://moon.peakstorm.top/vd/Skdhcy0zSlBIS3h5bE9obXFaRlJKZzpLZ1pBUno1RXJRbUFwbVR1dU13QjM1Z29FVEYzaXo5bS1CRnFqTTEyak1n/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", War of the WorldsFall 2: Deadpoint
-https://moon.peakstorm.top/vd/Wm1rd2tCYl9BQWZfb25NYjJ1U3BTUTpTMnhYZmZLQTJBaV9QQ2pzWmhrbG9n/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Greenland 2: Migration
-https://moon.peakstorm.top/vd/TDV6QkdLRmd5NFllVng0bWlWZnZVZzo0ZklDVldITlJRcC03WGY2Zk9wZWpZc3UzRWpFZ0F4T2MzWHpuMjdXNkNj/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Deadpool & Wolverine
-https://moon.peakstorm.top/vd/R1Z6RWlSNTNBWVlzWlFmb1ZJcDJuZzpHLUl2VGl4UU9mbEROVFA3YVVIODlDeEJTdnlUUWdFQ2hEdVNLZDkyMGxJ/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Avengers: Endgame
-https://moon.peakstorm.top/vd/Rkc4bFA2Zjl2c2tCNkxPYzZQQ1JnQTpaRFBoa3VOSWtIaWw1ajFMcncwdGUxVENlNHlKVFNFb19kLS1EcDRSRi1v/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Hoppers
-https://moon.peakstorm.top/vd/d2Vlbkg2czdxSEllZVl2dFk0SmpkZzpBVUV4RFMwM3NhSUF1YXlzQXdyRUxVeDdWbXliUXIza3dGNDZpZE40QVBj/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Kung Fu Panda 3
-https://moon.peakstorm.top/vd/emVCS1JQbzV2TC1ZU0JZUVhhWGVQZzpIbjJQcmxjMjR4WHl0VU1fX0lpRVJ6YXFuU0pUN2pFZkFzbnJ4Tlk1cTlR/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Predator: Badlands
-https://moon.peakstorm.top/vd/SnpuM1FqY1N4WlY0WGszMldURTFsdzpYY1dWY2JIYjJFWDBqWUJvWEIxTzdkb2ZzV3VadTZ6cU1nY0x6Qm9xM2s4/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Black Panther: Wakanda Forever
-https://moon.peakstorm.top/vd/N28zRTQ3RnZidm1OaVVCeVNHVG94UTp3UkJ0X2t3QlJQWi1mbVVPTGpQcWRfZk9rR3dGY0NkR2hvYUhpdkxBQmI0/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Terminator Genisys
-https://moon.peakstorm.top/vd/ZjlWZFZJWHh2eUN3aUV3RkVLOUdwUTpCYjNUd2tEYUhpdUhIM3k4azNwWkVB/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Transformers: The Last Knight
-https://moon.peakstorm.top/vd/dWw2c3RoaG1iTXhOZmJRWjEtaFBpdzpnTTZlYWRrdG9TSTNxRHZBUk9CQWV0ZW44d3BaU2xoOWRjLTc2SGVyd24w/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Transformers
-https://moon.peakstorm.top/vd/RDNwTFR1VU1KMTVtaDdBRC0zclpvQTpaZWlqTV83blZaaTdYUFh2TTlVa2JB/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Transformers: Age of Extinction
-https://moon.peakstorm.top/vd/VjR3Z2VnMnN5emtDamloVjBJb3NMZzpWel84dGx6di1vOVBPMlJSZXhmNDFB/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Transformers: Age of Extinction
-https://moon.peakstorm.top/vd/MHBtc1VQTERpaENPZzhDZ2ZpZGRzQTo5WmtuOEE0MlR3aVRHLTdWUE4tMGhYbzFHbXJTM0ROMXFMbTY3WWl2Tms4/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Green Lantern: Beware My Power
-https://moon.peakstorm.top/vd/SkZqT1dCYkxhSUxaT1pFMnlycjBMZzp5aUFqTmVaS1Q5VHVPYUtkVTBMdmhXdmdCelhaMEJKWWNCeU5la1NPRWRB/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Turning Red
-https://moon.peakstorm.top/vd/dV9NTWJNT0NNWE16bFp6T2ltcDBHZzpCQ2RITl9ULUFMUm5YLWZhMkY4bG12WFdjV0hoNWp2S3RDY2ZteGg5d09N/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Kingdom of the Planet of the Apes
-https://moon.peakstorm.top/vd/RTNRM09BcTZ6VUlWU0N4VU51T0pOdzpyTk5oUm5oYS1UdThULWNJSEhFVkFpQUNJdWtVZnpIXzJnMldQamJpaUZB/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Kingdom of the Planet of the Apes
-https://moon.peakstorm.top/vd/NDFwYWZzUFZqNDdTUkp4UjN6Zng2dzpXWjUwc2xrbTU5bm5nS3BEUVRKYjZqQ2RSbjZzOGV3Ti1PMW8zV0hZZU5r/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", War for the Planet of the Apes
-https://moon.peakstorm.top/vd/SHhQVkwzUTRoM2ZUUE81d0JSQkk4ZzpYSEV5M3VseGNxVGwzOXVJOEp3NHppYjFTVU5ZOUQyRF9Cb0VXTWU2aXRz/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Zack Snyder's Justice League
-https://moon.peakstorm.top/vd/Tkw5elotODlEZDRPM1JtanRZQ0M1UTpQekN3R0xFTDl4S0JPX05Gb3padHlRTDFWY0l3V3RCTHA4VmlYNEJIZ25N/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Guy Ritchie's The Covenant
-https://moon.peakstorm.top/vd/WjZCM0MwZ1VKcnJ6MzdqYlZvYzRaQTpfRkxuNHNIY1RpUTNKbmtGcXBTMS1EWl8ycHVDVHAzWTFCRHdDc0NIV2s4/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Tropic Thunder
-https://moon.peakstorm.top/vd/TnM2LXg4M0lldUZZbWM2WEFWaURYZzpBeld5TjdsSmRPUkw0Z2pWcjRLdm5B/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED SERIES", Lanterns S1 E2 Trust Fall
-https://moon.peakstorm.top/vd/R0xfTmRGOHRfeVhzY2M3cjVnWXRodzpyaUNBclZpWFFSRG9NN0tVNXYwcnZsdlVPcUpmZElSTUp3NjJXN2pJakJj/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED SERIES", Lanterns S1 E3 OutKast
-https://moon.peakstorm.top/vd/MUJlaElOTjZSQTR0dHRRN0YzX1VxdzpGZEZUWThlZG05a2pIMUFOcWhRUEY3Q1NoWDNsYURqeXhYQmtZWEsxTEZV/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED MOVIES", Demon Slayer: Kimetsu no Yaiba Infinity Castle
-https://moon.peakstorm.top/vd/LVRBYzNrSjU3RGlObmhKREhmWmhQdzowUGJFSmNUWC10ZHVMcVdZRzBhS0duRkZkYzFuMERPTXFpU252YjRqWjhB/index-s1080p-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-status="live" group-title="SELECTED LIVE", BBK 13
-https://live14p.hotstar.com/hls/live/2117812/incagbsgallow-biggboss-kan-2026/kan/1540078560/15mindvrm01e31f8e6c053744438708a72da660cbf419september2026/master_ap.m3u8?a=ns&hdnea=exp=1789833997~acl=%2fhls%2flive%2f2117812%2fincagbsgallow-biggboss-kan-2026%2fkan%2f1540078560%2f15mindvrm01e31f8e6c053744438708a72da660cbf419september2026%2fmaster_ap%2a~data=ip%3dttLjQ2tRNE4AOcR40afp0uY06EZpDpr9aC4whqPOevAYUJAI3Vmx0o2-userid%3dCUxMOXXRRhAcsWrzVIjkRBN72POlXMtFe5h4ymNgu3s2-did%3dVPAQBLreozIqA8jQVlu1IDUh2QfTS8jsA68OdLee7oZI-cc%3din-bl%3djhs-sp%3dHotstarBundle-ctype%3depisode-de%3d6-pl%3dweb-ap%3d26.09.05.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=d10c79904f6e17886a15f57bcceaccfdcf0f36f28dc09072104b5f3d0ee5208e
