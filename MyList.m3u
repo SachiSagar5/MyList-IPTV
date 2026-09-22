@@ -8585,3 +8585,13 @@ https://relaxes.xyz:8443/movie/tricia/jazz1956/356403.mp4
 https://relaxes.xyz:8443/movie/tricia/jazz1956/161702.mp4
 #EXTINF:-1 tvg-logo="https://relaxes.xyz:8443/images/2a7e5ecbc462c14019bb6e420674be9e.png" group-title="24/7 MOVIES & TV SHOWS ",The Expendables
 https://relaxes.xyz:8443/live/tricia/jazz1956/451124.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdYu7YJJP0uuGEuhUX5toqvBSog.jpg" group-title="GERMAN MOVIES",Terminator (1984)
+http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45240.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VqVoURCh0hGvnvKq3148SjePIo.jpg" group-title="GERMAN MOVIES",Terminator 2 - Tag der Abrechnung (1991)
+http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45241.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwlbq0wPLtRbEFAnDOXSPxA3p6V.jpg" group-title="GERMAN MOVIES",Terminator 3 - Rebellion der Maschinen (2003)
+http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45242.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ja7t7A29NLaUIdlmJV8WfLZoAd.jpg" group-title="GERMAN MOVIES",Terminator: Die Erlösung (2009)
+http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45243.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/887EWUloOJyJha8rlQ2OAT5MdYm.jpg" group-title="GERMAN MOVIES",Terminator: Genisys (2015)
+http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45244.mkv
