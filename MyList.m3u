@@ -4621,8 +4621,6 @@ http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/130714.mkv
 http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/130675.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3p5H0mNhLAvrI3vJTm8drWq6Hes.jpg" group-title="Latest Hindi Movie",Neeyat (2023) Hindi
 http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/112498.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysY2dMaSeEzx84J7VIsyXuX785x.jpg" group-title="Latest Hindi Movie",1920: Horrors of the Heart (2023) Hindi
-http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/112499.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpuOeWclbtLU414Txv8ZT6HoZ0k.jpg" group-title="Latest Hindi Movie",Adipurush (2023) Hindi
 http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/112237.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IeIhUyBioSrgq2tN5jpCToKJjG.jpg" group-title="Latest Hindi Movie",Satyaprem Ki Katha (2023) Hindi
@@ -8661,3 +8659,5 @@ http://livebox.pro/movie/sajimonjoseph/skyplay5608/101373.mp4
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/101362.mp4
 #EXTINF:-1 group-title="KANNADA",Ulidavaru Kandanthe (2014)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/101382.mp4
+#EXTINF:-1 tvg-logo="http://starshare.live:8080/images/3d5351d426338baf09d1c6f0df56ad81.jpg" group-title="KANNADA",Ondu Shikariya Kathe (2020)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/101483.mp4
