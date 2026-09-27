@@ -8585,13 +8585,77 @@ https://relaxes.xyz:8443/movie/tricia/jazz1956/356403.mp4
 https://relaxes.xyz:8443/movie/tricia/jazz1956/161702.mp4
 #EXTINF:-1 tvg-logo="https://relaxes.xyz:8443/images/2a7e5ecbc462c14019bb6e420674be9e.png" group-title="24/7 MOVIES & TV SHOWS ",The Expendables
 https://relaxes.xyz:8443/live/tricia/jazz1956/451124.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdYu7YJJP0uuGEuhUX5toqvBSog.jpg" group-title="GERMAN MOVIES",Terminator (1984)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdYu7YJJP0uuGEuhUX5toqvBSog.jpg" group-title="(MULTI LANGUAGE)",Terminator (1984)
 http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45240.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VqVoURCh0hGvnvKq3148SjePIo.jpg" group-title="GERMAN MOVIES",Terminator 2 - Tag der Abrechnung (1991)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VqVoURCh0hGvnvKq3148SjePIo.jpg" group-title="(MULTI LANGUAGE)",Terminator 2 - Tag der Abrechnung (1991)
 http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45241.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwlbq0wPLtRbEFAnDOXSPxA3p6V.jpg" group-title="GERMAN MOVIES",Terminator 3 - Rebellion der Maschinen (2003)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwlbq0wPLtRbEFAnDOXSPxA3p6V.jpg" group-title="(MULTI LANGUAGE)",Terminator 3 - Rebellion der Maschinen (2003)
 http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45242.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ja7t7A29NLaUIdlmJV8WfLZoAd.jpg" group-title="GERMAN MOVIES",Terminator: Die Erlösung (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ja7t7A29NLaUIdlmJV8WfLZoAd.jpg" group-title="(MULTI LANGUAGE),Terminator: Die Erlösung (2009)
 http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45243.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/887EWUloOJyJha8rlQ2OAT5MdYm.jpg" group-title="GERMAN MOVIES",Terminator: Genisys (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/887EWUloOJyJha8rlQ2OAT5MdYm.jpg" group-title="(MULTI LANGUAGE)",Terminator: Genisys (2015)
 http://tekotv.biz:80/movie/Ashmet_Seljini/dc:bd:7a:6d:af:e2/45244.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg" group-title="(MULTI LANGUAGE) ",Kantara (2022).
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/129970.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg" group-title="(MULTI LANGUAGE) ",Black Adam (2022).
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/131159.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v28T5F1IygM8vXWZIycfNEm3xcL.jpg" group-title="(MULTI LANGUAGE) ",Fall (2022)[Tam, Tel, Hin, Eng]
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/144950.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="(MULTI LANGUAGE) ",The Super Mario Bros. Movie (2023) [Hindi, English]
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/155057.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lANYv3fDtvey3w5oFusyPK41Kl.jpg" group-title="(MULTI LANGUAGE) ",Transformers: Age of Extinction (2014)[Tam, Tel, Hin, Eng]
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/158330.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg" group-title="(MULTI LANGUAGE) ",Transformers: Dark of the Moon (2011) [Tam, Tel, Hin, Eng]
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/158329.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR2xIEBQUoIVPGZOOfnMrpRcUCV.jpg" group-title="(MULTI LANGUAGE) ",Transformers (2007)[Tam, Tel, Hin, Eng]
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/158328.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jcxahM7BDAAeKkP4IF8WLFsJ3K.jpg" group-title="(MULTI LANGUAGE) ",Transformers: Revenge of the Fallen (2009)[Tam, Tel, Hin, Eng]
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/158331.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg" group-title="(MULTI LANGUAGE) ",Transformers: The Last Knight (2017)[Tam, Tel, Hin, Eng]
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/158332.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPbM0MK8CP8A174rmUwGsADNYKD.jpg" group-title="(MULTI LANGUAGE) ",Transformers: Rise of the Beasts (2023)(Hindi, English)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/161220.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg" group-title="(MULTI LANGUAGE) ",Bumblebee (2018)[Tam, Tel, Hin, Eng]
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/158327.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="(MULTI LANGUAGE) ",Avengers: Endgame (2019) (HINDI+ENG)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/160003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg" group-title="(MULTI LANGUAGE) ",X-Men: Apocalypse (2016)(Hindi, English)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/159804.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="(MULTI LANGUAGE) ",The Flash (2023)(HINDI, ENGLISH)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/159618.mkv
+#EXTINF:-1 group-title="(MULTI LANGUAGE) ",Zootopia 2 (2025)(Tel,Tam,Hin,Eng)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/657840.mkv
+#EXTINF:-1 group-title="(MULTI LANGUAGE) ",Tumbbad (2018) ( Hindi + Tamil + Telugu )
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/396549.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcKk5IILXOzAfY69lvKhhGcIt9J.jpg" group-title="(MULTI LANGUAGE) ",Parking (2023) (Telugu) (Tamil) (Hindi) (Kannada) (Malyalam)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/262885.mkv
+#EXTINF:-1 group-title="(MULTI LANGUAGE) ",Manjummel Boys (2024) (Hindi)(Kannada)(Malayalam)(Tamil)(Telugu)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/323900.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1Mvyd983ZyrU5Vf2aKEe6WncSq.jpg" group-title="Bollywood Comedy",Phir  Hera Pheri (2006)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/157095.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66A9MqXOyVFCssoloscw79z8Tew.jpg" group-title="Bollywood Comedy", 3 Idiots (2009)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/157144.mp4
+#EXTINF:-1 group-title="Dubbed Multi Language",Su from So (2025) (Telugu, Malayalam, Kannada)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/590250.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="ENGLISH (4K)",The Suicide Squad (2021) (4K)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/111096.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg" group-title="ENGLISH (4K)",Terminator:Dark Fate (2019)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/111158.mkv
+#EXTINF:-1 group-title="INDIAN 2026 4K",Alpha (2026)(4K)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/796873.mkv
+#EXTINF:-1 group-title="INDIAN 2026 4K",Governor (2026)(4K)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/796890.mkv
+#EXTINF:-1 group-title="INDIAN 2026 4K",Ikka (2026)(4K)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/796893.mkv
+#EXTINF:-1 group-title="INDIAN 2026 4K",Kartavya (2026)(4K)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/796896.mkv
+#EXTINF:-1 group-title="INDIAN 2026 4K",The Kerala Story 2 (2026)(4K)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/796910.mkv
+#EXTINF:-1 group-title="INDIAN 2026 4K",Raja Shivaji (2026)(4K)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/796905.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wobXQ8VLfCHvgbevNMy8Rxvo41.jpg" group-title="KANNADA",K.G.F: Chapter 2 (2022) (Kannada)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/86147.mkv
+#EXTINF:-1 tvg-logo="http://starshare.live:8080/images/b3edb7ecf183d76e7822f572f0e3156f.jpg" group-title="KANNADA",Victory 2 (2018)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/101373.mp4
+#EXTINF:-1 tvg-logo="http://starshare.live:8080/images/1332ec02488ba25823f76cdf54ff52c5.jpg" group-title="KANNADA",Wild Dog (2021)
+http://livebox.pro/movie/sajimonjoseph/skyplay5608/101362.mp4
