@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ZEE.KANNADA.HD.in" group-title="KANNADA LIVE",ZEE KANNADA HD
+#EXTINF:-1 tvg-id="ZEE.KANNADA.HD.in" group-title="KANNADA LIVE" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S209.png?lock=720x540",ZEE KANNADA HD
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="MOVIES",Ljudi koje upoznajemo na odmoru 2026 (2026)
 http://185.101.107.235:80/movie/111VinkoD/f3KbHuyFdS7P/8250.ts
@@ -1310,7 +1310,7 @@ http://watchdog.build/live/nino2074/2961106/4d3124d8-2d48-4ae2-9672-f2210f2ae3e5
 http://watchdog.build/live/nino2074/2961106/5436e40c-3c05-4808-a2f7-4174a5ccdce1.ts
 #EXTINF:-1,24/7: Lois and Clark The New Adventures of Superman
 http://watchdog.build/live/nino2074/2961106/15d6613c-cf4a-4d3b-bd8d-76199df0277d.ts
-#EXTINF:-1,24/7: Transformers
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR2xIEBQUoIVPGZOOfnMrpRcUCV.jpg",24/7: Transformers
 http://watchdog.build/live/nino2074/2961106/da7f28c1-85dc-4526-9237-45812b82a152.ts
 #EXTINF:-1,24/7: Transformers Movies
 http://watchdog.build/live/nino2074/2961106/91054f69-23c7-4571-bee8-fe3c0bd582cc.ts
@@ -1342,9 +1342,9 @@ https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540" group-title="KANNADA LIVE",Siri Kannada (576p)
 https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE",Public Movies
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143686_ld_h9_aa.png?lock=720x540" group-title="KANNADA LIVE",Public Movies
 https://samitaorigin.tangotv.in/PUBLICMOVIES/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Public Music
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" group-title="KANNADA LIVE", Public Music
 https://samitaorigin.tangotv.in/PUBLICMUSIC/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Samruddi TV
 https://shashwatha.com/hls/samrudhi/live.m3u8
@@ -1362,17 +1362,17 @@ https://mumbai-edge.smartplaytv.in/SindhuraNews/tracks-v1a1/mono.m3u8
 https://mumbai-edge.smartplaytv.in/SindhuraTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KANNADA LIVE", Nandi TV
 https://vvsolutions-server11.in/dcn24_44/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENGLISH LIVE", ENGLISH : STAR MOVIES FHD
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="ENGLISH LIVE", ENGLISH : STAR MOVIES FHD
 http://smartbp.xyz:8080/live/Rajeshlalwani53488/n1TDmds/1561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENGLISH LIVE", ENGLISH : MOVIES NOW FHD
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540" group-title="ENGLISH LIVE", ENGLISH : MOVIES NOW FHD
 http://smartbp.xyz:8080/live/Rajeshlalwani53488/n1TDmds/4443.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HINDI LIVE", SONY MAX HD
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="HINDI LIVE", SONY MAX HD
 http://smartbp.xyz:8080/live/Rajeshlalwani53488/n1TDmds/1578.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HINDI LIVE", ZEE CINEMA FHD
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="HINDI LIVE", ZEE CINEMA FHD
 http://smartbp.xyz:8080/live/Rajeshlalwani53488/n1TDmds/1806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HINDI LIVE", STAR GOLD THRILLS
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png?lock=720x540" group-title="HINDI LIVE", STAR GOLD THRILLS
 http://smartbp.xyz:8080/live/Rajeshlalwani53488/n1TDmds/170903.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS LIVE", Star Sports Kannada HD
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8138/1782284928138-h.jpg" group-title="SPORTS LIVE", Star Sports Kannada HD
 http://smartbp.xyz:8080/live/Rajeshlalwani53488/n1TDmds/292442.m3u
 
 # ==============================
@@ -7198,15 +7198,15 @@ http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/268057.mp4
 http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/250186.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ8TnHvWHaVadW5JJjGYsM07j9i.jpg" group-title="Kids Movie",Cars 3 - 2017
 http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/250170.mp4
-#EXTINF:-1 tvg-id="" group-title="HINDI", ZEE CINEMA
+#EXTINF:-1 tvg-id="" group-title="HINDI" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540", ZEE CINEMA
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b896000.m3u8
-#EXTINF:-1 tvg-id="" group-title="HINDI", PCOKET FILM
+#EXTINF:-1 tvg-id="" group-title="HINDI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png", PCOKET FILM
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
-#EXTINF:-1 tvg-id="" group-title="HINDI", SOUTH STATION
+#EXTINF:-1 tvg-id="" group-title="HINDI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png", SOUTH STATION
 https://cc-yw7ztecy8do3q.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/1ff3a7f8-54e4-40cc-aaa3-5f784f2febb6/4.m3u8
-#EXTINF:-1 tvg-id="" group-title="HINDI", SOUTH Flix
+#EXTINF:-1 tvg-id="" group-title="HINDI" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png", SOUTH Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c9-amgplt0173/cb7d3e1a7b736f8a93ca3f6cd8a744f5d10e3785053add616fae5e9176c4185384bfa7c6e74dee3b5fbd5aa33e40340d0136d41cc07c11dfa32bfb086a384837c293a20287dd4755a2a55e793acc190e39ee0f15bf24564d8ea05a29952db97c3216ea2267427dd8ee5eb37554d59871f31b54f7b1cd3d60260f4fe8080ebeff47b38cb91f1a8539beb0194a8b2f5be79c42d9b74dedd1960281468571ef179b80e4dad11785d59032fc4ae0670f016f2cc88628dec85ce7dcd7686bc874701e4f06b3f6c3fa7c16ec282bca27d2b1dd4cd151aba02b856936c96ff22da503faa02e94c59b2a81beb2de382173c496190923d178369f7bc952e9468268786f5e7eb9c534322be87ed12364139ff1c01590c22f47d7499099660731cc9d44d4c8fcd3aff8a04b9f2cc4d3fb8b35190e4a0a168351e2b76cd869f24be8f653700c7215f8a5028dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d510b2e862a5e98ba5353ab3dfd54bb03abce24481a070c607587631f3ca5e38141c4281bb595a4a3ea923c3dcc5e67b0c7289d6ddeecc56426a1a1f400386e7a73ddba1f3692554a67723737f0418860eb43b86e028c1a211abb54335a972f7adf28c52fa8e5183a010e9/29/1280x720_4564560/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="HINDI", ZEE Comedy
+#EXTINF:-1 tvg-id="" group-title="HINDI" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png", ZEE Comedy
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c5-amgplt0173/cb7d3e1a7b736f8a93ca3f6cd8a744f5d10e3785053add616fae5e9176c4185384bfa7c6e74dee3b5fbd5aa33e40340d0136d41cc07c11dfa32bfb086a384837c293a20287dd4755a2a55e793acc190e39ee0f15bf24564d8ea05a29952db97c3216ea2267427dd8ee5eb37554d59871f31b54f7b1cd3d60260f4fe8080ebeff47b38cb91f1a8539beb0194a8b2f5be79c42d9b74dedd1960281468571ef179b80e48bd415d3d39766f84ae0670f596f2cc88628de9005e08fd73b6fc4247140490de4a1caaa7c16ec282bca27d2b1dd4cd151aba02b856936c96ff22da503faa02e94c59b2a81beb2de382173c496190923d178369f7bc952e9468268786f5e7eb9c534322be87ed12364139ff1c01590c22f47d7499099660731cc9d44d4c8fcd3aff8a04b9f2cc4d3fb8b35190e4a0a168351e2b76cd869f24be8f653700c7215f8a5028dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d510b2e862a5e98ba5353ab3dfd54bb03abce24481a070c607587631f3ca5e38141c4281bb595a4a3ea923c3dcc5e67b0c7289d6ddeecc56426a1a1f400386e7a73ddba1f3692554a67723737f0418860eb5388655a9618544c666cad9f3f322bef1dedf10edd6fb37658e2c/195/1280x720_4564560/index.m3u8
 #EXTINF:-1 tvg-id="ColorsKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Colors Kannada
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
@@ -7689,9 +7689,9 @@ http://livebox.pro/movie/sajimonjoseph/skyplay5608/160003.mkv
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/159804.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="(MULTI LANGUAGE) ",The Flash (2023)(HINDI, ENGLISH)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/159618.mkv
-#EXTINF:-1 group-title="(MULTI LANGUAGE) ",Zootopia 2 (2025)(Tel,Tam,Hin,Eng)
+#EXTINF:-1 group-title="(MULTI LANGUAGE) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",Zootopia 2 (2025)(Tel,Tam,Hin,Eng)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/657840.mkv
-#EXTINF:-1 group-title="(MULTI LANGUAGE) ",Tumbbad (2018) ( Hindi + Tamil + Telugu )
+#EXTINF:-1 group-title="(MULTI LANGUAGE) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",Tumbbad (2018) ( Hindi + Tamil + Telugu )
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/396549.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcKk5IILXOzAfY69lvKhhGcIt9J.jpg" group-title="(MULTI LANGUAGE) ",Parking (2023) (Telugu) (Tamil) (Hindi) (Kannada) (Malyalam)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/262885.mkv
@@ -7707,17 +7707,17 @@ http://livebox.pro/movie/sajimonjoseph/skyplay5608/590250.mkv
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/111096.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg" group-title="ENGLISH (4K)",Terminator:Dark Fate (2019)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/111158.mkv
-#EXTINF:-1 group-title="INDIAN 2026 4K",Alpha (2026)(4K)
+#EXTINF:-1 group-title="INDIAN 2026 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",Alpha (2026)(4K)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/796873.mkv
-#EXTINF:-1 group-title="INDIAN 2026 4K",Governor (2026)(4K)
+#EXTINF:-1 group-title="INDIAN 2026 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0GjFVz4u5wDU8d6r7HySuduCZE.jpg",Governor (2026)(4K)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/796890.mkv
-#EXTINF:-1 group-title="INDIAN 2026 4K",Ikka (2026)(4K)
+#EXTINF:-1 group-title="INDIAN 2026 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y35NPzuvfIbPQyhwnV4dBTqS76h.jpg",Ikka (2026)(4K)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/796893.mkv
-#EXTINF:-1 group-title="INDIAN 2026 4K",Kartavya (2026)(4K)
+#EXTINF:-1 group-title="INDIAN 2026 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNSxtbTKClhbCVwChbW7GogafJy.jpg",Kartavya (2026)(4K)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/796896.mkv
 #EXTINF:-1 group-title="INDIAN 2026 4K",The Kerala Story 2 (2026)(4K)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/796910.mkv
-#EXTINF:-1 group-title="INDIAN 2026 4K",Raja Shivaji (2026)(4K)
+#EXTINF:-1 group-title="INDIAN 2026 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",Raja Shivaji (2026)(4K)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/796905.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wobXQ8VLfCHvgbevNMy8Rxvo41.jpg" group-title="KANNADA",K.G.F: Chapter 2 (2022) (Kannada)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/86147.mkv
@@ -7725,7 +7725,7 @@ http://livebox.pro/movie/sajimonjoseph/skyplay5608/86147.mkv
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/101373.mp4
 #EXTINF:-1 tvg-logo="http://starshare.live:8080/images/1332ec02488ba25823f76cdf54ff52c5.jpg" group-title="KANNADA",Wild Dog (2021)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/101362.mp4
-#EXTINF:-1 group-title="KANNADA",Ulidavaru Kandanthe (2014)
+#EXTINF:-1 group-title="KANNADA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Ee4DKKhNVYNV84rovdqcWXjgt.jpg",Ulidavaru Kandanthe (2014)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/101382.mp4
 #EXTINF:-1 tvg-logo="http://starshare.live:8080/images/3d5351d426338baf09d1c6f0df56ad81.jpg" group-title="KANNADA",Ondu Shikariya Kathe (2020)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/101483.mp4
@@ -8816,7 +8816,7 @@ http://livebox.pro/movie/sajimonjoseph/skyplay5608/703484.mp4
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/703485.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNSAYpeY85WRDWlquJOPp0stS4r.jpg" group-title="UFC FIGHT",UFC Fight Night 272: Moicano vs. Duncan (2026) (Main Card)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/707449.mp4
-#EXTINF:-1 group-title="UFC FIGHT",UFC Fight Night 272: Moicano vs. Duncan (2026) (Prelims)
+#EXTINF:-1 group-title="UFC FIGHT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNSAYpeY85WRDWlquJOPp0stS4r.jpg",UFC Fight Night 272: Moicano vs. Duncan (2026) (Prelims)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/707450.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOXOIhBtTtTDX5Pdi8ToGCFV7Ej.jpg" group-title="UFC FIGHT",UFC 327: Procházka vs. Ulberg (2026) (Early Prelims)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/712201.mp4
