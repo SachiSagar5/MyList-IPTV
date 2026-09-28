@@ -1300,9 +1300,9 @@ http://watchdog.build/live/nino2074/2961106/9f9cb191-ae5f-46a5-990b-193ec24f7e8b
 http://watchdog.build/live/nino2074/2961106/b962fa41-c61b-4b99-8fc3-97effc265ae7.ts
 #EXTINF:-1,24/7: Marvels Guardians of the Galaxy
 http://watchdog.build/live/nino2074/2961106/51270d89-7452-47a2-8ee3-429073c21c76.ts
-#EXTINF:-1,GB : ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",GB : ANIMAL PLANET
 http://watchdog.build/live/nino2074/2961106/5b25f490-b7c4-4ee8-882d-0fbf0e6c10c0.ts
-#EXTINF:-1,GB : ANIMAL PLANET +1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",GB : ANIMAL PLANET +1
 http://watchdog.build/live/nino2074/2961106/af479da3-283d-4fd2-9de7-a519b7248f16.ts
 #EXTINF:-1,24/7: Planet of the Apes Movies
 http://watchdog.build/live/nino2074/2961106/4d3124d8-2d48-4ae2-9672-f2210f2ae3e5.ts
@@ -7701,7 +7701,7 @@ http://livebox.pro/movie/sajimonjoseph/skyplay5608/323900.mp4
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/157095.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66A9MqXOyVFCssoloscw79z8Tew.jpg" group-title="Bollywood Comedy", 3 Idiots (2009)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/157144.mp4
-#EXTINF:-1 group-title="Dubbed Multi Language",Su from So (2025) (Telugu, Malayalam, Kannada)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFI5DOq5b9D2vitCW7EY8RXxygf.jpg" group-title="Dubbed Multi Language",Su from So (2025) (Telugu, Malayalam, Kannada)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/590250.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="ENGLISH (4K)",The Suicide Squad (2021) (4K)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/111096.mkv
@@ -7841,7 +7841,7 @@ http://livebox.pro/movie/sajimonjoseph/skyplay5608/727226.mp4
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/727227.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OHAR38PPh0QLyJDkRHJaF49zhl.jpg" group-title="KANNADA (2026)",Love Mocktail 3 (2026) (Kannada)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/727228.mp4
-#EXTINF:-1 group-title="KANNADA (2026)",Super Hit (2026) (Kannada)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNkylZZAHTivoFZbtb4VzKm4fb.jpg" group-title="KANNADA (2026)",Super Hit (2026) (Kannada)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/727231.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="KANNADA (2026)",Project Hail Mary (2026) (Kannada)
 http://livebox.pro/movie/sajimonjoseph/skyplay5608/727990.mp4
