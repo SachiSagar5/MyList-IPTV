@@ -9155,3 +9155,19 @@ http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/56374.m3u8
 http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/256724.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us" tvg-logo="http://icons.tw:8080/images/e4c2ac1ceb834f05cdca7a81465c73d8.png" group-title="KIDS TV",KIDS : TEEN NICK
 http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/56375.m3u8
+#EXTINF:-1 group-title="Test",Movie Hub
+http://7liveshosting.ddns.net:2096/live/Debbiewilliams/KMtXLI97fs/826926.m3u8
+#EXTINF:-1 group-title="Test",Movie Hub Action
+http://7liveshosting.ddns.net:2096/live/Debbiewilliams/KMtXLI97fs/826927.m3u8
+#EXTINF:-1 group-title="Test",Monster Jam
+http://7liveshosting.ddns.net:2096/live/Debbiewilliams/KMtXLI97fs/826924.m3u8
+#EXTINF:-1 tvg-id="CinemaxAction.us" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/actionmax.png" group-title="USA | PREMIUM",USA: CINEMAX ACTION MAX
+http://7liveshosting.ddns.net:2096/live/Debbiewilliams/KMtXLI97fs/814414.m3u8
+#EXTINF:-1 tvg-id="US: ACTIONMAX WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/actionmax.png" group-title="USA | PREMIUM",USA: CINEMAX ACTION MAX WEST
+http://7liveshosting.ddns.net:2096/live/Debbiewilliams/KMtXLI97fs/814415.m3u8
+#EXTINF:-1 tvg-id="tvg-id-channel33" tvg-logo="http://icons.tw:8080/images/b46d61c01bf37b1ec75c9b455b642163.jpg" group-title="24/7 CHANNELS",24/7: A Wild Year On Earth
+http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223902.m3u8
+#EXTINF:-1 tvg-id="tvg-id-channel43" tvg-logo="http://icons.tw:8080/images/b488f960d12383a4a9ace0d4bce773cc.jpg" group-title="24/7 CHANNELS",24/7: Alien Movies
+http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223912.m3u8
+#EXTINF:-1 tvg-id="tvg-id-channel44" tvg-logo="http://icons.tw:8080/images/cb3cf2b0b83c906185c8dfb9c23587e4.jpg" group-title="24/7 CHANNELS",24/7: Alien Worlds
+http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223913.m3u8
