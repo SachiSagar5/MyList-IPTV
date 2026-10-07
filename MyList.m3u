@@ -859,8 +859,6 @@ http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/83559.mp4
 http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/49434.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/348155/posters/6543c124cec15.jpg" group-title="Scı-Fı",Godzilla Minus One (2023) B/W
 http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/302003.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/348155/posters/6543c124cec15.jpg" group-title="Scı-Fı",Godzilla Minus One (2023) B/W
-http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/302003.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg" group-title="Scı-Fı",Dune: Part Two (2024)
 http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/298643.mp4
 #EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f272f3be7da9f1500f01adf40f9e3c56.jpg" group-title="Scı-Fı",Dune World (2021)
@@ -6493,8 +6491,6 @@ https://cloud.dndcommunication.in/shinekannada/shinekannada/playlist.m3u8
 https://shashwatha.com/hls/samrudhi/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Sambrama TV
 https://shashwatha.com/hls/shashwatha/sambrama-24233.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z7fhhyX.png" group-title="Kannada Lıve",Raj Musix Kannada (576p)
-https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" group-title="Kannada Lıve",Public Music
 https://samitaorigin.tangotv.in/PUBLICMUSIC/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143686_ld_h9_aa.png?lock=720x540" group-title="Kannada Lıve",Public Movies
@@ -8531,10 +8527,6 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c9-amgplt0173/cb7d3e1a7b736f8a93ca3f6cd8a744f5d10e3785053add616fae5e9176c4185384bfa7c6e74dee3b5fbd5aa33e40340d0136d41cc07c11dfa32bfb086a384837c293a20287dd4755a2a55e793acc190e39ee0f15bf24564d8ea05a29952db97c3216ea2267427dd8ee5eb37554d59871f31b54f7b1cd3d60260f4fe8080ebeff47b38cb91f1a8539beb0194a8b2f5be79c42d9b74dedd1960281468571ef179b80e4dad11785d59032fc4ae0670f016f2cc88628dec85ce7dcd7686bc874701e4f06b3f6c3fa7c16ec282bca27d2b1dd4cd151aba02b856936c96ff22da503faa02e94c59b2a81beb2de382173c496190923d178369f7bc952e9468268786f5e7eb9c534322be87ed12364139ff1c01590c22f47d7499099660731cc9d44d4c8fcd3aff8a04b9f2cc4d3fb8b35190e4a0a168351e2b76cd869f24be8f653700c7215f8a5028dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d510b2e862a5e98ba5353ab3dfd54bb03abce24481a070c607587631f3ca5e38141c4281bb595a4a3ea923c3dcc5e67b0c7289d6ddeecc56426a1a1f400386e7a73ddba1f3692554a67723737f0418860eb43b86e028c1a211abb54335a972f7adf28c52fa8e5183a010e9/29/1280x720_4564560/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Hındı" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png",PCOKET FILM
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
-#EXTINF:-1 tvg-id="ZeeKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA/images/LOGO_HD/LOGO_HD_image.png" tvg-status="live" group-title="Entertainment",Zee Kannada
-https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Colors Kannada
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Englısh Lıve",ENGLISH : STAR MOVIES FHD
 http://smartbp.xyz:8080/live/Rajeshlalwani53488/n1TDmds/1561.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540" group-title="Englısh Lıve",ENGLISH : MOVIES NOW FHD
@@ -8633,8 +8625,6 @@ http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223912.m3u8
 http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/97116.mkv
 #EXTINF:-1 tvg-logo="http://icons.tw:8080/images/6abf54047e905b025cc656930c184c52.jpg" group-title="4k Movıes",X-Men: Apocalypse (2016) 4K
 http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1209.mkv
-#EXTINF:-1 tvg-logo="" group-title="4k Movies",X Men: Day of future past
-https://relaxes.xyz:8443/movie/tricia/jazz1956/381548.mp4
 #EXTINF:-1 tvg-logo="https://relaxes.xyz:8443/images/f68213a4773f8e66d7903cac8bb6d1a9.jpg" group-title="4k Movies",Wrath of Man (2021)
 https://relaxes.xyz:8443/movie/tricia/jazz1956/188419.mkv
 #EXTINF:-1 tvg-logo="https://relaxes.xyz:8443/images/908c994519f81720b01c5a52f1798d40.jpg" group-title="4k Movies",Wish (2023)
@@ -9013,8 +9003,6 @@ https://relaxes.xyz:8443/movie/tricia/jazz1956/370980.mkv
 https://relaxes.xyz:8443/movie/tricia/jazz1956/337477.mkv
 #EXTINF:-1 tvg-logo="https://relaxes.xyz:8443/images/3823653eae9b59c1def2c9c1b05f4f3d.jpg" group-title="4k Movies",Back in Action (2025) 4K
 https://relaxes.xyz:8443/movie/tricia/jazz1956/394720.mkv
-#EXTINF:-1 tvg-logo="" group-title="4k Movies",Avenger 2012
-https://relaxes.xyz:8443/movie/tricia/jazz1956/381548.mp4
 #EXTINF:-1 tvg-logo="https://relaxes.xyz:8443/images/54ec67f84033582cc12496bacf9c689d.jpg" group-title="4k Movies",Avatar: The Way of Water (2022)
 https://relaxes.xyz:8443/movie/tricia/jazz1956/266044.mkv
 #EXTINF:-1 tvg-logo="https://relaxes.xyz:8443/images/15ba4e6fdee0e4f448a87e6b9ceea271.jpg" group-title="4k Movies",Avatar: Fire and Ash (2025) 4K
@@ -9167,14 +9155,8 @@ http://7liveshosting.ddns.net:2096/live/Debbiewilliams/KMtXLI97fs/814414.m3u8
 http://7liveshosting.ddns.net:2096/live/Debbiewilliams/KMtXLI97fs/814415.m3u8
 #EXTINF:-1 tvg-id="tvg-id-channel33" tvg-logo="http://icons.tw:8080/images/b46d61c01bf37b1ec75c9b455b642163.jpg" group-title="24/7 CHANNELS",24/7: A Wild Year On Earth
 http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223902.m3u8
-#EXTINF:-1 tvg-id="tvg-id-channel43" tvg-logo="http://icons.tw:8080/images/b488f960d12383a4a9ace0d4bce773cc.jpg" group-title="24/7 CHANNELS",24/7: Alien Movies
-http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223912.m3u8
-#EXTINF:-1 tvg-id="tvg-id-channel44" tvg-logo="http://icons.tw:8080/images/cb3cf2b0b83c906185c8dfb9c23587e4.jpg" group-title="24/7 CHANNELS",24/7: Alien Worlds
-http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223913.m3u8
 #EXTINF:-1 tvg-id="tvg-id-channel74" tvg-logo="http://icons.tw:8080/images/8c79b1ef84993c60f9c1a71d88a029b0.jpg" group-title="24/7 CHANNELS",24/7: Avatar The Last Airbender
 http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223943.m3u8
-#EXTINF:-1 tvg-id="tvg-id-channel75" tvg-logo="http://icons.tw:8080/images/113e21faf20f79a720aa1d528e4ceb40.jpg" group-title="24/7 CHANNELS",24/7: Avengers Movies
-http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223944.m3u8
 #EXTINF:-1 tvg-id="tvg-id-channel94" tvg-logo="http://icons.tw:8080/images/dd197c4bb28e7a413eeb642502e91e05.jpg" group-title="24/7 CHANNELS",24/7: Ben 10
 http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/223963.m3u8
 #EXTINF:-1 tvg-id="tvg-id-channel211" tvg-logo="http://icons.tw:8080/images/318b93b3f410f21a51350b7337ae5de9.jpg" group-title="24/7 CHANNELS",24/7: Dragon Ball Z
@@ -9195,3 +9177,542 @@ http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/224679.m3u8
 http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/224781.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1UHD.uk" tvg-logo="http://149.248.53.45/logos/SkySportsF1UHD.png" group-title="4K CHANNELS",4K : SKY SPORTS F1
 http://wipeouttv.xyz:2086/live/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/309257.m3u8
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/20c511a30b0e624383374e7c50fa2839.jpg" group-title="4K MOVIES",12 Strong (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1137.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/5bb897ad1090f68861adf8255a8d2d2e.jpg" group-title="4K MOVIES",22 vs. Earth (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/100484.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg" group-title="4K MOVIES",A Minecraft Movie (2025) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/325382.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/162061c1cb014e81721445288cebd2f5.jpg" group-title="4K MOVIES",A Quiet Place (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1139.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/bb47eff04439d5ed724315bfe9fb0446.jpg" group-title="4K MOVIES",A Quiet Place Part II (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/124460.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/c19f5d20066c92b3eb55345ad17334f7.jpg" group-title="4K MOVIES",A Star Is Born (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1140.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg" group-title="4K MOVIES",AIR (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/270037.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/87123969a18072774f74747046ecde4e.jpg" group-title="4K MOVIES",Alita: Battle Angel (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1141.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/26e9040fd492aa8dbb4fd26d8b115fcf.jpg" group-title="4K MOVIES",American Underdog (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/189994.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/2ead5c129582d78d024442ba0c4e9d03.jpg" group-title="4K MOVIES",Ant-Man and the Wasp (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1142.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg" group-title="4K MOVIES",Ant-Man and the Wasp: Quantumania (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/267498.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/a52340c33d8ff6a3cef4fc0c218b1844.jpg" group-title="4K MOVIES",Aquaman (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1143.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/ba4cfdd829752c58d0909d07399345fb.jpg" group-title="4K MOVIES",Army of the Dead (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/112981.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/63fc14ac09aa3164dc628b322cee5e65.jpg" group-title="4K MOVIES",Avatar (2009) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1144.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="4K MOVIES",Avatar The Way of Water (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/265161.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/3bba5c8b3422b3017fed3f1939ae9c41.jpg" group-title="4K MOVIES",Avengers: Endgame (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1145.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/bdd34eb241bf3d74098aaf29529a2f02.jpg" group-title="4K MOVIES",Avengers: Infinity War (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1146.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/A8HbTd0FemZyFCh5qvJFpHGiwF8.jpg" group-title="4K MOVIES",Babygirl (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/319855.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/0993534e5b21d285c8fc95203ac84b16.jpg" group-title="4K MOVIES",Babylon (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/253645.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg" group-title="4K MOVIES",Back to the Future (1985) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/308220.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg" group-title="4K MOVIES",Back to the Future Part II (1989) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/308221.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg" group-title="4K MOVIES",Back to the Future Part III (1990) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/308222.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/oGythE98MYleE6mZlGs5oBGkux1.jpg" group-title="4K MOVIES",Bad Boys: Ride or Die (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317298.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title="4K MOVIES",Barbie (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/282708.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg" group-title="4K MOVIES",Beetlejuice Beetlejuice (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317299.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/fbGCmMp0HlYnAPv28GOENPShezM.jpg" group-title="4K MOVIES",Better Man (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/320403.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zszRKfzjM5jltiq8rk6rasKVpUv.jpg" group-title="4K MOVIES",Beverly Hills Cop: Axel F (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317300.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/4282281539bf6685dc2b51524dbb2dc3.jpg" group-title="4K MOVIES",Black Adam (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/235540.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f4ae56df98a99ba6bfb5fdd0601a9c80.jpg" group-title="4K MOVIES",Black Panther: Wakanda Forever (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/253646.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f592cdda9fa8439610d91659714847bd.jpg" group-title="4K MOVIES",Black Widow (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/127259.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mKWalirPreEdCKDJjc5TKeOP2xi.jpg" group-title="4K MOVIES",Bob Marley: One Love (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/297867.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/2ca950e0ffc7269d2fc4a593e3af3ce8.jpg" group-title="4K MOVIES",Bohemian Rhapsody (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1147.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/a58c7ded90ba12282e94362fe0b252da.jpg" group-title="4K MOVIES",C'mon C'mon (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/183235.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/95bf03bbafb908d96cc699d43cf3a8ca.jpg" group-title="4K MOVIES",Candyman (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/155693.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg" group-title="4K MOVIES",Captain America: Brave New World (2025) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/321313.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/672f832cf6ac5e1ef0a715aec88d967c.jpg" group-title="4K MOVIES",Captain Marvel (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1148.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/b224839a72159be4c903c9c56f78bfd4.jpg" group-title="4K MOVIES",Cinderella (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/149142.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg" group-title="4K MOVIES",Civil War (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/304910.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/eca73fdec50a9d844577a575f9b78609.jpg" group-title="4K MOVIES",Creed II (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1150.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg" group-title="4K MOVIES",Creed III (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/265380.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/42fc7df81253f1b57a045297a94bd549.jpg" group-title="4K MOVIES",Cruella (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/118316.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg" group-title="4K MOVIES",Dark Phoenix (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1210.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="4K MOVIES",Deadpool & Wolverine (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317301.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/e56fac68a871cf787db740d4d3072603.jpg" group-title="4K MOVIES",Deadpool 2 (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1151.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/b3f5c2c9f9b9d1dc55414c91b412a944.jpg" group-title="4K MOVIES",Devotion (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/246199.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/ac921556971321f16ee827834206ce1c.jpg" group-title="4K MOVIES",Don't Breathe 2 (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/149143.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/c35960c74463cb2b1ffdda92fe5ade85.jpg" group-title="4K MOVIES",Eternals (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/187402.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg" group-title="4K MOVIES",Evil Dead Rise (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/269918.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/787660f941add6e7357f3bbfb555cdea.jpg" group-title="4K MOVIES",F9 (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/133842.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/da3624fb53cc343bfc2b8724febbb394.jpg" group-title="4K MOVIES",Fantastic Beasts and Where to Find Them (2016) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1153.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1E5baAaEse26fej7uHcjOgEE2t2.jpg" group-title="4K MOVIES",Fast X (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/273190.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f329bb9b9d3724bafc9933978676954c.jpg" group-title="4K MOVIES",Field of Dreams (1989) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/142437.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg" group-title="4K MOVIES",Five Nights at Freddys (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/287168.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/cd0b927cf5fa821e6d0cf657f9934687.jpg" group-title="4K MOVIES",Ford v Ferrari (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1154.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg" group-title="4K MOVIES",Ghostbusters (1984) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317302.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/yObYPMA58DnTMvJooFW7GG6jWAt.jpg" group-title="4K MOVIES",Ghostbusters II (1989) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317303.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/970d1971e17da102526d5080f89001b6.jpg" group-title="4K MOVIES",Ghostbusters: Afterlife (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/186381.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/7f9cc6c1f6e4bc1652aa0d14896f7ff7.jpg" group-title="4K MOVIES",Gladiator (2000) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1155.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="4K MOVIES",Gladiator II (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317861.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/d9669e04655fd8d849ddfd37365da76c.jpg" group-title="4K MOVIES",Godzilla vs. Kong (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/97114.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" group-title="4K MOVIES",GoodFellas (1990) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278732.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" group-title="4K MOVIES",Gran Turismo (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/284551.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/e2e23dfa07a9e20bbc9597a33b2622e2.jpg" group-title="4K MOVIES",Green Book (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1156.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/34e03c0402f99566d1fa4a941f182ee7.jpg" group-title="4K MOVIES",Greyhound (2020) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/98841.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" group-title="4K MOVIES",Guardians of the Galaxy Vol 3 (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/277007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg" group-title="4K MOVIES",Harry Potter and the Chamber of Secrets (2002) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317304.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="4K MOVIES",Harry Potter and the Deathly Hallows: Part 1 (2010) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317305.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/c54HpQmuwXjHq2C9wmoACjxoom3.jpg" group-title="4K MOVIES",Harry Potter and the Deathly Hallows: Part 2 (2011) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317306.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg" group-title="4K MOVIES",Harry Potter and the Goblet of Fire (2005) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317307.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg" group-title="4K MOVIES",Harry Potter and the Half-Blood Prince (2009) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317308.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg" group-title="4K MOVIES",Harry Potter and the Order of the Phoenix (2007) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317309.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg" group-title="4K MOVIES",Harry Potter and the Philosophers Stone (2001) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317310.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg" group-title="4K MOVIES",Harry Potter and the Prisoner of Azkaban (2004) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317311.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/jUjg01KWd11nycbtXhJKghZFD7V.jpg" group-title="4K MOVIES",Haunted Mansion (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/285059.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/b11f622881adddc5e6b2779e77e8c670.jpg" group-title="4K MOVIES",Hellboy (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1157.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg" group-title="4K MOVIES",Horizon An American Saga - Chapter 1 (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317312.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/297a329b82fb790f58e6103c394e792e.jpg" group-title="4K MOVIES",In the Heights (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/124461.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/0d5016aa54ce3a5790738206892bdc70.jpg" group-title="4K MOVIES",Inception (2010) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1158.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg" group-title="4K MOVIES",Insidious: The Red Door (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/280347.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/18663d51f758d67a15d6ad7f8a12a848.jpg" group-title="4K MOVIES",Interstellar (2014) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1159.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/lxM6kqilAdpdhqUl2biYp5frUxE.jpg" group-title="4K MOVIES",Jaws (1975) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278715.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/b91ccee3aa5222dd7e396a149159a22c.jpg" group-title="4K MOVIES",John Wick (2014) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1160.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/b23d3da0655778af3020f11e647ac1dd.jpg" group-title="4K MOVIES",John Wick: Chapter 2 (2017) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1161.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/eb6f0f7dfd29246c633e38d0e7ea4346.jpg" group-title="4K MOVIES",John Wick: Chapter 3 - Parabellum (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1162.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="4K MOVIES",John Wick: Chapter 4 (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/270748.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/4f3528a94fdca07e531ba95218b9b26e.jpg" group-title="4K MOVIES",Joker (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1163.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/8690fa85a2e03f0daeecc5d52203aa8a.jpg" group-title="4K MOVIES",Jumanji: The Next Level (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1164.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/711a78ecf7976b657f8311a1bce4c7d5.jpg" group-title="4K MOVIES",Jurassic Park (1993) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1165.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg" group-title="4K MOVIES",Killers of the Flower Moon (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/289928.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/d7e69e9793a53766fc214da1b97bced8.jpg" group-title="4K MOVIES",King Richard (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/174511.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/ea60a70c3af00cdeb4c256cccad25382.jpg" group-title="4K MOVIES",Kingsman: The Golden Circle (2017) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1168.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/16f7b48a3df281f25cb746394488ea9d.jpg" group-title="4K MOVIES",Logan (2017) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1170.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/746dbc8b048edb8c8a5ce8eb57269625.jpg" group-title="4K MOVIES",Luca (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/124462.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/1bcbeb8cf2fd720987289e1e90b541fe.jpg" group-title="4K MOVIES",M3GAN (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/250307.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/469bb24ee9b4a7a77ed089264dba931d.jpg" group-title="4K MOVIES",Mary Poppins Returns (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1171.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg" group-title="4K MOVIES",Meg 2: The Trench (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/281731.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/640bccffd318a0f136fc2e18778e1faf.jpg" group-title="4K MOVIES",Minions: The Rise of Gru (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/225207.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/NNxYkU70HPurnNCSiCjYAmacwm.jpg" group-title="4K MOVIES",Mission: Impossible - Dead Reckoning Part One (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/285327.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" group-title="4K MOVIES",Mission: Impossible - The Final Reckoning (2025) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/328555.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/8c19d75aaa38692ed9eeb792e685745c.jpg" group-title="4K MOVIES",Mortal Kombat (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/98361.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg" group-title="4K MOVIES",Mufasa: The Lion King (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/320665.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/da947c3401ff27a96a93616bc68c0408.jpg" group-title="4K MOVIES",No Time to Die (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/171498.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/d1334f9d529946d7a4f44388a912abf7.jpg" group-title="4K MOVIES",Nobody (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/97115.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/affe29d018439108ebd05cd41bde21e4.jpg" group-title="4K MOVIES",Passengers (2016) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1174.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/c9c4ea053268f2bc49cff8c7ee104ec0.jpg" group-title="4K MOVIES",Pet Sematary (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1175.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/143576b43794f007ce933849938abf83.jpg" group-title="4K MOVIES",Peter Rabbit 2: The Runaway (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/124688.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg" group-title="4K MOVIES",Pirates of the Caribbean: At Worlds End (2007) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317322.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg" group-title="4K MOVIES",Pirates of the Caribbean: Dead Mans Chest (2006) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317318.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qwoGfcg6YUS55nUweKGujHE54Wy.jpg" group-title="4K MOVIES",Pirates of the Caribbean: Dead Men Tell No Tales (2017) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317319.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/keGfSvCmYj7CvdRx36OdVrAEibE.jpg" group-title="4K MOVIES",Pirates of the Caribbean: On Stranger Tides (2011) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317320.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg" group-title="4K MOVIES",Pirates of the Caribbean: The Curse of the Black Pearl (2003) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317321.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/476d59115998b1f47e05bded94d551a7.jpg" group-title="4K MOVIES",Plane (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/254330.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/79a8c556a481006886cd93dfae047839.jpg" group-title="4K MOVIES",Platoon (1986) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/100615.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/407257e684a44d7721bd86127115eb85.jpg" group-title="4K MOVIES",Pokémon Detective Pikachu (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1176.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/9013eda835a8c76a1469e78ff289452d.jpg" group-title="4K MOVIES",Puss in Boots: The Last Wish (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/246197.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/a5282531163d698cd5ed5b2802f5b9c7.jpg" group-title="4K MOVIES",Queen & Slim (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1177.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/7c4641b038ec0bcc61ad304b5661bc24.jpg" group-title="4K MOVIES",Ralph Breaks the Internet (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1178.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/043f861582feded1db37b3b32d7ba8fb.jpg" group-title="4K MOVIES",Rampage (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1179.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/375fa7da87f17a1b9b4a5d44bb9d6fff.jpg" group-title="4K MOVIES",Ready Player One (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1180.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/c3661f9791d1f12b70375e2211eabf9c.jpg" group-title="4K MOVIES",Red Sparrow (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1181.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/e6a4e4f2f161f6a51a8af41b8ee6d7ed.jpg" group-title="4K MOVIES",Resident Evil: Welcome to Raccoon City (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/183215.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/61a09013457b7da6d2524835fba33777.jpg" group-title="4K MOVIES",Respect (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/146910.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg" group-title="4K MOVIES",Rocky (1976) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317323.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg" group-title="4K MOVIES",Rocky II (1979) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317324.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/u9cTEjzKOPB6xaTz4LBql1XE0HZ.jpg" group-title="4K MOVIES",Rocky III (1982) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317325.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" group-title="4K MOVIES",Rocky IV (1985) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317326.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/o1nY37L6HC9hwlLSH5sHVzvXt1P.jpg" group-title="4K MOVIES",Rocky V (1990) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317327.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg" group-title="4K MOVIES",Rogue One: A Star Wars Story (2016) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278722.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/b16RAVwj2QN6RAs752UJNzQ9Of0.jpg" group-title="4K MOVIES",Saw X (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/286376.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/aePBN8ffLCHoUXp8lkA5P29CXdx.jpg" group-title="4K MOVIES",Scream VI (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/267924.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/03d60443baacc4e1c035a2d0018febd2.jpg" group-title="4K MOVIES",Serenity (2005) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1182.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/fdc05bcf3032d4cf4e39fe561d987138.jpg" group-title="4K MOVIES",Shang-Chi and the Legend of the Ten Rings (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/171672.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg" group-title="4K MOVIES",Shazam Fury of the Gods (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/265993.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/df9db07cb45c0b781133ef059ce9a6e0.jpg" group-title="4K MOVIES",Shazam! (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1183.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/dd5740697ce4d2cde144581a3207b6d8.jpg" group-title="4K MOVIES",Skyscraper (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1184.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/84ebcade2a6a8a0624299b4a20fea984.jpg" group-title="4K MOVIES",Snake Eyes: G.I. Joe Origins (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/142915.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg" group-title="4K MOVIES",Solo: A Star Wars Story (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278723.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="4K MOVIES",Spider-Man: Across the Spider-Verse (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/280538.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/3648dca4831c487896bd2193c43e98e2.jpg" group-title="4K MOVIES",Spider-Man: Into the Spider-Verse (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1185.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/821af5634e2caeaaa9df2183b97047f1.jpg" group-title="4K MOVIES",Spiral: From the Book of Saw (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/119058.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/05ea69b91947b917fbf4a85e631ce1d5.jpg" group-title="4K MOVIES",Spirit Untamed (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/124463.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg" group-title="4K MOVIES",Star Trek (2009) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317328.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/1a2eaf0f7088c8ae66958996f444de95.jpg" group-title="4K MOVIES",Star Trek Beyond (2016) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1186.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg" group-title="4K MOVIES",Star Trek II: The Wrath of Khan (1982) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317331.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/yqEj0oPfKBMCz7YcCARHDgH7VFm.jpg" group-title="4K MOVIES",Star Trek III: The Search for Spock (1984) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317332.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/96b9558ac4482fb7b52fa9539ea897f9.jpg" group-title="4K MOVIES",Star Trek Into Darkness (2013) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1187.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg" group-title="4K MOVIES",Star Trek IV: The Voyage Home (1986) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317333.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg" group-title="4K MOVIES",Star Trek V: The Final Frontier (1989) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317337.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg" group-title="4K MOVIES",Star Trek VI: The Undiscovered Country (1991) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317338.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/psmL7qL6vGpInf5IKxU46O0t0Ib.jpg" group-title="4K MOVIES",Star Trek: First Contact (1996) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317329.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rHsCYDGHFUarGh5k987b0EFU6kC.jpg" group-title="4K MOVIES",Star Trek: Generations (1994) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317330.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xQCMAHeg5M9HpDIqanYbWdr4brB.jpg" group-title="4K MOVIES",Star Trek: Insurrection (1998) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317334.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/cldAwhvBmOv9jrd3bXWuqRHoXyq.jpg" group-title="4K MOVIES",Star Trek: Nemesis (2002) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317335.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/sqiCinCzUGlzQiFytS30N1nO3Pt.jpg" group-title="4K MOVIES",Star Trek: Section 31 (2025) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/319605.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg" group-title="4K MOVIES",Star Trek: The Motion Picture (1979) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317336.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg" group-title="4K MOVIES",Star Wars (1977) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278719.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg" group-title="4K MOVIES",Star Wars: Episode I - The Phantom Menace (1999) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278716.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/oZNPzxqM2s5DyVWab09NTQScDQt.jpg" group-title="4K MOVIES",Star Wars: Episode II - Attack of the Clones (2002) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278717.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg" group-title="4K MOVIES",Star Wars: Episode III - Revenge of the Sith (2005) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278718.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/jQYlydvHm3kUix1f8prMucrplhm.jpg" group-title="4K MOVIES",Star Wars: Return of the Jedi (1983) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278721.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg" group-title="4K MOVIES",Star Wars: The Empire Strikes Back (1980) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278720.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg" group-title="4K MOVIES",Star Wars: The Force Awakens (2015) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278724.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/7bbb88c5a660840697116d7404b13c00.jpg" group-title="4K MOVIES",Star Wars: The Last Jedi (2017) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1189.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/ea66ead91cdbe121fdb1cc8f85769b78.jpg" group-title="4K MOVIES",Star Wars: The Rise of Skywalker (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1188.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f32eacd01cc90aab344254f27bdef674.jpg" group-title="4K MOVIES",Stillwater (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/143534.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg" group-title="4K MOVIES",Superman (2025) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/328507.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5M0j0B18abtBI5gi2RhfjjurTqb.jpg" group-title="4K MOVIES",Terminator 2: Judgment Day (1991) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317339.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg" group-title="4K MOVIES",Terminator Genisys (2015) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317340.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg" group-title="4K MOVIES",Terminator Salvation (2009) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317341.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/75061fa103392c48c161d9383040be36.jpg" group-title="4K MOVIES",Terminator: Dark Fate (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1190.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f74b3271213ac4ef14f65884442fb5e7.jpg" group-title="4K MOVIES",The Batman (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/201746.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/db3ee81a2f6cc2b52a80f8c1caea40a0.jpg" group-title="4K MOVIES",The Dark Knight (2008) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1191.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/6b154949cce255f77eb8df7308ab048f.jpg" group-title="4K MOVIES",The Dark Knight Rises (2012) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1192.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/fa3daeb87ef5da77dccb6557090e6a12.jpg" group-title="4K MOVIES",The Equalizer 2 (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1193.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg" group-title="4K MOVIES",The Equalizer 3 (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/284993.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/lxRLC3WOFM2INoyEa3bFGIUApvn.jpg" group-title="4K MOVIES",The Exorcist: Believer (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/286792.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/x26MtUlwtWD26d0G0FXcppxCJio.jpg" group-title="4K MOVIES",The Fantastic 4: First Steps (2025) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/330897.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/a195582378eba4223559a7a386c46a8e.jpg" group-title="4K MOVIES",The Fate of the Furious (2017) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1194.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="4K MOVIES",The Flash (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278758.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/6946b8bb2c36486b5fe52958d35fabe0.jpg" group-title="4K MOVIES",The Girl on the Train (2016) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1195.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="4K MOVIES",The Godfather (1972) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317343.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg" group-title="4K MOVIES",The Godfather Part II (1974) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317344.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/lm3pQ2QoQ16pextRsmnUbG2onES.jpg" group-title="4K MOVIES",The Godfather Part III (1990) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317345.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/85022a2a25d721940b461221a1188d0e.jpg" group-title="4K MOVIES",The Green Knight (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/143535.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/0c303ba072c889b943e0052c2881b0bf.jpg" group-title="4K MOVIES",The Hateful Eight (2015) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1196.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/7b2f3aae393dbbf4c70db43b856f2e48.jpg" group-title="4K MOVIES",The Hitman's Bodyguard (2017) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1197.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/e057200587643d2fee62da383383b9b7.jpg" group-title="4K MOVIES",The Ice Road (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/124464.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/ba997a970f45c078c562a78f413d6900.jpg" group-title="4K MOVIES",The King's Man (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/190877.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/48c677cb995f37481f7f245179a42e04.jpg" group-title="4K MOVIES",The Last Witch Hunter (2015) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1198.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg" group-title="4K MOVIES",The Little Mermaid (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/279652.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg" group-title="4K MOVIES",The Lord of the Rings: The Fellowship of the Ring (2001) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317346.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg" group-title="4K MOVIES",The Lord of the Rings: The Return of the King (2003) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317347.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="4K MOVIES",The Lord of the Rings: The Two Towers (2002) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317348.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMwP9vq7juweGJcgq70CrpO0UHQ.jpg" group-title="4K MOVIES",The Lost World: Jurassic Park (1997) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1166.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/6cb6d06779f77ecdc5061582f01f556a.jpg" group-title="4K MOVIES",The Many Saints of Newark (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/159911.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/8d7680d8abd8084c02a4883340e98c37.jpg" group-title="4K MOVIES",The Martian (2015) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1200.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/71d581d78a6492308f60a85510855155.jpg" group-title="4K MOVIES",The Matrix Resurrections (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/183214.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/72e57bf0d6aa7b487516ca607dffd744.jpg" group-title="4K MOVIES",The Meg (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1201.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg" group-title="4K MOVIES",The Naked Gun (2025) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/329355.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg" group-title="4K MOVIES",The Nun II (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/284992.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/b2a00d9d6e3fbb93860f15dd4ff66c8f.jpg" group-title="4K MOVIES",The Revenant (2015) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1202.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/489c8d2484af4890ffe067988827afa4.jpg" group-title="4K MOVIES",The Suicide Squad (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/137918.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="4K MOVIES",The Super Mario Bros Movie (2023) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/270369.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qvktm0BHcnmDpul4Hz01GIazWPr.jpg" group-title="4K MOVIES",The Terminator (1984) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317342.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/08b78b95be7afce26aff442d42ef8b08.jpg" group-title="4K MOVIES",The Tomorrow War (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/124716.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/9583ee7c5b2b65ee7da3229810424702.jpg" group-title="4K MOVIES",The Unholy (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/112980.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/7047dec3a3002af41400cc7c53c3943d.jpg" group-title="4K MOVIES",The Year Earth Changed (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/98842.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/d84a875cac573d8bccc023a4bce147ad.jpg" group-title="4K MOVIES",Thor: Love and Thunder (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/227267.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/09591121528b19f65376920ffeec236d.jpg" group-title="4K MOVIES",Those Who Wish Me Dead (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/112979.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" group-title="4K MOVIES",Titanic (1997) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/278726.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/debf9938be1ea595aa0ac968c62bd903.jpg" group-title="4K MOVIES",Tomb Raider (2018) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1203.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg" group-title="4K MOVIES",Top Gun (1986) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317349.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/19858cb63e704e3c550afb08d29d6210.jpg" group-title="4K MOVIES",Top Gun: Maverick (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/225464.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/7ec0f47a4c9057b9b082e8b69a52cfa2.jpg" group-title="4K MOVIES",Triple Frontier (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1205.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="4K MOVIES",Twisters (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317350.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/03d2e5b8d96d9f74e0972a96042a6814.jpg" group-title="4K MOVIES",Uncharted (2022) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/202271.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f1f6401c1388af6ec00769f300014a9e.jpg" group-title="4K MOVIES",Underworld: Blood Wars (2016) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1206.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/01077a226192c628fc02dcd17c5d265b.jpg" group-title="4K MOVIES",Voyagers (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/100487.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg" group-title="4K MOVIES",Wicked (2024) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317973.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/21dd90edd0da196666f8318d6a1430fd.jpg" group-title="4K MOVIES",Wonder Woman (2017) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1208.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/5c8bb30400c619cd6c81da3406d52fa9.jpg" group-title="4K MOVIES",Wrath of Man (2021) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/112982.mkv
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/a22d18d71c53518485e4ecb2d24b514f.jpg" group-title="4K MOVIES",Zombieland: Double Tap (2019) 4K
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/1211.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" group-title="FAMILY",Hoppers (2026)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/338094.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg" group-title="FAMILY",Inside Out 2 (2024)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/309497.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg" group-title="FAMILY",Minions & Monsters (2026)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/341799.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg" group-title="FAMILY",Moana 2 (2024)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/317860.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/yRZfiG1QpRkBc7fAmxfcR7Md5EC.jpg" group-title="FAMILY",Megamind vs the Doom Syndicate (2024)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/296389.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="FAMILY",Kung Fu Panda 4 (2024)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/299725.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/c73544d7c469b1736f1be1a3a0627e1c.jpg" group-title="FAMILY",Monsters University (2013)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/50560.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/83511ad44b927e426cb14432a6ca919d.jpg" group-title="FAMILY",Inc. (2001)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/50559.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xSibLTRfsUQagQnbOQLjp5oGbcq.jpg" group-title="FAMILY",Pets on a Train (2025)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/333995.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg" group-title="FAMILY",Sonic The Hedgehog 3 (2024)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/319463.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/baaab6c5fea7ad7633a1b70137274a57.jpg" group-title="FAMILY",Sonic the Hedgehog 2 (2022)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/203681.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/c734728dc7b0cfe14c180fe547be9b41.jpg" group-title="FAMILY",Sonic the Hedgehog (2020)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/51507.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/5ccd476ab690c73769ad11c5ecf8dc72.jpg" group-title="FAMILY",The Boss Baby (2017)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/51881.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/05da8dd4c8500e7c20e4823b2f32fd94.jpg" group-title="FAMILY",The Boss Baby: Family Business (2021)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/124726.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" group-title="FAMILY",Spy Kids: Armageddon (2023)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/283870.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n92wqmgHhMU0Mzc49AzRUhyhQ65.jpg" group-title="FAMILY",The SpongeBob Movie: Search for SquarePants (2025)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/335916.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/4e76c5affa6db3bbbc52113dfc495fe7.jpg" group-title="FAMILY",The SpongeBob Movie: Sponge on the Run (2020)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/54747.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f0fd0b21f4c194958e60f7e88a18ab84.jpg" group-title="FAMILY",The SpongeBob SquarePants Movie (2004)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/237315.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/sfQtVlIHljToOwYjhe21KPGzZWK.jpg" group-title="FAMILY",Toy Story 5 (2026)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/341929.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/a7762144c46d5c45f89c0d60dd2f8408.jpg" group-title="FAMILY",Tom and Jerry: Willy Wonka and the Chocolate Factory (2017)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/52837.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/a2448056f7330fdaeab356589251f77e.jpg" group-title="FAMILY",Toy Story (1995)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/52861.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/81845627913c1516694f16e88d4df2c8.jpg" group-title="FAMILY",Toy Story 2 (1999)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/52862.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/2b198a21b6cf66a63463805a0024400d.jpg" group-title="FAMILY",Toy Story 3 (2010)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/52863.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/e81bb8d8361519e25c5b20332f55862a.jpg" group-title="FAMILY",Toy Story 4 (2019)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/52864.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/350aa92b41dbc8c036761d0c962c2d05.jpg" group-title="FAMILY",Tom and Jerry: Spy Quest (2015)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/52834.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/4bbe003909207942ae5f6fa50e11da04.jpg" group-title="FAMILY",Tom and Jerry: The Fast and the Furry (2005)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/52832.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/986ca28b1d2df2aa099b9daf4b282592.jpg" group-title="SCI-FI",Chappie (2015)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48555.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg" group-title="SCI-FI",Blue Beetle (2023)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/283487.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f74a66220e010c08e72018fba6b7976d.jpg" group-title="SCI-FI",Black Panther (2018)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48299.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/f4ae56df98a99ba6bfb5fdd0601a9c80.jpg" group-title="SCI-FI",Black Panther: Wakanda Forever (2022)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/252337.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/eb07dee8fab32921c2c36122169665a3.jpg" group-title="SCI-FI",Battle: Los Angeles (2011)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48084.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/bdd34eb241bf3d74098aaf29529a2f02.jpg" group-title="SCI-FI",Avengers: Infinity War (2018)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48009.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/3bba5c8b3422b3017fed3f1939ae9c41.jpg" group-title="SCI-FI",Avengers: Endgame (2019)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48008.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/22e8c68c895bfaef2111cf32823dc156.jpg" group-title="SCI-FI",AVP: Alien vs. Predator (2004)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/47782.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/fe3e7ff3e49c2d672bcc54275ed23abd.jpg" group-title="SCI-FI",Avengers: Age of Ultron (2015)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="SCI-FI",Avatar: Fire and Ash (2025)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/338152.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/2adca3810722decb2564d02d90075c36.jpg" group-title="SCI-FI",Doctor Strange (2016)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48907.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/4392d09ff2a291c6fc3abdaf2e030ad9.jpg" group-title="SCI-FI",Doctor Strange in the Multiverse of Madness (2022)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/215506.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/52545a67bbefa4728c301d9795e651af.jpg" group-title="SCI-FI",Death Race (2008)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48828.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="SCI-FI",Deadpool and Wolverine (2024)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/310980.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/10ab360795546ff6febf7e5681e74dc3.jpg" group-title="SCI-FI",Dark Phoenix (2019)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48786.mp4
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/10ab360795546ff6febf7e5681e74dc3.jpg" group-title="SCI-FI",Dark Phoenix (2019)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/48786.mp4
+
+========
+#New Release
+========
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg" group-title="NEW RELEASES",Spider-Man: Brand New Day (2026)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/342954.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" group-title="NEW RELEASES",Moana (2026)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/342326.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ihK3jUDlcQBMEObbLwSswqpiy3Z.jpg" group-title="SCI-FI",Attack on Titan (2015)
+http://wipeouttv.xyz:2086/movie/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/302150.mp4
