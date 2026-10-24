@@ -1983,9 +1983,9 @@ http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/284864.mkv
 http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/252970.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZVrXoqSL8lwdN9ZQHUTf9KzGOw.jpg" group-title="Kannada (ಕನ್ನಡ) Movies" tvg-language="kan",Yuvarathnaa (2021) Kannada
 http://smartbp.xyz:8080/movie/Rajeshlalwani53488/n1TDmds/49541.mp4
-#EXTINF:-1 tvg-id="Freedom TV.in" tvg-country="IN" tvg-language="kan" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-24-2026-05_24_23-PM-1-200x300.png" tvg-status="live" group-title="KANNADA LIVE",Freedom Tv
+#EXTINF:-1 tvg-id="Freedom TV.in" tvg-country="IN" tvg-language="kan" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-24-2026-05_24_23-PM-1-200x300.png" tvg-status="live" group-title="Kannada Lıve",Freedom Tv
 https://freedomtv.in/live/freedomtv/index.m3u8
-#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-country="IN" tvg-language="kan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="KANNADA LIVE",TV9 Kannada
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-country="IN" tvg-language="kan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="Kannada Lıve",TV9 Kannada
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="0" group-title="Kannada Lıve" tvg-language="kan",##### KANNADA #####
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281804
@@ -2107,7 +2107,7 @@ https://segment.yuppcdn.net/050522/tv5kannada/playlist.m3u8
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_News.png" group-title="Kannada Lıve" tvg-language="kan",Zee Kannada News (720p)
 https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" tvg-language="kan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_KANNADA/images/LOGO_HD/image.png" tvg-status="KANNADA LIVE" group-title="Music",Raj Musix Kannada
+#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" tvg-language="kan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_KANNADA/images/LOGO_HD/image.png" tvg-status="Kannada Lıve" group-title="Music",Raj Musix Kannada
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8138/1782284928138-h.jpg" group-title="Sports Lıve" tvg-language="kan",Star Sports Kannada HD
 http://smartbp.xyz:8080/live/Rajeshlalwani53488/n1TDmds/292442.m3u
