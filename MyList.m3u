@@ -891,6 +891,8 @@ http://skyfilex.fun/movie/12255147-UAE/thorny3general/40707.mkv
 http://skyfilex.fun/movie/12255147-UAE/thorny3general/40706.mkv
 #EXTINF:-1 tvg-id="TV9Kannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="News",TV9 Kannada
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Freedom TV.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-24-2026-05_24_23-PM-1-200x300.png" tvg-status="live" group-title="News",TV9 Kannada
+https://freedomtv.in/live/freedomtv/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="Music",Raj Musix Kannada
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-logo="http://mobilytv.net:80/images/iA5MEa3dJXmzphT6soCUdF9WPUC_big.jpg" group-title="4k Movies",The Making of God of War II
@@ -6481,30 +6483,60 @@ https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540" group-title="Kannada Lıve",Siri Kannada (576p)
 https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-6-2025-02_33_58-PM-1-200x300.png" group-title="Kannada Lıve",Media TV
+https://cloud.dndcommunication.in/mediatv/mediatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Sindura News TV
 https://mumbai-edge.smartplaytv.in/SindhuraTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Sindura Knnada TV
 https://mumbai-edge.smartplaytv.in/SindhuraNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-6-2025-02_16_53-PM-1-200x300.png" group-title="Kannada Lıve",Sindura Knnada Music
+https://mumbai-edge.smartplaytv.in/SindhuraTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-6-2025-02_02_22-PM-1-200x300.png" group-title="Kannada Lıve",C TV
+https://vvsolutions.in/ctvnews/ctvnews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Shaine Kannada TV
 https://cloud.dndcommunication.in/shinekannada/shinekannada/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Samruddi TV
 https://shashwatha.com/hls/samrudhi/live.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-6-2025-01_59_53-PM-1-200x300.png" group-title="Kannada Lıve",DCN 24
+https://vvsolutions-server11.in/dcn24_44/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-6-2025-01_57_29-PM-1-200x300.png" group-title="Kannada Lıve",E TV
+https://account10.livebox.co.in/enewstvnoonechannelomsairamhls/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Sambrama TV
 https://shashwatha.com/hls/shashwatha/sambrama-24233.ts
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-20-2025-11_15_21-AM-1-200x300.png" group-title="Kannada Lıve",Sharavega TV
+https://shashwatha.com/hls/shashwatha/1streport.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" group-title="Kannada Lıve",Public Music
 https://samitaorigin.tangotv.in/PUBLICMUSIC/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143686_ld_h9_aa.png?lock=720x540" group-title="Kannada Lıve",Public Movies
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" group-title="Kannada Lıve",Public Music
+https://cdn.pishow.tv/ott/live/441/master.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" group-title="Kannada Lıve",Raj News
+https://samitaorigin.tangotv.in/RAJNEWSKANDA/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-7-2025-08_17_17-PM-1-200x300.png" group-title="Kannada Lıve",Public Movies
 https://samitaorigin.tangotv.in/PUBLICMOVIES/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" group-title="Kannada Lıve",NKR TV Kannada (1080p)
 https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="Kannada Lıve",Nandini TV Kannada
 https://vvsolutions-server11.in/nanditv_10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Nandi TV
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-6-2025-01_57_18-PM-1-200x300.png" group-title="Kannada Lıve",Nandi TV
 https://vvsolutions-server11.in/dcn24_44/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Media Knnada TV
 https://cloud.dndcommunication.in/mediatv/mediatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",JK Knnada TV
 https://account18.livebox.co.in/jktvkannadahls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Janataa TV Kannada
+https://live1.ottlive.co.in/janataanews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Colors Kannada Super HD
+https://da86m1sqpm3o0.cloudfront.net/260723/smil:colorssuper1.smil/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Colors Raj Music
+https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Guarantee News
+https://guaranteenews.in:8443/live/gnews/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Namma Bengaluru
+https://ssai.aniview.com/api/v1/hls/streams/sessions/7e8d9fddd35546ca81c25b7274ce27ae/media/index.m3u8/0.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-01_53_07-PM-1.png" group-title="Kannada Lıve",MM Knnada TV
+https://account19.livebox.co.in/mmtvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-02_02_53-PM-1.png" group-title="Kannada Lıve",Republic Kannada
+https://mumbai-edge.smartplaytv.in/republickannada/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png" group-title="Kannada Lıve",Colors Super (396p)
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png" group-title="Kannada Lıve",Colors Kannada HD (1080i)
@@ -14326,53 +14358,53 @@ http://wipeouttv.xyz:2086/series/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/256394.mp4
 http://wipeouttv.xyz:2086/series/cjpeTTv8sCyGqTi6/ieVnOQxOVdwsAjHP/256395.mp4
 
 #EXTM3U
-#EXTINF:-1 tvg-id="0" group-title="|AS| KANNADA",##### KANNADA #####
+#EXTINF:-1 tvg-id="0" group-title="Kannada Lıve",##### KANNADA #####
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281804
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-KANNADA-HD.jpg" group-title="|AS| KANNADA",KAN - COLORS KANNADA UHD
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-KANNADA-HD.jpg" group-title="Kannada Lıve",KAN - COLORS KANNADA UHD
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281805
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-KANNADA-MOVIES.jpeg" group-title="|AS| KANNADA",KAN - COLORS KANNADA MOVIES
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-KANNADA-MOVIES.jpeg" group-title="Kannada Lıve",KAN - COLORS KANNADA MOVIES
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281806
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-SUPER.png" group-title="|AS| KANNADA",KAN - COLORS SUPER
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-SUPER.png" group-title="Kannada Lıve",KAN - COLORS SUPER
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281815
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/COLORS.png" group-title="|AS| KANNADA",KAN - COLORS TV HD
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/COLORS.png" group-title="Kannada Lıve",KAN - COLORS TV HD
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=844246
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-KANNADA.jpeg" group-title="|AS| KANNADA",KAN - ZEE KANNADA UHD
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-KANNADA.jpeg" group-title="Kannada Lıve",KAN - ZEE KANNADA UHD
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281807
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ZEETALKIES.png" group-title="|AS| KANNADA",KAN - ZEE TALKIES HD
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ZEETALKIES.png" group-title="Kannada Lıve",KAN - ZEE TALKIES HD
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=844247
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SUVARNA-HD.png" group-title="|AS| KANNADA",KAN - STAR SUVARNA UHD
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SUVARNA-HD.png" group-title="Kannada Lıve",KAN - STAR SUVARNA UHD
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281808
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/udaya.png" group-title="|AS| KANNADA",KAN - UDAYA UHD
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/udaya.png" group-title="Kannada Lıve",KAN - UDAYA UHD
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281811
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/udaya.png" group-title="|AS| KANNADA",KAN - UDAYA MOVIES
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/udaya.png" group-title="Kannada Lıve",KAN - UDAYA MOVIES
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281812
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/udaya.png" group-title="|AS| KANNADA",KAN - UDAYA COMEDY
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/udaya.png" group-title="Kannada Lıve",KAN - UDAYA COMEDY
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281825
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/udaya.png" group-title="|AS| KANNADA",KAN - UDAYA MUSIC
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/udaya.png" group-title="Kannada Lıve",KAN - UDAYA MUSIC
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281813
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ZEECINEMAHD.png" group-title="|AS| KANNADA",KAN - CINEMA
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ZEECINEMAHD.png" group-title="Kannada Lıve",KAN - CINEMA
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=844249
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/btv.png" group-title="|AS| KANNADA",KAN - BTV
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/btv.png" group-title="Kannada Lıve",KAN - BTV
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281814
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/NATIONALGEOGRAPHICHD.png" group-title="|AS| KANNADA",KAN - NATGEO HD
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/NATIONALGEOGRAPHICHD.png" group-title="Kannada Lıve",KAN - NATGEO HD
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=844248
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/DD-CHANDANA.jpeg" group-title="|AS| KANNADA",KAN - DD CHANDANA
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/DD-CHANDANA.jpeg" group-title="Kannada Lıve",KAN - DD CHANDANA
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281816
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/DIGHVIJAY-NEWS-24x7.jpg" group-title="|AS| KANNADA",KAN - DIGHVIJAY NEWS
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/DIGHVIJAY-NEWS-24x7.jpg" group-title="Kannada Lıve",KAN - DIGHVIJAY NEWS
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281817
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/KASTURI-TV.jpeg" group-title="|AS| KANNADA",KAN - KASTURI TV
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/KASTURI-TV.jpeg" group-title="Kannada Lıve",KAN - KASTURI TV
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281818
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/NEWS-18-KANNADA.jpeg" group-title="|AS| KANNADA",KAN - NEWS 18 KANNADA
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/NEWS-18-KANNADA.jpeg" group-title="Kannada Lıve",KAN - NEWS 18 KANNADA
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281819
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/PUBLIC-TV.png" group-title="|AS| KANNADA",KAN - PUBLIC TV
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/PUBLIC-TV.png" group-title="Kannada Lıve",KAN - PUBLIC TV
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281820
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/RAJ-MUSIC-KANNADA.png" group-title="|AS| KANNADA",KAN - RAJ MUSIC KANNADA
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/RAJ-MUSIC-KANNADA.png" group-title="Kannada Lıve",KAN - RAJ MUSIC KANNADA
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281821
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/RAJ-NEWS-KANNADA.jpeg" group-title="|AS| KANNADA",KAN - RAJ NEWS KANNADA
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/RAJ-NEWS-KANNADA.jpeg" group-title="Kannada Lıve",KAN - RAJ NEWS KANNADA
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281822
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/SAKKAT-TV.png" group-title="|AS| KANNADA",KAN - SAKKAT TV
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/SAKKAT-TV.png" group-title="Kannada Lıve",KAN - SAKKAT TV
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281823
-#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/TV9-KANNADA.jpg" group-title="|AS| KANNADA",KAN - TV9 KANNADA
+#EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/TV9-KANNADA.jpg" group-title="Kannada Lıve",KAN - TV9 KANNADA
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281824
 #EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/zeeaction.jpg" group-title="|AS| INDIA",IN - ZEE ACTION
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281297
