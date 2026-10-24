@@ -889,11 +889,11 @@ http://skyfilex.fun/movie/12255147-UAE/thorny3general/40708.mkv
 http://skyfilex.fun/movie/12255147-UAE/thorny3general/40707.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg" group-title="Predator Collection",Aliens vs Predator: Requiem (2007) Tam+Tel+Hin+Eng
 http://skyfilex.fun/movie/12255147-UAE/thorny3general/40706.mkv
-#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="Kannada Live",TV9 Kannada
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="KANNADA LIVE",TV9 Kannada
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Freedom TV.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-24-2026-05_24_23-PM-1-200x300.png" tvg-status="live" group-title="Kannada Live",Freedom Tv
+#EXTINF:-1 tvg-id="Freedom TV.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-24-2026-05_24_23-PM-1-200x300.png" tvg-status="live" group-title="KANNADA LIVE",Freedom Tv
 https://freedomtv.in/live/freedomtv/index.m3u8
-#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_KANNADA/images/LOGO_HD/image.png" tvg-status="Kannada Live" group-title="Music",Raj Musix Kannada
+#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_KANNADA/images/LOGO_HD/image.png" tvg-status="KANNADA LIVE" group-title="Music",Raj Musix Kannada
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-logo="http://mobilytv.net:80/images/iA5MEa3dJXmzphT6soCUdF9WPUC_big.jpg" group-title="4k Movies",The Making of God of War II
 http://var8k.cc:8080/movie/4917636663251/35727386005/20941.mkv
@@ -14438,3 +14438,5 @@ https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281394
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=705106
 #EXTINF:-1 tvg-id="0" tvg-logo="http://103.176.90.118/picons-dino/logos/HBO-MAX.jpeg" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 4 4K
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=705102
+#EXTINF:-1 tvg-id="0" tvg-logo="" group-title="HINDI LIVE",B4U
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/480p/index.m3u8
