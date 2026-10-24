@@ -889,11 +889,11 @@ http://skyfilex.fun/movie/12255147-UAE/thorny3general/40708.mkv
 http://skyfilex.fun/movie/12255147-UAE/thorny3general/40707.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg" group-title="Predator Collection",Aliens vs Predator: Requiem (2007) Tam+Tel+Hin+Eng
 http://skyfilex.fun/movie/12255147-UAE/thorny3general/40706.mkv
-#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="News",TV9 Kannada
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="Kannada Live",TV9 Kannada
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Freedom TV.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-24-2026-05_24_23-PM-1-200x300.png" tvg-status="live" group-title="News",TV9 Kannada
+#EXTINF:-1 tvg-id="Freedom TV.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-24-2026-05_24_23-PM-1-200x300.png" tvg-status="live" group-title="Kannada Live",Freedom Tv
 https://freedomtv.in/live/freedomtv/index.m3u8
-#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_KANNADA/images/LOGO_HD/image.png" tvg-status="live" group-title="Music",Raj Musix Kannada
+#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_KANNADA/images/LOGO_HD/image.png" tvg-status="Kannada Live" group-title="Music",Raj Musix Kannada
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-logo="http://mobilytv.net:80/images/iA5MEa3dJXmzphT6soCUdF9WPUC_big.jpg" group-title="4k Movies",The Making of God of War II
 http://var8k.cc:8080/movie/4917636663251/35727386005/20941.mkv
@@ -6531,8 +6531,18 @@ https://da86m1sqpm3o0.cloudfront.net/260723/smil:colorssuper1.smil/master.m3u8
 https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Guarantee News
 https://guaranteenews.in:8443/live/gnews/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",News 18 kannada
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",DD Chandana
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Public TV
+https://streams.tangotv.in/PUBLICTV/ORIGIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",TV5 Kannada
+https://segment.yuppcdn.net/050522/tv5kannada/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada Lıve",Namma Bengaluru
 https://ssai.aniview.com/api/v1/hls/streams/sessions/7e8d9fddd35546ca81c25b7274ce27ae/media/index.m3u8/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Lıve",Epic Music
+https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/8af2138b-41e8-4fd8-9a4c-3405b4310d9f/0.m3u8
 #EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-01_53_07-PM-1.png" group-title="Kannada Lıve",MM Knnada TV
 https://account19.livebox.co.in/mmtvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-02_02_53-PM-1.png" group-title="Kannada Lıve",Republic Kannada
