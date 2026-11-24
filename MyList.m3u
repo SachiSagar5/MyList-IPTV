@@ -11197,8 +11197,6 @@ https://relaxes.xyz:8443/movie/tricia/jazz1956/423080.mp4
 #EXTINF:-1 tvg-logo="https://relaxes.xyz:8443/images/aabf098a14c6594be386face18adb77c.jpg" group-title="KUNG FU",The Way of the Dragon (1972)
 https://relaxes.xyz:8443/movie/tricia/jazz1956/506303.mp4
 
-
-
 #AirtelXtream
 #EXTINF:-1 group-title="Airtel Xtream",Hindi flexmovies
 https://ssai.adstudio.runn.media/manifest/live/nhstudioz/blyflx/airtel/master.m3u8?ua=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/157.0.0.0%20Safari/537.36&ip=171.76.220.80&os=1&trq=2026-11-23T14:13:07.389991Z&av=75.1.3&mn=mac&dt=4&vr=103
@@ -11226,7 +11224,19 @@ https://relaxes.xyz:8443/live/tricia/jazz1956/5483.m3u8
 https://relaxes.xyz:8443/live/tricia/jazz1956/9280.m3u8
 #EXTINF:-1 tvg-id="animalplanet.ca" tvg-logo="https://relaxes.xyz:8443/images/94d444633e1a3c2b5a566695505e3280.png" group-title="Airtel Xtream", Animal planet
 https://relaxes.xyz:8443/live/tricia/jazz1956/429446.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-logo="https://relaxes.xyz:8443/images/94d444633e1a3c2b5a566695505e3280.png" group-title="Airtel Xtream", Runn Action
+https://ssai.adstudio.runn.media/manifest/live/runntv/runnactn/airtel/master.m3u8?ua=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/157.0.0.0%20Safari/537.36&ip=223.238.166.125&os=1&trq=2026-11-24T14:27:59.900771Z&av=75.1.3&mn=mac&dt=4&vr=103
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-logo="https://relaxes.xyz:8443/images/94d444633e1a3c2b5a566695505e3280.png" group-title="Airtel Xtream", Runn Thriller
+https://ssai.adstudio.runn.media/manifest/live/runntv/runthr/airtel/master.m3u8?ua=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/157.0.0.0%20Safari/537.36&ip=223.238.166.125&os=1&trq=2026-11-24T14:30:05.838454Z&av=75.1.3&mn=mac&dt=4&vr=103
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-logo="https://relaxes.xyz:8443/images/94d444633e1a3c2b5a566695505e3280.png" group-title="Airtel Xtream", All Time movie
+https://ssai.adstudio.runn.media/manifest/live/penmusic/altmov/airtel/master.m3u8?ua=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/157.0.0.0%20Safari/537.36&ip=223.238.166.125&os=1&trq=2026-11-24T14:32:51.727469Z&av=75.1.3&mn=mac&dt=4&vr=103
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-logo="https://relaxes.xyz:8443/images/94d444633e1a3c2b5a566695505e3280.png" group-title="Airtel Xtream", Eros Now movies
+https://ssai.adstudio.runn.media/manifest/live/eros/ersent/airtel/master.m3u8?ua=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/157.0.0.0%20Safari/537.36&ip=223.238.166.125&os=1&trq=2026-11-24T14:33:45.119204Z&av=75.1.3&mn=mac&dt=4&vr=103
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-logo="https://relaxes.xyz:8443/images/94d444633e1a3c2b5a566695505e3280.png" group-title="Airtel Xtream", ZooM
+https://times-live-airtel.vgcdn.net/zoom/index.m3u8?hdnts=st=1795533438~exp=1795555038~acl=!*/zoom/*!/payload/airtel_100_716855_xxxxxx_IN_35.244.8.22_timesplay_1_channel_26_-1/*~data=airtel_100_716855_xxxxxx_IN_35.244.8.22_timesplay_1_channel_26_-1~hmac=5e3f57d734bee244ffa0e7fc9e11b7e8e2eb388e011861476183e7027d1a9ed4
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-logo="https://relaxes.xyz:8443/images/94d444633e1a3c2b5a566695505e3280.png" group-title="Airtel Xtream", R.Public
+https://amg01218-amg01218c4-amgplt0857.playout.now3.amagi.tv/amg01218c4/hls.m3u8
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-logo="https://relaxes.xyz:8443/images/94d444633e1a3c2b5a566695505e3280.png" group-title="Airtel Xtream", TV9
+https://d23iqqcgt0ptnh.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/tv9_kannada/amg01106c5/hls.m3u8
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-logo="https://relaxes.xyz:8443/images/94d444633e1a3c2b5a566695505e3280.png" group-title="Airtel Xtream",Zee Comedy Nation
+https://amg00862-amg00862c5-amgplt0857.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg00862-amg00862c5-amgplt0857/y30-Gntzb4qTyj9sg6QR9dEHYoZfOoVhaKNelCOXG1PR6vaS50-5O1q9WqM-QDQNATbUHMB8Ed-jK_sIajhIN8KTogKH3UdVoqVeeTrMGQ457g8VvyRWTY6gWimVLbl8MhbqImdCfdjuXrN1VNWYcfMbVPexzT1gJg9P6AgOvv9Hs4y5HxqFOb6wGU-LL1vnnELZt03t0ZYCgUaFce8Xm4DkjdsW1oeXMq5K52xYW28syIYo3pAF7ojXb2-fKS0VGgG_8cb9FHHsJEdV_I2N1SH8QsjedYI4M_ZWnk7Rfd47-VjquRmlq_bZERZu9pICNXH5t_jQul9bvHbrnefcfnnrg34LZsB_zCcneKju3waBwhjWhi-ErTN3UqOdSI_v0emO4dcO9k_L1-SnP1dAZwgH9CvI7nrMPpN5odwHJFBVV7mIUMWLl1c-OCXs41raB2naserT7SRRpQiNhcUau3IrLqkdYnjsLIv1Vg6oFXpOsaCZIlGhUfW5VpXtu7dEU7GvWtTq7xPUXvKPyDjfEVsigNJmM2RfdNGhTQI8csJR5ekbgB0cLePtxPLMUndSd0cSRKbj5HmVms86FU2Beih0cRxXuwXVKfAzCThumE7s_VxL0k9hDPa3M1htaZTjuJXIg5kT-yyFj7USBw90T_FzCS9l1vaqXP4zRDc6fogda064SAsXvduZq8nOPo6vZaw5cB0skKNAD1oEAQxg_79bl2aQ9EzppJsJ87j3VS_jG6wOF5LVrgnZ_ZHLSnX9iV8LaJrWZ4gzAvRX7Gnv9nXLu0EJDDYiHJJuNVLjT2f85LLIuOqz70GQDCRUA20IdA/40/848x480_3420560/index.m3u8
